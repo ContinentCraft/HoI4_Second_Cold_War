@@ -1,0 +1,28 @@
+
+state={
+	id=1138
+	name="STATE_1138"
+
+	history={
+		owner = UZB
+		add_core_of = UZB
+		add_core_of = KKP
+		add_core_of = KHI
+		victory_points = {
+			10435 3 
+		}
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		10395 10435 12454 15301 
+	}
+	manpower=106745
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

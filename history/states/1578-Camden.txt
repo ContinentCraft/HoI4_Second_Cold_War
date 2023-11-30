@@ -1,0 +1,31 @@
+
+state={
+	id=1578
+	name="STATE_1578"
+
+	history={
+		owner = USA
+		victory_points = {
+			11740 2 
+		}
+		victory_points = {
+			11900 3 
+		}
+		buildings = {
+			infrastructure = 10
+			industrial_complex = 3
+			air_base = 3
+
+		}
+		add_core_of = USA
+
+	}
+
+	provinces={
+		11740 11900 17454 
+	}
+	manpower=1245671
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+	local_supplies=0.000
+}

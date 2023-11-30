@@ -1,0 +1,35 @@
+
+state={
+	id=527
+	name="STATE_527"
+	resources={
+		steel=15.000
+		tungsten=26.000
+	}
+
+	history={
+		owner = NOK
+		add_core_of = NOK
+		add_claim_by = KOR
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+
+		}
+		victory_points = {
+			4052 30 
+		}
+		victory_points = {
+			11835 1 
+		}
+
+	}
+
+	provinces={
+		978 3912 4052 7171 9790 10065 11770 15006 15020 15036 
+	}
+	manpower=5472200
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

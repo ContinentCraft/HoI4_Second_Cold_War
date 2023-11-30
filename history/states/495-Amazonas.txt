@@ -1,0 +1,29 @@
+
+state={
+	id=495
+	name="STATE_495"
+	resources={
+		aluminium=4.000
+	}
+
+	history={
+		owner = BRA
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = BRA
+		victory_points = {
+			10934 1 
+		}
+
+	}
+
+	provinces={
+		5095 5232 8185 8254 10934 12919 12965 15830 15831 15869 15871 15873 16127 17856 
+	}
+	manpower=3801100
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

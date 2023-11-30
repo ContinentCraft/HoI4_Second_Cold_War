@@ -1,0 +1,21 @@
+state={
+	id=1327
+	name="STATE_1327"
+
+	history={
+		owner = BOT
+		add_core_of = BOT
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		13919
+	}
+	manpower=41000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

@@ -1,0 +1,26 @@
+
+state={
+	id=1095
+	name="STATE_1095"
+
+	history={
+		owner = GRE
+		buildings = {
+			infrastructure = 2
+
+		}
+		victory_points = {
+			13560 1 
+		}
+		add_core_of = GRE
+
+	}
+
+	provinces={
+		13560 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

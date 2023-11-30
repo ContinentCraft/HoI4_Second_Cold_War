@@ -1,0 +1,29 @@
+
+state={
+	id=1259
+	name="STATE_1259"
+
+	history={
+		owner = PRC
+		add_core_of = PRC
+		add_claim_by = CHI
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 3
+
+		}
+		victory_points = {
+			12055 40 
+		}
+
+	}
+
+	provinces={
+		1029 7200 14720 14731 14741 14746 
+	}
+	manpower=2000100
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

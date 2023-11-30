@@ -1,0 +1,22 @@
+state={
+	id=1681
+	name="STATE_1681"
+
+	state_category=enclave
+
+	history = {
+		owner = RAJ
+		add_core_of = RAJ
+		add_core_of = PAK
+		buildings = {
+			infrastructure = 0
+		}
+	}
+
+	provinces={
+		14799 
+	}
+	manpower=5
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

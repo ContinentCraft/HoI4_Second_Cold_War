@@ -1,0 +1,26 @@
+
+state={
+	id=1039
+	name="STATE_1039"
+
+	history={
+		owner = FRA
+		victory_points = {
+			6529 3 
+		}
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = FRA
+
+	}
+
+	provinces={
+		6529 13367 
+	}
+	manpower=440203
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

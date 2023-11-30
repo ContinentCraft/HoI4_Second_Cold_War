@@ -1,0 +1,30 @@
+
+state={
+	id=281
+	name="STATE_281"
+
+	history={
+		owner = MLD
+		add_core_of = MLD
+		buildings = {
+			infrastructure = 3
+			4967 = {
+				naval_base = 2
+
+			}
+
+		}
+		victory_points = {
+			4967 3 
+		}
+
+	}
+
+	provinces={
+		4967 17264 17265 
+	}
+	manpower=279300
+	buildings_max_level_factor=1.000
+	state_category=enclave
+	local_supplies=0.000
+}

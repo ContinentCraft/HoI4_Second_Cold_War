@@ -1,0 +1,27 @@
+
+state={
+	id=150
+	name="STATE_150"
+	resources={
+		steel=3.000
+	}
+
+	history={
+		owner = FIN
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		add_core_of = FIN
+
+	}
+
+	provinces={
+		136 165 193 3013 3030 3068 3073 3125 3149 3185 6047 6134 6146 6156 6210 9056 9104 9233 11024 11043 11076 11141 11210 13104 13109 13110 13111 13112 13114 13115 13118 
+	}
+	manpower=611100
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

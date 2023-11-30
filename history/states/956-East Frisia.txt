@@ -1,0 +1,21 @@
+state={
+	id=956
+	name="STATE_956"
+
+	history={
+		owner = GER
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = GER
+
+	}
+
+	provinces={
+		9281 11264 11360
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

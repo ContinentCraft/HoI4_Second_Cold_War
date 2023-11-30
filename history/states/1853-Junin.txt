@@ -1,0 +1,22 @@
+state={
+	id=1853
+	name="STATE_1853"
+
+	history={
+		owner = PRU
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = PRU
+
+	}
+
+	provinces={
+		2162 15919 15920 15923 15925 15928 
+	}
+	manpower=2000000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

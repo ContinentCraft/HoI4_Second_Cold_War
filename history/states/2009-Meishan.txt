@@ -1,0 +1,23 @@
+state={
+	id=2009
+	name="STATE_2009"
+
+	history={
+		owner = PRC
+		add_core_of = PRC
+		add_claim_by = CHI
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		4375 10841 14460 14461 14471 14483 
+	}
+	manpower=1500000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

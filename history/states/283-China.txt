@@ -1,0 +1,28 @@
+
+state={
+	id=283
+	name="STATE_283"
+	resources={
+		tungsten=1.000
+	}
+
+	history={
+		owner = PRC
+		add_core_of = PRC
+		add_claim_by = CHI
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		6638 14847 14848 14883 
+	}
+	manpower=3705400
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

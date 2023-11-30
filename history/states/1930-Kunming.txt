@@ -1,0 +1,23 @@
+state={
+	id=1930
+	name="STATE_1930"
+
+	history={
+		owner = PRC
+		add_core_of = PRC
+		add_claim_by = CHI
+		buildings = {
+			infrastructure = 4
+
+		}
+
+	}
+
+	provinces={
+		1383 7446 7606 8023 10346 12282 14207 14232 14235 14245 14261 
+	}
+	manpower=7000000
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

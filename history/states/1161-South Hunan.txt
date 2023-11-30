@@ -1,0 +1,31 @@
+
+state={
+	id=1161
+	name="STATE_1161"
+	resources={
+		tungsten=5.000
+		steel=5.000
+		chromium=1.000
+	}
+
+	history={
+		owner = PRC
+		add_core_of = PRC
+		add_claim_by = CHI
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+
+		}
+
+	}
+
+	provinces={
+		1120 9970 9997 10080 12014 14230 14254 14262 
+	}
+	manpower=2540000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

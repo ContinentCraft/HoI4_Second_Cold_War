@@ -1,0 +1,26 @@
+
+state={
+	id=340
+	name="STATE_340"
+	resources={
+		chromium=39.000
+	}
+
+	history={
+		owner = TUR
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = TUR
+
+	}
+
+	provinces={
+		947 6912 9799 11867 15078 
+	}
+	manpower=131648
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

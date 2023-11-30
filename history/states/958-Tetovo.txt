@@ -1,0 +1,26 @@
+
+state={
+	id=958
+	name="STATE_958"
+
+	history={
+		owner = MAC
+		add_core_of = MAC
+		victory_points = {
+			867 1 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		867 
+	}
+	manpower=50000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

@@ -1,0 +1,27 @@
+
+state={
+	id=707
+	name="STATE_707"
+
+	history={
+		owner = ENG
+		add_core_of = MAU
+		buildings = {
+			infrastructure = 3
+			13018 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		13018 17259 17260 
+	}
+	manpower=404458
+	buildings_max_level_factor=1.000
+	state_category=small_island
+	local_supplies=0.000
+}

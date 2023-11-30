@@ -1,0 +1,30 @@
+
+state={
+	id=1054
+	name="STATE_1054"
+
+	history={
+		owner = KOR
+		add_core_of = KOR
+		add_claim_by = NOK
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+			4126 1 
+		}
+		victory_points = {
+			10110 3 
+		}
+
+	}
+
+	provinces={
+		4126 10110 11948 14773 14789 
+	}
+	manpower=1601000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

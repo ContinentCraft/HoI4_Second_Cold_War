@@ -1,0 +1,33 @@
+
+state={
+	id=1372
+	name="STATE_1372"
+	resources={
+		steel=2.000
+		tungsten=2.000
+	}
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = USA
+		victory_points = {
+			9695 1 
+		}
+		victory_points = {
+			12535 1 
+		}
+
+	}
+
+	provinces={
+		6145 9695 12535 12607 17787 17788 17791 
+	}
+	manpower=12920
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

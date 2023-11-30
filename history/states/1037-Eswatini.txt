@@ -1,0 +1,26 @@
+
+state={
+	id=1037
+	name="STATE_1037"
+
+	history={
+		owner = ESW
+		add_core_of = ESW
+		buildings = {
+			infrastructure = 1
+
+		}
+		victory_points = {
+			7900 3 
+		}
+
+	}
+
+	provinces={
+		3106 7900 9191 
+	}
+	manpower=240012
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

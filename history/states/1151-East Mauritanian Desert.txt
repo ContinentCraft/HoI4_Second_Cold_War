@@ -1,0 +1,25 @@
+
+state={
+	id=1151
+	name="STATE_1151"
+
+	impassable=yes
+
+	history={
+		owner = MRT
+		add_core_of = MRT
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+
+	provinces={
+		13359 13360 
+	}
+	manpower=21600
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

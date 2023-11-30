@@ -1,0 +1,24 @@
+state={
+	id=1678
+	name="STATE_1678"
+
+	state_category=enclave
+
+	history = {
+		owner = PRC
+		add_core_of = PRC
+		add_core_of = TIB
+		add_core_of = BHU
+		add_claim_by = CHI
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		14374 
+	}
+	manpower=10
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

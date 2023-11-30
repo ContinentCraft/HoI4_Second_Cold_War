@@ -1,0 +1,24 @@
+
+state={
+	id=1320
+	name="STATE_1320"
+
+	history={
+		owner = ZAM
+		add_core_of = ZAM
+		add_core_of = BAR
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		30 697 3110 3344 3378 6247 6292 7872 9163 11041 11079 11146 11191 12677 
+	}
+	manpower=125042
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

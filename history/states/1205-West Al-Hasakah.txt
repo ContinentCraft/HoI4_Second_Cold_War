@@ -1,0 +1,26 @@
+
+state={
+	id=1205
+	name="STATE_1205"
+
+	history={
+		owner = SYR
+		add_core_of = SYR
+		victory_points = {
+			1606 1 
+		}
+		buildings = {
+			infrastructure = 4
+
+		}
+
+	}
+
+	provinces={
+		1578 1606 6883 13443 14875 
+	}
+	manpower=450500
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

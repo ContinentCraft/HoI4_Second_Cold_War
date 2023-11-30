@@ -1,0 +1,25 @@
+
+state={
+	id=1324
+	name="STATE_1324"
+
+	impassable=yes
+
+	history={
+		owner = BRA
+		buildings = {
+			infrastructure = 0
+
+		}
+		add_core_of = BRA
+
+	}
+
+	provinces={
+		2198 5083 5657 13483 15968 
+	}
+	manpower=52
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

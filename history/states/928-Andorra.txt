@@ -1,0 +1,27 @@
+
+state={
+	id=928
+	name="STATE_928"
+
+	history={
+		owner = ADR
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			13308 3 
+		}
+		add_core_of = ADR
+
+	}
+
+	provinces={
+		13308 
+	}
+	manpower=32012
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

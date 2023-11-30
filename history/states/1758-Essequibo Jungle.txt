@@ -1,0 +1,21 @@
+state={
+	id=1758
+	name="STATE_1758"
+
+	history = {
+		owner = GYA
+		add_core_of = GYA
+		add_claim_by = VEN
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces={
+		15882 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category=enclave
+	local_supplies=0.000
+}

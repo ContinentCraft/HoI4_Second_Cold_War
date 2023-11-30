@@ -1,0 +1,31 @@
+
+state={
+	id=1299
+	name="STATE_1299"
+	resources={
+		oil=35.000
+	}
+
+	history={
+		owner = AZR
+		add_core_of = AZR
+		victory_points = {
+			7661 15 
+		}
+		buildings = {
+			infrastructure = 4
+			fuel_silo = 1
+			air_base = 1
+
+		}
+
+	}
+
+	provinces={
+		7661 15084 
+	}
+	manpower=787623
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

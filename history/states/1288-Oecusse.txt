@@ -1,0 +1,22 @@
+state={
+	id=1288
+	name="STATE_1288"
+	
+	history={
+		add_core_of = ETM
+		owner = POR
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+	
+	provinces={
+		12206
+	}
+	manpower=40000
+	buildings_max_level_factor=1.000
+	state_category=enclave
+}
+

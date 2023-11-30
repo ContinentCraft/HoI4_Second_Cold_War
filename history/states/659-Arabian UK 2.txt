@@ -1,0 +1,32 @@
+
+state={
+	id=659
+	name="STATE_659"
+
+	history={
+		owner = YEM
+		add_core_of = YEM
+		add_core_of = SYE
+		victory_points = {
+			5074 1 
+		}
+		buildings = {
+			infrastructure = 3
+			air_base = 4
+			5074 = {
+				naval_base = 3
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		5074 14075 14077 14078 14079 14082 
+	}
+	manpower=851302
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

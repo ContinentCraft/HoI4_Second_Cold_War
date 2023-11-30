@@ -1,0 +1,23 @@
+
+state={
+	id=1195
+	name="STATE_1195"
+
+	history={
+		owner = IRQ
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = IRQ
+
+	}
+
+	provinces={
+		1600 1938 3795 12372 13440 14685 14698 14712 14722 14748 14755 14780 14795 
+	}
+	manpower=166741
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

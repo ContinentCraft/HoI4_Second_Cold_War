@@ -1,0 +1,27 @@
+
+state={
+	id=1340
+	name="STATE_1340"
+
+	history={
+		owner = EQG
+		add_core_of = EQG
+		buildings = {
+			infrastructure = 1
+			8244 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		3048 8244 
+	}
+	manpower=2000
+	buildings_max_level_factor=1.000
+	state_category=enclave
+	local_supplies=0.000
+}

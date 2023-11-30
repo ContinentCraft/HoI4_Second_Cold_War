@@ -1,0 +1,30 @@
+state={
+	id=1182
+	name="STATE_1182"
+	
+	history={
+		owner = GEO
+		add_core_of = GEO
+		victory_points = {
+			3653 1 
+		}
+		buildings = {
+			infrastructure = 3
+			air_base = 3
+			3653 = {
+				naval_base = 2
+				coastal_bunker = 1
+
+			}
+
+		}
+
+
+	}
+	provinces={
+		3653 
+	}
+	manpower=247211
+	buildings_max_level_factor=1.000
+	state_category=town
+}

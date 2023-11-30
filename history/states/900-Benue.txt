@@ -1,0 +1,23 @@
+
+state={
+	id=900
+	name="STATE_900"
+
+	history={
+		owner = NGA
+		add_core_of = NGA
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		245 1992 2660 4889 8021 8812 10820 18190 18194 18195 18196 18200 18201 18203 18204 18205 18208 18211 
+	}
+	manpower=1163674
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

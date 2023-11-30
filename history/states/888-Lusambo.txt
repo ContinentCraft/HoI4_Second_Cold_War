@@ -1,0 +1,23 @@
+
+state={
+	id=888
+	name="STATE_888"
+
+	history={
+		owner = COG
+		add_core_of = COG
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		334 395 537 727 797 1731 2024 3281 3434 3438 4128 6309 6483 6580 7041 7694 7716 8016 9334 9387 9520 9566 9986 10858 11260 11302 11343 11411 11528 11869 13330 13530 13675 13682 13880 13890 13893 
+	}
+	manpower=885237
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

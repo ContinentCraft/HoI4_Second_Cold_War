@@ -1,0 +1,33 @@
+
+state={
+	id=1520
+	name="STATE_1520"
+	resources={
+		chromium=1.000
+	}
+
+	history={
+		owner = GUA
+		buildings = {
+			infrastructure = 6
+			13085 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = GUA
+		victory_points = {
+			13085 5 
+		}
+
+	}
+
+	provinces={
+		3859 9778 13085 17593 
+	}
+	manpower=179782
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -1,0 +1,19 @@
+state={
+    id=1577
+    name="STATE_1577"
+    manpower = 10000
+
+    state_category = rural
+
+    history={
+		owner = ERI
+		add_core_of = ERI
+		buildings = {
+			infrastructure = 3
+		}
+
+    }
+    provinces={
+        13325
+    }
+}

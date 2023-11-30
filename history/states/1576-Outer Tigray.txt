@@ -1,0 +1,27 @@
+
+state={
+	id=1576
+	name="STATE_1576"
+
+	history={
+		owner = ETH
+		add_core_of = ETH
+		add_core_of = TIG
+		buildings = {
+			infrastructure = 1
+
+		}
+		victory_points = {
+			3910 1 
+		}
+
+	}
+
+	provinces={
+		1984 3910 14021 
+	}
+	manpower=275000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

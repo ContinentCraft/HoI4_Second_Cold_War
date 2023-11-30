@@ -1,0 +1,26 @@
+
+state={
+	id=1155
+	name="STATE_1155"
+
+	history={
+		owner = SSU
+		add_core_of = SSU
+		victory_points = {
+			4033 1 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		4033 6063 9093 9181 10857 18217 
+	}
+	manpower=721239
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

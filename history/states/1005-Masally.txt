@@ -1,0 +1,23 @@
+
+state={
+	id=1005
+	name="STATE_1005"
+
+	history={
+		owner = AZR
+		add_core_of = AZR
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		4473 12434 15030 15041 
+	}
+	manpower=31020
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

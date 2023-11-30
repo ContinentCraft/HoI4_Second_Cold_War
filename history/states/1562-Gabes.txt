@@ -1,0 +1,26 @@
+
+state={
+	id=1562
+	name="STATE_1562"
+
+	history={
+		owner = TUN
+		add_core_of = TUN
+		buildings = {
+			infrastructure = 2
+
+		}
+		victory_points = {
+			7005 1 
+		}
+
+	}
+
+	provinces={
+		7005 11957 17948 17956 17961 
+	}
+	manpower=76000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

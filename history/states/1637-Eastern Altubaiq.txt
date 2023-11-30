@@ -1,0 +1,23 @@
+
+state = {
+    id=1637
+    name="STATE_1637"
+
+    history={
+        owner = JOR
+		add_core_of = JOR
+		add_core_of = JBS
+		buildings = {
+			infrastructure = 1
+
+		}
+
+    }
+
+    provinces={
+        14500
+    }
+    manpower=10000
+	buildings_max_level_factor=1.000
+	state_category=enclave
+}

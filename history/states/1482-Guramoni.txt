@@ -1,0 +1,21 @@
+
+state={
+	id=1482
+	name="STATE_1482"
+	manpower = 7021
+	
+	state_category = enclave
+
+	history={
+		owner = VEN
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = VEN
+	}
+
+	provinces={
+		8050
+	}
+}

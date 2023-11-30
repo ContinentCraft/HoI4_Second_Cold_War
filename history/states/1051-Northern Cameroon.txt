@@ -1,0 +1,23 @@
+
+state={
+	id=1051
+	name="STATE_1051"
+
+	history={
+		owner = NGA
+		add_core_of = NGA
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		7978 11895 13274 18187 18219 
+	}
+	manpower=1130000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

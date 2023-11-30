@@ -1,0 +1,49 @@
+
+state={
+	id=596
+	name="STATE_596"
+
+	history={
+		owner = PRC
+		add_core_of = PRC
+		add_claim_by = CHI
+		victory_points = {
+			7191 150 
+		}
+		victory_points = {
+			1055 10 
+		}
+		victory_points = {
+			1168 15 
+		}
+		buildings = {
+			infrastructure = 4
+			7191 = {
+				naval_base = 1
+				coastal_bunker = 1
+				bunker = 1
+
+			}
+			9974 = {
+				naval_base = 3
+
+			}
+			1055 = {
+				naval_base = 3
+				coastal_bunker = 1
+				bunker = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		7191 10014 10101 
+	}
+	manpower=21230700
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

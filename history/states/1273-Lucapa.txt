@@ -1,0 +1,23 @@
+
+state={
+	id=1273
+	name="STATE_1273"
+
+	history={
+		owner = ANG
+		add_core_of = ANG
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		79 3072 6139 7548 8693 9234 11259 13859 
+	}
+	manpower=354787
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

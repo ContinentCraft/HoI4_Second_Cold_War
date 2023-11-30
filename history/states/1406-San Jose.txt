@@ -1,0 +1,35 @@
+
+state={
+	id=1406
+	name="STATE_1406"
+	resources={
+		oil=20.000
+		aluminium=3.000
+	}
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 7
+			9671 = {
+				naval_base = 4
+
+			}
+
+		}
+		add_core_of = USA
+		add_core_of = CAL
+		victory_points = {
+			9671 5 
+		}
+
+	}
+
+	provinces={
+		3677 3678 17739 17740 17746 17747 17749 17751 
+	}
+	manpower=95391
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

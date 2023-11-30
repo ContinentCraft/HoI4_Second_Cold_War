@@ -1,0 +1,28 @@
+state={
+	id=1087
+	name="STATE_1087"
+
+	history={
+		owner = ROM
+		add_core_of = ROM
+		buildings = {
+			infrastructure = 3
+			657 = {
+				naval_base = 8
+
+			}
+			687 = {
+				naval_base = 1
+
+			}
+
+		}
+	}
+
+	provinces={
+		657 687 3076 6677 9635 13311 
+	}
+	manpower=510040
+	buildings_max_level_factor=1.000
+	state_category=town
+}

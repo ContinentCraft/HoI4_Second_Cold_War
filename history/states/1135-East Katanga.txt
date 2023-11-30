@@ -1,0 +1,24 @@
+
+state={
+	id=1135
+	name="STATE_1135"
+
+	history={
+		owner = COG
+		add_core_of = COG
+		add_core_of = KTG
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		37 207 354 1817 4515 6082 6669 9242 11437 11459 13102 13108 13173 13922 
+	}
+	manpower=310010
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

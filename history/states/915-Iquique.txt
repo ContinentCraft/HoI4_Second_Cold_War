@@ -1,0 +1,23 @@
+
+state={
+	id=915
+	name="STATE_915"
+
+	history={
+		owner = CHL
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = CHL
+
+	}
+
+	provinces={
+		5131 15494 15500 15510 
+	}
+	manpower=401003
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

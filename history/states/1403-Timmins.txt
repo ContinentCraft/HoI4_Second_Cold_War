@@ -1,0 +1,30 @@
+
+state={
+	id=1403
+	name="STATE_1403"
+	resources={
+		steel=2.000
+		aluminium=3.000
+	}
+
+	history={
+		owner = CAN
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = CAN
+		victory_points = {
+			4869 1 
+		}
+
+	}
+
+	provinces={
+		1299 1769 1782 2988 4784 4869 4875 5321 7499 7794 9740 10621 10718 12701 13094 
+	}
+	manpower=17020
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

@@ -1,0 +1,24 @@
+
+state={
+	id=516
+	name="STATE_516"
+
+	history={
+		owner = SOV
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = SOV
+		add_core_of = SIB
+
+	}
+
+	provinces={
+		2923 2972 4692 4859 11122 11261 13060 
+	}
+	manpower=35948
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

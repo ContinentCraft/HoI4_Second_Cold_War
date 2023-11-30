@@ -1,0 +1,26 @@
+
+state={
+	id=1296
+	name="STATE_1296"
+
+	history={
+		owner = BRA
+		buildings = {
+			infrastructure = 2
+
+		}
+		victory_points = {
+			12466 5 
+		}
+		add_core_of = BRA
+
+	}
+
+	provinces={
+		12466 15393 15398 
+	}
+	manpower=117325
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

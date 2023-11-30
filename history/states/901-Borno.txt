@@ -1,0 +1,23 @@
+
+state={
+	id=901
+	name="STATE_901"
+
+	history={
+		owner = NGA
+		add_core_of = NGA
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		1264 4938 4972 4997 5028 5458 6771 8109 18216 18223 18224 18227 18230 18232 18235 18237 18240 18241 18242 18245 18246 18247 18249 18251 18256 18257 18258 18259 18260 18262 18264 
+	}
+	manpower=166240
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

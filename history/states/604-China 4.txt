@@ -1,0 +1,26 @@
+
+state={
+	id=604
+	name="STATE_604"
+
+	history={
+		owner = PRC
+		add_core_of = PRC
+		add_claim_by = CHI
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 3
+			arms_factory = 1
+
+		}
+
+	}
+
+	provinces={
+		4914 7940 8037 12899 14650 14770 14813 14842 
+	}
+	manpower=1196100
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

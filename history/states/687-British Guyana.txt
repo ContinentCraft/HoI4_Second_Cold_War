@@ -1,0 +1,33 @@
+
+state={
+	id=687
+	name="STATE_687"
+	resources={
+		aluminium=60.000
+	}
+
+	history={
+		owner = GYA
+		add_core_of = GYA
+		victory_points = {
+			4982 1 
+		}
+		buildings = {
+			infrastructure = 2
+			4982 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		4982 15888 
+	}
+	manpower=402279
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

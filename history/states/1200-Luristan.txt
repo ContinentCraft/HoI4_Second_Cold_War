@@ -1,0 +1,23 @@
+
+state={
+	id=1200
+	name="STATE_1200"
+
+	history={
+		owner = PER
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = PER
+
+	}
+
+	provinces={
+		1922 13512 14581 14647 
+	}
+	manpower=234156
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

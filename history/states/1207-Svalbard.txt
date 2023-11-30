@@ -1,0 +1,33 @@
+
+state={
+	id=1207
+	name="STATE_1207"
+	resources={
+		steel=3.000
+	}
+
+	history={
+		owner = NOR
+		buildings = {
+			infrastructure = 2
+			13538 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			13538 1 
+		}
+		add_core_of = NOR
+
+	}
+
+	provinces={
+		8988 13538 
+	}
+	manpower=1900
+	buildings_max_level_factor=2.000
+	state_category=wasteland
+	local_supplies=0.000
+}

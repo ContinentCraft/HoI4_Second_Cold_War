@@ -1,0 +1,23 @@
+state={
+	id=1957
+	name="STATE_1957"
+
+	history={
+		owner = PRC
+		add_core_of = PRC
+		add_core_of = MAN
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		887 916 4642 11808 15145 15161 
+	}
+	manpower=2000000
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

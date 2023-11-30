@@ -1,0 +1,23 @@
+
+state={
+	id=1275
+	name="STATE_1275"
+
+	history={
+		owner = CAN
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = CAN
+
+	}
+
+	provinces={
+		4877 6447 7820 12578 17822 
+	}
+	manpower=13092
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

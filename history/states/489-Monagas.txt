@@ -1,0 +1,43 @@
+
+state={
+	id=489
+	name="STATE_489"
+	resources={
+		oil=30.000
+	}
+
+	history={
+		owner = VEN
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			4526 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = VEN
+		victory_points = {
+			10855 10 
+		}
+		victory_points = {
+			1997 3 
+		}
+		victory_points = {
+			5088 1 
+		}
+		victory_points = {
+			4526 1 
+		}
+
+	}
+
+	provinces={
+		16076 16082 16083 16093 
+	}
+	manpower=1511373
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

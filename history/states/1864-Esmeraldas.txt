@@ -1,0 +1,22 @@
+state={
+	id=1864
+	name="STATE_1864"
+
+	history={
+		owner = ECU
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = ECU
+
+	}
+
+	provinces={
+		8047 15976 15979 15986 15993 15999 
+	}
+	manpower=300000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

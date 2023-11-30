@@ -1,0 +1,27 @@
+
+state={
+	id=799
+	name="STATE_799"
+
+	history={
+		owner = TUR
+		add_core_of = TUR
+		add_claim_by = SYR
+		victory_points = {
+			12029 1 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		12029 14850 
+	}
+	manpower=234379
+	buildings_max_level_factor=1.000
+	state_category=enclave
+	local_supplies=0.000
+}

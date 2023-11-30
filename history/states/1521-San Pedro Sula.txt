@@ -1,0 +1,31 @@
+
+state={
+	id=1521
+	name="STATE_1521"
+
+	history={
+		owner = HON
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			8017 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = HON
+		victory_points = {
+			8017 10 
+		}
+
+	}
+
+	provinces={
+		8017 11812 17586 17590 17594 
+	}
+	manpower=273107
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

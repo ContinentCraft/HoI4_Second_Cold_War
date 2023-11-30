@@ -1,0 +1,24 @@
+
+state={
+	id=1540
+	name="STATE_1540"
+
+	history={
+		owner = PAR
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = PAR
+		add_claim_by = BOL
+
+	}
+
+	provinces={
+		1897 15739 15743 
+	}
+	manpower=11475
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

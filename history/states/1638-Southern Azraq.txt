@@ -1,0 +1,22 @@
+
+state = {
+    id=1638
+    name="STATE_1638"
+
+    history={
+        owner = SAU
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = SAU
+
+    }
+
+    provinces={
+        13509
+    }
+    manpower=5000
+	buildings_max_level_factor=1.000
+	state_category=enclave
+}

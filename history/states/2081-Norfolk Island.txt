@@ -1,0 +1,19 @@
+state={
+	id=2081
+	name="STATE_2081"
+
+	history={
+		owner = AST
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces={
+		18269 
+	}
+	manpower=2180
+	buildings_max_level_factor=1.000
+	state_category=tiny_island
+	local_supplies=0.000
+}

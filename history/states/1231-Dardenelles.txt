@@ -1,0 +1,24 @@
+state={
+	id=1231
+	name="STATE_1231"
+	
+	history={
+		owner = TUR
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+			6864 1 
+		}
+		add_core_of = TUR
+	}
+	
+	provinces={
+		6864 9887 
+	}
+	manpower=564589
+	buildings_max_level_factor=1.000
+	state_category=enclave
+}
+

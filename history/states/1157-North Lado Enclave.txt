@@ -1,0 +1,26 @@
+
+state={
+	id=1157
+	name="STATE_1157"
+
+	history={
+		victory_points = {
+			13372 1 
+		}
+		owner = SSU
+		add_core_of = SSU
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		148 6206 9178 13372 
+	}
+	manpower=191054
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

@@ -1,0 +1,47 @@
+
+state={
+	id=988
+	name="STATE_988"
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			6785 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = USA
+		add_core_of = TEX
+		victory_points = {
+			12782 3 
+		}
+		victory_points = {
+			4955 1 
+		}
+		victory_points = {
+			12369 1 
+		}
+		victory_points = {
+			6785 1 
+		}
+		victory_points = {
+			8064 1 
+		}
+		victory_points = {
+			5061 1 
+		}
+
+	}
+
+	provinces={
+		1927 2019 2042 4884 4955 5061 6785 6798 6987 8064 12369 12728 12782 13744 17269 17270 17271 17275 17280 17281 17282 17285 17287 17288 17289 17292 17293 17301 17303 17305 17308 17321 
+	}
+	manpower=1002918
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

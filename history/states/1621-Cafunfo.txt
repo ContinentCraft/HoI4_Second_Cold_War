@@ -1,0 +1,26 @@
+
+state={
+	id=1621
+	name="STATE_1621"
+
+	history={
+		owner = ANG
+		add_core_of = ANG
+		buildings = {
+			infrastructure = 1
+
+		}
+		victory_points = {
+			5914 1 
+		}
+
+	}
+
+	provinces={
+		5914 11062 
+	}
+	manpower=32145
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

@@ -1,0 +1,23 @@
+
+state={
+	id=1419
+	name="STATE_1419"
+
+	history={
+		owner = BAN
+		add_core_of = BAN
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		2843 4162 4616 7078 7124 7662 9935 10035 10389 10443 11911 16830 16831 16832 16835 16836 16838 16839 16840 16844 16847 16853 16857 16862 16865 16868 16870 16877 
+	}
+	manpower=12789320
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

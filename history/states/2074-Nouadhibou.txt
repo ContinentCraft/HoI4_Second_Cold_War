@@ -1,0 +1,25 @@
+state={
+	id=2074
+	name="STATE_2074"
+
+	history={
+		owner = MRT
+		add_core_of = MRT
+		victory_points = {
+			7992 3 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		7992 
+	}
+	manpower=144217
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

@@ -1,0 +1,22 @@
+state={
+	id=1724
+	name="STATE_1724"
+
+	history={
+		owner = KOS
+		add_core_of = KOS
+		add_core_of = SER
+		buildings = {
+			infrastructure = 2
+		}
+
+	}
+
+	provinces={
+		13992 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	state_category=enclave
+	local_supplies=0.000
+}

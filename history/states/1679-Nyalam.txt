@@ -1,0 +1,22 @@
+state={
+	id=1679
+	name="STATE_1679"
+
+	state_category=enclave
+
+	history = {
+		owner = PRC
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = PRC
+		add_core_of = TIB
+	}
+
+	provinces={
+		14370 
+	}
+	manpower=5000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

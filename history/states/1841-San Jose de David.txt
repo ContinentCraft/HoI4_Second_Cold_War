@@ -1,0 +1,20 @@
+state={
+	id=1841
+	name="STATE_1841"
+
+	history={
+		owner = PAN
+		add_core_of = PAN
+		buildings={
+			infrastructure=2
+		}
+	}
+	
+	provinces={
+		4611 17566 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

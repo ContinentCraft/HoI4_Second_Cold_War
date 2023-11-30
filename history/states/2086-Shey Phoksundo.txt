@@ -1,0 +1,20 @@
+state={
+	id=2086
+	name="STATE_2086"
+
+	history={
+		owner = NEP
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = NEP
+	}
+
+	provinces={
+		14403 14419 
+	}
+	manpower=37742
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

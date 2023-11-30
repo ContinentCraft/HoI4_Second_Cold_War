@@ -1,0 +1,23 @@
+
+state={
+	id=1722
+	name="STATE_1722"
+
+	history={
+		owner = SER
+		add_core_of = SER
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		3922 
+	}
+	manpower=80000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

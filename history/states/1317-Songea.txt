@@ -1,0 +1,23 @@
+
+state={
+	id=1317
+	name="STATE_1317"
+
+	history={
+		owner = TZN
+		add_core_of = TZN
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		233 3354 3390 3497 3525 3597 6144 6220 6332 8182 8201 9061 9240 9295 9323 9382 10845 11057 11358 11398 12944 12967 13629 
+	}
+	manpower=886700
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

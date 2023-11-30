@@ -1,0 +1,23 @@
+
+state={
+	id=515
+	name="STATE_515"
+
+	history={
+		owner = NGR
+		add_core_of = NGR
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		769 1956 3948 4913 6759 7939 9047 9728 9977 10917 
+	}
+	manpower=1456356
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

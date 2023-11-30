@@ -1,0 +1,23 @@
+state={
+	id=1799
+	name="STATE_1799"
+
+	impassable=yes
+
+	history={
+		owner = PAN
+		add_core_of = PAN
+		buildings={
+			infrastructure=0
+		}
+	}
+	
+
+	provinces={
+		10482 
+	}
+	manpower=10000
+	buildings_max_level_factor=1.000
+	state_category=enclave
+	local_supplies=0.000
+}

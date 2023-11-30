@@ -1,0 +1,37 @@
+
+state={
+	id=511
+	name="STATE_511"
+
+	history={
+		owner = ARG
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			air_base = 1
+
+		}
+		victory_points = {
+			10992 10 
+		}
+		victory_points = {
+			11021 5 
+		}
+		victory_points = {
+			12970 3 
+		}
+		victory_points = {
+			10964 3 
+		}
+		add_core_of = ARG
+
+	}
+
+	provinces={
+		2215 8215 10992 11021 15597 15603 15607 15613 15616 15619 15625 15635 15637 15642 15656 
+	}
+	manpower=2090274
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

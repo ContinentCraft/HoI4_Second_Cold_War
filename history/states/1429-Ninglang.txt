@@ -1,0 +1,25 @@
+
+state={
+	id=1429
+	name="STATE_1429"
+
+	history={
+		owner = PRC
+		add_core_of = PRC
+		add_core_of = YUN
+		add_claim_by = CHI
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		4937 14300 14325 14330 
+	}
+	manpower=340000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

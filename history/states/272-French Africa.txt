@@ -1,0 +1,34 @@
+
+state={
+	id=272
+	name="STATE_272"
+	resources={
+		steel=3.000
+	}
+
+	history={
+		owner = SEN
+		add_core_of = SEN
+		victory_points = {
+			4948 5 
+		}
+		buildings = {
+			infrastructure = 3
+			air_base = 4
+			4948 = {
+				naval_base = 3
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		2100 4948 7972 8015 12710 18151 18153 18154 18155 18156 18157 18158 18159 18160 18161 18163 18165 18169 18170 
+	}
+	manpower=1638000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

@@ -1,0 +1,22 @@
+state={
+	id=1882
+	name="STATE_1882"
+
+	history={
+		owner = BOL
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = BOL
+
+	}
+
+	provinces={
+		5179 15750 15751 15752 15892 
+	}
+	manpower=700000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

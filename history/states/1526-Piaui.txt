@@ -1,0 +1,29 @@
+
+state={
+	id=1526
+	name="STATE_1526"
+	resources={
+		rubber=4.000
+	}
+
+	history={
+		owner = BRA
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = BRA
+		victory_points = {
+			2228 1 
+		}
+
+	}
+
+	provinces={
+		2228 5153 15839 15856 15861 
+	}
+	manpower=2674312
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

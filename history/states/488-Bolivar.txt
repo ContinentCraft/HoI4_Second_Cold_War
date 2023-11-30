@@ -1,0 +1,26 @@
+
+state={
+	id=488
+	name="STATE_488"
+
+	history={
+		owner = VEN
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = VEN
+		victory_points = {
+			10879 1 
+		}
+
+	}
+
+	provinces={
+		10736 10849 10879 16039 16058 16066 
+	}
+	manpower=233642
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

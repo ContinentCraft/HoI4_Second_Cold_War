@@ -1,0 +1,29 @@
+
+state={
+	id=660
+	name="STATE_660"
+	resources={
+		rubber=3.000
+	}
+
+	history={
+		owner = CAR
+		add_core_of = CAR
+		victory_points = {
+			12830 1 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		89 381 1974 3154 3165 5084 6051 6193 6615 8078 9131 11108 11143 12719 12830 13738 
+	}
+	manpower=1104421
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

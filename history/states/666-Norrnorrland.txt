@@ -1,0 +1,39 @@
+
+state={
+	id=666
+	name="STATE_666"
+	resources={
+		tungsten=40.000
+		steel=50.000
+		chromium=25.000
+	}
+
+	history={
+		owner = SWE
+		victory_points = {
+			9108 3 
+		}
+		victory_points = {
+			3095 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			9108 = {
+				naval_base = 2
+
+			}
+
+		}
+		add_core_of = SWE
+
+	}
+
+	provinces={
+		3054 3095 3104 6055 6074 6125 6155 6165 9108 9226 11073 11102 11208 13119 
+	}
+	manpower=405327
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

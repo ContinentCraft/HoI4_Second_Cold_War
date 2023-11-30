@@ -1,0 +1,23 @@
+state={
+	id=1502
+	name="STATE_1502"
+	
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = USA
+		victory_points = {
+			1851 1 
+		}
+	}
+	
+	provinces={
+		1767 1851 7760 10587 
+	}
+	manpower=17598
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

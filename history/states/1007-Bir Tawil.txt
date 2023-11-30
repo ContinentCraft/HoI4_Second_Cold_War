@@ -1,0 +1,22 @@
+state={
+	id=1007
+	name="STATE_1007"
+
+	impassable = yes
+
+	history = {
+		owner = SUD
+		add_claim_by = SUD
+		add_claim_by = EGY
+		buildings = {
+			infrastructure = 0
+		}
+	}
+
+	provinces={
+		13259 
+	}
+	manpower=2
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+}

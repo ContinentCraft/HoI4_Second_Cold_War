@@ -1,0 +1,26 @@
+
+state={
+	id=953
+	name="STATE_953"
+
+	history={
+		owner = TUR
+		victory_points = {
+			3951 1 
+		}
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = TUR
+
+	}
+
+	provinces={
+		909 3907 3951 6808 6877 9811 9901 11792 
+	}
+	manpower=140024
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

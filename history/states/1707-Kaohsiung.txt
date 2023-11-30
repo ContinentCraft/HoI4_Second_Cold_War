@@ -1,0 +1,28 @@
+state={
+	id=1707
+	name="STATE_1707"
+
+	history={
+		owner = CHI
+		add_core_of = CHI
+		add_claim_by = PRC
+		buildings = {
+			infrastructure = 5
+			air_base = 6
+			12068 = {
+				naval_base = 9
+			}
+		}
+		victory_points = {
+			12068 30 
+		}
+	}
+
+	provinces={
+		11914 12068 14168 
+	}
+	manpower=3000000
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

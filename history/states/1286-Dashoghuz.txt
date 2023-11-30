@@ -1,0 +1,27 @@
+
+state={
+	id=1286
+	name="STATE_1286"
+
+	history={
+		owner = TMS
+		add_core_of = TMS
+		add_core_of = KHI
+		victory_points = {
+			12324 2 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		12324 15580 
+	}
+	manpower=50000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

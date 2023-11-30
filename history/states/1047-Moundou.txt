@@ -1,0 +1,23 @@
+
+state={
+	id=1047
+	name="STATE_1047"
+
+	history={
+		owner = CHA
+		add_core_of = CHA
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		1993 3141 3375 
+	}
+	manpower=110220
+	buildings_max_level_factor=1.000
+	state_category=enclave
+	local_supplies=0.000
+}

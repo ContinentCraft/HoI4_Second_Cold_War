@@ -1,0 +1,24 @@
+
+state={
+	id=1599
+	name="STATE_1599"
+
+	history={
+		owner = PER
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+
+		}
+		add_core_of = PER
+
+	}
+
+	provinces={
+		4637 14903 14904 14926 14937 14946 
+	}
+	manpower=446250
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

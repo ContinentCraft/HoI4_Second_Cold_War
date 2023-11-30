@@ -1,0 +1,36 @@
+
+state={
+	id=314
+	name="STATE_314"
+	resources={
+		chromium=1.000
+	}
+
+	history={
+		owner = ELS
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 1
+			12823 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = ELS
+		victory_points = {
+			12823 15 
+		}
+
+	}
+
+	provinces={
+		12823 17583 17585 
+	}
+	manpower=973469
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

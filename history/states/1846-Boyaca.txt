@@ -1,0 +1,20 @@
+state={
+	id=1846
+	name="STATE_1846"
+
+	history={
+		owner = COL
+		add_core_of = COL
+		buildings={
+			infrastructure=2
+		}
+	}
+	
+	provinces={
+		7993 16047 16056 16061 16065 
+	}
+	manpower=1500000
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

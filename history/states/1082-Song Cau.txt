@@ -1,0 +1,23 @@
+
+state={
+	id=1082
+	name="STATE_1082"
+
+	history={
+		owner = VIN
+		add_core_of = VIN
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		1285 1300 1328 1400 1605 4334 4363 4405 7271 7380 10162 10232 12109 12176 12204 16998 16999 17001 17003 17005 17009 
+	}
+	manpower=1201000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

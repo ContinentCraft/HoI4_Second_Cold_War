@@ -1,0 +1,21 @@
+state={
+	id=1813
+	name="STATE_1813"
+
+	history={
+		owner = KEN
+		add_core_of = KEN
+		add_core_of = SSU
+		buildings={
+			infrastructure=1
+		}
+	}
+	
+	provinces={
+		16045 
+	}
+	manpower=10000
+	buildings_max_level_factor=1.000
+	state_category=enclave
+	local_supplies=0.000
+}

@@ -1,0 +1,30 @@
+
+state={
+	id=779
+	name="STATE_779"
+
+	history={
+		owner = IVO
+		add_core_of = IVO
+		victory_points = {
+			10803 1 
+		}
+		buildings = {
+			infrastructure = 3
+			10803 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		5013 5070 8065 8122 10762 10803 18003 18005 18007 18008 18009 18015 18016 18017 18018 18021 18024 18030 18032 18034 18037 18043 18047 18048 18049 18055 18060 18061 18062 18064 18065 18074 18078 18080 18083 18085 18086 18087 18089 18095 18102 18105 18108 
+	}
+	manpower=3850734
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

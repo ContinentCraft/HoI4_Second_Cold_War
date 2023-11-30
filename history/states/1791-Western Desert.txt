@@ -1,0 +1,22 @@
+state={
+	id=1791
+	name="STATE_1791"
+
+	impassable=yes
+
+	history={
+		owner = EGY
+		add_core_of = EGY
+		buildings={
+			infrastructure=0
+		}
+	}
+	
+	provinces={
+		10907 
+	}
+	manpower=5000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

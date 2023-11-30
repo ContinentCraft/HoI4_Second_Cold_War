@@ -1,0 +1,24 @@
+state={
+	id=1687
+	name="STATE_1687"
+
+	impassable=yes
+
+	state_category=wasteland
+
+	history = {
+		owner = PRC
+		add_core_of = PRC
+		add_claim_by = CHI
+		buildings = {
+			infrastructure = 0
+		}
+	}
+
+	provinces={
+		14969 
+	}
+	manpower=5
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

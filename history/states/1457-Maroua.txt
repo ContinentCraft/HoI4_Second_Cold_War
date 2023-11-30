@@ -1,0 +1,26 @@
+
+state={
+	id=1457
+	name="STATE_1457"
+
+	history={
+		owner = CMR
+		add_core_of = CMR
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+
+		}
+		victory_points = {
+			7963 1 
+		}
+	}
+
+	provinces={
+		863 6674 7963 9805 
+	}
+	manpower=127920
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

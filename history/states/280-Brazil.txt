@@ -1,0 +1,26 @@
+
+state={
+	id=280
+	name="STATE_280"
+
+	history={
+		owner = BRA
+		victory_points = {
+			8175 1 
+		}
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = BRA
+
+	}
+
+	provinces={
+		2111 8175 15766 15768 15772 15777 15779 
+	}
+	manpower=1127521
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

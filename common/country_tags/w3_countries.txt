@@ -1,0 +1,4 @@
+NOK	= "countries/North Korea.txt"
+SSU	= "countries/South Sudan.txt"
+ESW	= "countries/Eswatini.txt"
+LES	= "countries/Lesotho.txt"

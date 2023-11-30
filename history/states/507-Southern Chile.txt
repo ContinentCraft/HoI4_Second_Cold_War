@@ -1,0 +1,35 @@
+
+state={
+	id=507
+	name="STATE_507"
+
+	history={
+		owner = CHL
+		victory_points = {
+			8218 3 
+		}
+		victory_points = {
+			5118 1 
+		}
+		victory_points = {
+			2161 1 
+		}
+		victory_points = {
+			8198 1 
+		}
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = CHL
+
+	}
+
+	provinces={
+		2161 5118 5159 8198 10961 14037 14039 14043 14044 14046 14047 14050 
+	}
+	manpower=197693
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

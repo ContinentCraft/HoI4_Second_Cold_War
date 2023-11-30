@@ -1,0 +1,25 @@
+
+state={
+	id=618
+	name="STATE_618"
+
+	history={
+		owner = PRC
+		add_core_of = PRC
+		add_claim_by = CHI
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		4714 4849 7737 15230 15257 
+	}
+	manpower=670800
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

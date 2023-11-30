@@ -1,0 +1,33 @@
+
+state={
+	id=1152
+	name="STATE_1152"
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 8
+			arms_factory = 1
+			industrial_complex = 3
+			dockyard = 3
+			3878 = {
+				naval_base = 6
+
+			}
+
+		}
+		add_core_of = USA
+		victory_points = {
+			3878 50 
+		}
+
+	}
+
+	provinces={
+		625 859 3878 17477 
+	}
+	manpower=7057061
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+	local_supplies=0.000
+}

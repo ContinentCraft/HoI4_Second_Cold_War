@@ -1,0 +1,26 @@
+
+state={
+	id=718
+	name="STATE_718"
+	resources={
+		rubber=5.000
+	}
+
+	history={
+		owner = COG
+		add_core_of = COG
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		289 319 341 342 1950 3542 3759 8048 9359 9621 11285 11341 13775 13881 
+	}
+	manpower=1402323
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

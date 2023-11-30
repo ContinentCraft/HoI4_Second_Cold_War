@@ -1,0 +1,30 @@
+
+state={
+	id=776
+	name="STATE_776"
+
+	history={
+		owner = DAH
+		add_core_of = DAH
+		victory_points = {
+			10919 1 
+		}
+		buildings = {
+			infrastructure = 3
+			10919 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		10919 12762 12874 18036 18042 18056 18058 18075 18091 18096 18107 18111 18116 18121 18130 18136 
+	}
+	manpower=1351563
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

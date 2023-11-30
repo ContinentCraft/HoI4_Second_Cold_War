@@ -1,0 +1,27 @@
+state={
+	id=2071
+	name="STATE_2071"
+
+	history={
+		owner = CHI
+		add_core_of = CHI
+		add_claim_by = PRC
+		buildings = {
+			infrastructure = 3
+			14198 = {
+				naval_base = 3
+			}
+		}
+		victory_points = {
+			14198 3
+		}
+	}
+
+	provinces={
+		14198 
+	}
+	manpower=105148
+	buildings_max_level_factor=1.000
+	state_category=small_island
+	local_supplies=0.000
+}

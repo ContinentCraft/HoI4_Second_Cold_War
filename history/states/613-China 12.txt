@@ -1,0 +1,36 @@
+
+state={
+	id=613
+	name="STATE_613"
+
+	history={
+		owner = PRC
+		add_core_of = PRC
+		add_claim_by = CHI
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			air_base = 6
+			dockyard = 1
+			7014 = {
+				naval_base = 6
+				coastal_bunker = 1
+				bunker = 1
+
+			}
+
+		}
+		victory_points = {
+			7014 600 
+		}
+
+	}
+
+	provinces={
+		7014 10034 12052 12076 
+	}
+	manpower=14203100
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=0.000
+}

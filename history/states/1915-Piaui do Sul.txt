@@ -1,0 +1,22 @@
+state={
+	id=1915
+	name="STATE_1915"
+
+	history={
+		owner = BRA
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = BRA
+
+	}
+
+	provinces={
+		5204 10984 15818 15820 15833 15837 
+	}
+	manpower=200000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

@@ -1,0 +1,30 @@
+
+state={
+	id=700
+	name="STATE_700"
+
+	history={
+		owner = SIE
+		add_core_of = SIE
+		victory_points = {
+			2038 1 
+		}
+		buildings = {
+			infrastructure = 3
+			2038 = {
+				naval_base = 3
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		2038 2094 18053 18059 18070 18073 18076 18084 18088 18092 18100 
+	}
+	manpower=1768500
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

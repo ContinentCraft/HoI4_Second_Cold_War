@@ -1,0 +1,30 @@
+
+state={
+	id=1612
+	name="STATE_1612"
+	resources={
+		oil=15.000
+	}
+
+	history={
+		owner = USA
+		victory_points = {
+			12313 2 
+		}
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = USA
+		add_core_of = LOU
+
+	}
+
+	provinces={
+		4507 12313 13937 13938 13939 17298 
+	}
+	manpower=101281
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

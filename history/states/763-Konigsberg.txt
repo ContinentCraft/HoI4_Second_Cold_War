@@ -1,0 +1,44 @@
+
+state={
+	id=763
+	name="STATE_763"
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		victory_points = {
+			11265 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			11265 = {
+				bunker = 1
+
+			}
+			anti_air_building = 2
+			11265 = {
+				naval_base = 5
+
+			}
+			air_base = 6
+
+		}
+		2022.1.1 = {
+			buildings = {
+				anti_air_building = 4
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		281 3384 11265 13568 13591 13623 
+	}
+	manpower=2140234
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

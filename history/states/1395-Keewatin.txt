@@ -1,0 +1,26 @@
+
+state={
+	id=1395
+	name="STATE_1395"
+
+	history={
+		owner = CAN
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = CAN
+		victory_points = {
+			761 1 
+		}
+
+	}
+
+	provinces={
+		761 17562 
+	}
+	manpower=10121
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

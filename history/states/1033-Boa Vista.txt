@@ -1,0 +1,23 @@
+
+state={
+	id=1033
+	name="STATE_1033"
+
+	history={
+		owner = BRA
+		buildings = {
+			infrastructure = 0
+
+		}
+		add_core_of = BRA
+
+	}
+
+	provinces={
+		11004 15875 15876 15879 15883 15885 
+	}
+	manpower=403201
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

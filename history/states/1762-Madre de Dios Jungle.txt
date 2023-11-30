@@ -1,0 +1,22 @@
+state={
+	id=1762
+	name="STATE_1762"
+
+	impassable = yes
+
+	history = {
+		owner = PRU
+		add_core_of = PRU
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces={
+		15918 15921 
+	}
+	manpower=10000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

@@ -1,0 +1,29 @@
+
+state={
+	id=331
+	name="STATE_331"
+
+	history={
+		owner = CAN
+		add_core_of = CAN
+		add_core_of = NFL
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			12505 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		4043 5808 5886 7758 7788 8636 8688 12505 12680 12698 
+	}
+	manpower=255060
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

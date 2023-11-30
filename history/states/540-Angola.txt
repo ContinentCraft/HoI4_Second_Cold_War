@@ -1,0 +1,36 @@
+
+state={
+	id=540
+	name="STATE_540"
+	resources={
+		rubber=2.000
+	}
+
+	history={
+		owner = ANG
+		add_core_of = ANG
+		buildings = {
+			infrastructure = 3
+			8248 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			8248 2 
+		}
+		victory_points = {
+			10966 1 
+		}
+
+	}
+
+	provinces={
+		292 298 463 520 3348 5158 8248 9271 9709 12981 13860 
+	}
+	manpower=3200000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

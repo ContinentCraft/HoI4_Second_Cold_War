@@ -1,0 +1,32 @@
+
+state={
+	id=927
+	name="STATE_927"
+
+	history={
+		owner = FRA
+		add_core_of = FRA
+		add_core_of = OCC
+		add_core_of = SRD
+		victory_points = {
+			13870 5 
+		}
+		buildings = {
+			infrastructure = 4
+			13870 = {
+				naval_base = 2
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		13870 
+	}
+	manpower=305100
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

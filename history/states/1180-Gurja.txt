@@ -1,0 +1,29 @@
+state={
+	id=1180
+	name="STATE_1180"
+	
+	history={
+		owner = GEO
+		add_core_of = GEO
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+
+		}
+		
+		2023.1.1 = {
+			buildings = {
+				industrial_complex = 1
+
+			}
+
+		}
+
+	}
+	provinces={
+		772 3656 3658 
+	}
+	manpower=847211
+	buildings_max_level_factor=1.000
+	state_category=town
+}

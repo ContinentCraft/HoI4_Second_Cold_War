@@ -1,0 +1,37 @@
+
+state={
+	id=671
+	name="STATE_671"
+	resources={
+		chromium=6.000
+		tungsten=27.000
+	}
+
+	history={
+		owner = VIN
+		add_core_of = VIN
+		add_core_of = TON
+		victory_points = {
+			4075 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 1
+			1185 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1185 4075 10129 12075 17064 17068 17069 17073 17076 17079 
+	}
+	manpower=9019890
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

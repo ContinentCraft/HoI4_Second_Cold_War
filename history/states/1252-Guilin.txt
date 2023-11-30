@@ -1,0 +1,27 @@
+
+state={
+	id=1252
+	name="STATE_1252"
+
+	history={
+		owner = PRC
+		add_core_of = PRC
+		add_core_of = GXC
+		add_claim_by = CHI
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+
+		}
+
+	}
+
+	provinces={
+		7521 10039 10404 12407 14264 14269 14287 
+	}
+	manpower=1285200
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

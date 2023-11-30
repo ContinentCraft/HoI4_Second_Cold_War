@@ -1,0 +1,26 @@
+
+state={
+	id=1481
+	name="STATE_1481"
+
+	history={
+		owner = VEN
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = VEN
+		victory_points = {
+			1981 1 
+		}
+
+	}
+
+	provinces={
+		1981 8491 
+	}
+	manpower=9721
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

@@ -1,0 +1,23 @@
+
+state={
+	id=1555
+	name="STATE_1555"
+
+	history={
+		owner = VOL
+		add_core_of = VOL
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		12851 18148 18152 
+	}
+	manpower=637237
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

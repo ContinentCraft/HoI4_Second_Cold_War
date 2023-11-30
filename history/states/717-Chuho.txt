@@ -1,0 +1,25 @@
+
+state={
+	id=717
+	name="STATE_717"
+
+	history={
+		owner = PRC
+		add_core_of = PRC
+		add_core_of = MAN
+		add_claim_by = CHI
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		4551 6863 7569 9623 9798 10215 10521 12342 12443 12500 13256 15234 15236 15238 15248 15259 15260 15264 
+	}
+	manpower=5224174
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

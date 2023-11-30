@@ -1,0 +1,22 @@
+
+state={
+	id=1154
+	name="STATE_1154"
+
+	history={
+		owner = LBA
+		add_core_of = LBA
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		13366
+	}
+	manpower=1573
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

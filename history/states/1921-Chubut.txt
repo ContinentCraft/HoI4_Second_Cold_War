@@ -1,0 +1,22 @@
+state={
+	id=1921
+	name="STATE_1921"
+
+	history={
+		owner = ARG
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = ARG
+
+	}
+
+	provinces={
+		8161 8176 9091 10953 11005 12349 14045 15311 15312 15313 15314 15315 15316 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

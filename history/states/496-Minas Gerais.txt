@@ -1,0 +1,36 @@
+
+state={
+	id=496
+	name="STATE_496"
+	resources={
+		steel=3.000
+	}
+
+	history={
+		owner = BRA
+		victory_points = {
+			7476 10 
+		}
+		victory_points = {
+			8233 3 
+		}
+		victory_points = {
+			12909 5 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+
+		}
+		add_core_of = BRA
+
+	}
+
+	provinces={
+		7476 8148 12938 15484 15485 15487 15490 15493 15506 15509 15515 
+	}
+	manpower=8513600
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=0.000
+}

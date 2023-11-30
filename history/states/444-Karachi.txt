@@ -1,0 +1,24 @@
+
+state={
+	id=444
+	name="STATE_444"
+
+	history={
+		owner = PAK
+		add_core_of = PAK
+		add_core_of = BAL
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		5043 7917 12761 12774 16149 16150 16167 16871 16881 
+	}
+	manpower=166860
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

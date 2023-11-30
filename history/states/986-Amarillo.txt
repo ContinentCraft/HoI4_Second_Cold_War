@@ -1,0 +1,31 @@
+
+state={
+	id=986
+	name="STATE_986"
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+
+		}
+		add_core_of = USA
+		add_core_of = TEX
+		victory_points = {
+			3972 1 
+		}
+		victory_points = {
+			5085 5 
+		}
+
+	}
+
+	provinces={
+		2055 3972 5085 9908 13941 13942 13943 13944 17376 17383 17384 
+	}
+	manpower=890100
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

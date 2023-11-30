@@ -1,0 +1,23 @@
+
+state={
+	id=1496
+	name="STATE_1496"
+	
+	history={
+		owner = GYA
+		add_core_of = GYA
+		add_claim_by = SUR
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		8107
+	}
+	manpower=4721
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

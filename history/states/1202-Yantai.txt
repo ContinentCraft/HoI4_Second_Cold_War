@@ -1,0 +1,30 @@
+
+state={
+	id=1202
+	name="STATE_1202"
+
+	history={
+		owner = PRC
+		add_core_of = PRC
+		add_claim_by = CHI
+		buildings = {
+			infrastructure = 3
+			4205 = {
+				naval_base = 2
+				coastal_bunker = 1
+				bunker = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1104 1200 10018 14942 14966 
+	}
+	manpower=1400000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

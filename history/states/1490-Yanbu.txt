@@ -1,0 +1,28 @@
+
+state={
+	id=1490
+	name="STATE_1490"
+
+	history={
+		owner = SAU
+		buildings = {
+			infrastructure = 2
+			2872 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = SAU
+		add_core_of = HEJ
+
+	}
+
+	provinces={
+		2033 2872 14154 14205 14226 
+	}
+	manpower=310000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

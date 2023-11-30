@@ -1,0 +1,23 @@
+
+state={
+	id=913
+	name="STATE_913"
+
+	history={
+		owner = BRA
+		buildings = {
+			infrastructure = 0
+
+		}
+		add_core_of = BRA
+
+	}
+
+	provinces={
+		10960 15822 
+	}
+	manpower=132000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

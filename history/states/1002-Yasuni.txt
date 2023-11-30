@@ -1,0 +1,24 @@
+
+state={
+	id=1002
+	name="STATE_1002"
+
+	history={
+		owner = ECU
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = ECU
+		add_claim_by = PRU
+
+	}
+
+	provinces={
+		8075 10888 15971 15980 15992 
+	}
+	manpower=20000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

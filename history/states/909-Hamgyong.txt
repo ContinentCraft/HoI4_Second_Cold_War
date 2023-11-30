@@ -1,0 +1,42 @@
+
+state={
+	id=909
+	name="STATE_909"
+	resources={
+		steel=10.000
+		tungsten=5.000
+	}
+
+	history={
+		owner = NOK
+		add_core_of = NOK
+		add_claim_by = KOR
+		victory_points = {
+			848 10 
+		}
+		victory_points = {
+			6822 5 
+		}
+		buildings = {
+			infrastructure = 4
+			848 = {
+				naval_base = 3
+
+			}
+			6822 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		848 3981 6928 10083 15021 
+	}
+	manpower=321000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

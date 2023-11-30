@@ -1,0 +1,33 @@
+
+state={
+	id=772
+	name="STATE_772"
+	resources={
+		rubber=1.000
+	}
+
+	history={
+		owner = RCG
+		add_core_of = RCG
+		victory_points = {
+			8193 2 
+		}
+		buildings = {
+			infrastructure = 2
+			12975 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		636 2192 3109 3660 3777 6678 8193 9110 9688 12975 13083 
+	}
+	manpower=606314
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

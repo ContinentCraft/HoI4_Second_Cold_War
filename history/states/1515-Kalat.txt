@@ -1,0 +1,27 @@
+
+state={
+	id=1515
+	name="STATE_1515"
+
+	history={
+		owner = PAK
+		add_core_of = PAK
+		add_core_of = BAL
+		buildings = {
+			infrastructure = 2
+
+		}
+		victory_points = {
+			8066 1 
+		}
+
+	}
+
+	provinces={
+		8066 8098 16873 16875 16883 16889 16903 
+	}
+	manpower=111240
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

@@ -1,0 +1,27 @@
+
+state={
+	id=1415
+	name="STATE_1415"
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 5
+
+		}
+		add_core_of = USA
+		add_core_of = TEX
+		victory_points = {
+			1998 1 
+		}
+
+	}
+
+	provinces={
+		1998 9773 12301 17341 17353 17354 17363 
+	}
+	manpower=197283
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

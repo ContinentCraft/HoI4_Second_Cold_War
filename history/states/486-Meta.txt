@@ -1,0 +1,26 @@
+
+state={
+	id=486
+	name="STATE_486"
+
+	history={
+		owner = COL
+		victory_points = {
+			5026 1 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = COL
+
+	}
+
+	provinces={
+		5026 16012 16017 16021 16022 16034 16036 
+	}
+	manpower=1213160
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

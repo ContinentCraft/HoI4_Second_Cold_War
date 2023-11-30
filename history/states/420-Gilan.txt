@@ -1,0 +1,24 @@
+
+state={
+	id=420
+	name="STATE_420"
+
+	history={
+		owner = PER
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = PER
+		add_core_of = AZR
+
+	}
+
+	provinces={
+		4553 4609 4901 13874 14922 14936 14955 
+	}
+	manpower=1314948
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

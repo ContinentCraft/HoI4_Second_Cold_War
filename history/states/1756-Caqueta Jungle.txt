@@ -1,0 +1,22 @@
+state={
+	id=1756
+	name="STATE_1756"
+
+	impassable = yes
+
+	history = {
+		owner = COL
+		add_core_of = COL
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces={
+		15965 15973 
+	}
+	manpower=5000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

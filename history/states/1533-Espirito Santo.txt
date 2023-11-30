@@ -1,0 +1,34 @@
+
+state={
+	id=1533
+	name="STATE_1533"
+	resources={
+		steel=2.000
+	}
+
+	history={
+		owner = BRA
+		victory_points = {
+			10999 1 
+		}
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+			10999 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = BRA
+
+	}
+
+	provinces={
+		2153 8196 10999 15486 15502 15504 15516 
+	}
+	manpower=1072152
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

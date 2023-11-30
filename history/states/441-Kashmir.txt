@@ -1,0 +1,30 @@
+
+state={
+	id=441
+	name="STATE_441"
+
+	history={
+		owner = RAJ
+		add_core_of = RAJ
+		add_core_of = PAK
+		victory_points = {
+			12754 1 
+		}
+		victory_points = {
+			1910 1 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		1910 7273 7316 8005 10905 12754 12884 16819 16820 16821 16822 16823 16824 16825 16826 
+	}
+	manpower=2111600
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

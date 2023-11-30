@@ -1,0 +1,20 @@
+state={
+	id=1293
+	name="STATE_1293"
+	
+	state_category = pastoral
+	
+
+	history={
+		owner = KAZ
+		add_core_of = KAZ
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces={
+		12427
+	}
+	manpower=10000
+	buildings_max_level_factor=1.000
+}

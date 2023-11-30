@@ -1,0 +1,23 @@
+
+state={
+	id=1633
+	name="STATE_1633"
+
+	history={
+		owner = PER
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = PER
+
+	}
+
+	provinces={
+		5089 12756 14442 14457 14496 14533 14540 14558 14566 14593 14611 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

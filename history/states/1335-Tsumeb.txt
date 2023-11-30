@@ -1,0 +1,25 @@
+
+state={
+	id=1335
+	name="STATE_1335"
+
+	history={
+		owner = NMB
+		add_core_of = NMB
+		buildings = {
+			infrastructure = 1
+
+		}
+		victory_points = {
+			12519 1
+		}
+
+	}
+
+	provinces={
+		7770 12519
+	}
+	manpower=120931
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

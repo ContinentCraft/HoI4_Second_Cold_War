@@ -1,0 +1,35 @@
+
+state={
+	id=1694
+	name="STATE_1694"
+
+	history={
+		owner = NOR
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			192 = {
+				naval_base = 3
+
+			}
+			11050 = {
+				naval_base = 2
+
+			}
+
+		}
+		victory_points = {
+			11050 2 
+		}
+		add_core_of = NOR
+
+	}
+
+	provinces={
+		64 3016 6015 6079 9064 9116 9128 11077 
+	}
+	manpower=100001
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

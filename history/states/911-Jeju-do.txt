@@ -1,0 +1,28 @@
+
+state={
+	id=911
+	name="STATE_911"
+
+	history={
+		owner = KOR
+		add_core_of = KOR
+		add_claim_by = NOK
+		buildings = {
+			infrastructure = 3
+			1177 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1177 14682 
+	}
+	manpower=5500
+	buildings_max_level_factor=1.000
+	state_category=small_island
+	local_supplies=0.000
+}

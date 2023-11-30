@@ -1,0 +1,23 @@
+
+state={
+	id=1319
+	name="STATE_1319"
+
+	history={
+		owner = ZAM
+		add_core_of = ZAM
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		1846 3892 6092 6111 6123 9138 10594 11104 11183 11798 
+	}
+	manpower=457089
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

@@ -1,0 +1,32 @@
+
+state={
+	id=1239
+	name="STATE_1239"
+	resources={
+		oil=3.000
+	}
+
+	history={
+		add_core_of = ARG
+		owner = ARG
+		buildings = {
+			infrastructure = 6
+
+		}
+		victory_points = {
+			1449 10 
+		}
+		victory_points = {
+			2172 10 
+		}
+
+	}
+
+	provinces={
+		1449 7500 8746 15643 15646 15648 15654 15669 
+	}
+	manpower=1873731
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

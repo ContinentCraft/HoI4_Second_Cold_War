@@ -1,0 +1,26 @@
+
+state={
+	id=557
+	name="STATE_557"
+
+	history={
+		owner = MRT
+		add_core_of = MRT
+		victory_points = {
+			5034 1 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		1962 5034 5077 7943 8058 10814 13361 17875 17876 18162 18166 18167 18168 18171 18172 18174 18175 18176 18178 
+	}
+	manpower=225000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

@@ -1,0 +1,27 @@
+state={
+	id=1464
+	name="STATE_1464"
+
+	history={
+		owner = AFG
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			13976 5 
+		}
+		add_core_of = AFG
+
+	}
+
+	provinces={
+		13976 13977 13978 13979
+	}
+	manpower=28000
+	buildings_max_level_factor=1.000
+	state_category=town
+}
+

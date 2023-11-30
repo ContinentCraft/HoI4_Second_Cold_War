@@ -1,0 +1,24 @@
+
+state={
+	id=950
+	name="STATE_950"
+
+	history={
+		owner = ROM
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		add_core_of = ROM
+
+	}
+
+	provinces={
+		711 3689 9668 9670 13376 
+	}
+	manpower=841002
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

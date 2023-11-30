@@ -1,0 +1,35 @@
+
+state={
+	id=601
+	name="STATE_601"
+	resources={
+		oil=2.000
+	}
+
+	history={
+		owner = PRC
+		add_core_of = PRC
+		add_core_of = TIB
+		add_claim_by = CHI
+		buildings = {
+			infrastructure = 1
+
+		}
+		2021.1.1 = {
+			buildings = {
+				infrastructure = 2
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		5102 8041 8059 14376 14459 
+	}
+	manpower=220920
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

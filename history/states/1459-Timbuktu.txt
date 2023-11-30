@@ -1,0 +1,27 @@
+
+state={
+	id=1459
+	name="STATE_1459"
+
+	history={
+		owner = MLI
+		add_core_of = MLI
+		add_core_of = AZA
+		victory_points = {
+			10788 1 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		2044 3179 7930 10788 11028 
+	}
+	manpower=631041
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

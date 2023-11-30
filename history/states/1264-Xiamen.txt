@@ -1,0 +1,29 @@
+state={
+	id=1264
+	name="STATE_1264"
+
+	history={
+		owner = PRC
+		add_core_of = PRC
+		add_claim_by = CHI
+		victory_points = { 
+			13773 1 
+		}
+		buildings = {
+			infrastructure = 10
+			13773 = {
+				naval_base = 8
+				coastal_bunker = 1
+				bunker = 1
+			}			
+		}
+
+	}
+
+	provinces={
+		13773
+	}
+	manpower=91700
+	buildings_max_level_factor=1.000
+	state_category=enclave
+}

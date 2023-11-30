@@ -1,0 +1,32 @@
+
+state={
+	id=748
+	name="STATE_748"
+
+	history={
+		owner = PRC
+		add_core_of = PRC
+		add_claim_by = CHI
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 2
+
+		}
+		victory_points = {
+			10763 5 
+		}
+		victory_points = {
+			4504 10 
+		}
+
+	}
+
+	provinces={
+		1010 4325 14334 14355 14379 14385 
+	}
+	manpower=1500000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

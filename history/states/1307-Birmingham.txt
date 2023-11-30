@@ -1,0 +1,42 @@
+
+state={
+	id=1307
+	name="STATE_1307"
+
+	history={
+		owner = USA
+		add_core_of = USA
+		buildings = {
+			infrastructure = 5
+
+		}
+		victory_points = {
+			12735 1 
+		}
+		victory_points = {
+			7422 1 
+		}
+		victory_points = {
+			5059 1 
+		}
+		victory_points = {
+			4622 1 
+		}
+		2024.1.1 = {
+			buildings = {
+				industrial_complex = 4
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1587 4594 4622 5059 7422 10192 11509 12735 12803 17355 17356 17357 17365 17372 17373 17381 
+	}
+	manpower=1334773
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

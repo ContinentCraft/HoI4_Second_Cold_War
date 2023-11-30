@@ -1,0 +1,25 @@
+state={
+	id=1187
+	name="STATE_1187"
+	
+	history={
+		owner = PAL
+		add_core_of = PAL
+		add_core_of = ISR
+		buildings = {
+			infrastructure = 6
+
+		}
+		victory_points = {
+			1086 5
+		}
+
+	}
+
+	provinces={
+		1086
+	}
+	manpower=40000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

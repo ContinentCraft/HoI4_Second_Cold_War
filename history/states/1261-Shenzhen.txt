@@ -1,0 +1,28 @@
+
+state={
+	id=1261
+	name="STATE_1261"
+
+	history={
+		owner = PRC
+		add_core_of = PRC
+		add_claim_by = CHI
+		buildings = {
+			infrastructure = 3
+			13769 = {
+				naval_base = 8
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		7108 
+	}
+	manpower=31500
+	buildings_max_level_factor=1.000
+	state_category=enclave
+	local_supplies=0.000
+}

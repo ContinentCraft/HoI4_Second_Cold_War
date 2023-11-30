@@ -1,0 +1,21 @@
+state={
+	id=1723
+	name="STATE_1723"
+
+	history={
+		owner = FRA
+		add_core_of = FRA
+		buildings = {
+			infrastructure = 4
+		}
+
+	}
+
+	provinces={
+		6547 9507 9523 9725 
+	}
+	manpower=3000000
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=0.000
+}

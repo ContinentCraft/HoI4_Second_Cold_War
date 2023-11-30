@@ -1,0 +1,27 @@
+
+state={
+	id=1058
+	name="STATE_1058"
+
+	history={
+		owner = KOR
+		add_core_of = KOR
+		add_claim_by = NOK
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+			7021 1 
+		}
+
+	}
+
+	provinces={
+		1148 7021 9936 12011 13432 14929 14940 
+	}
+	manpower=77454
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

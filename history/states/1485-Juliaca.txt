@@ -1,0 +1,29 @@
+
+state={
+	id=1485
+	name="STATE_1485"
+	resources={
+		tungsten=1.000
+	}
+
+	history={
+		owner = PRU
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = PRU
+		victory_points = {
+			5867 1 
+		}
+
+	}
+
+	provinces={
+		5867 13175 15894 15901 
+	}
+	manpower=273731
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

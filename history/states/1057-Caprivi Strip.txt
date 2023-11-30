@@ -1,0 +1,23 @@
+
+state={
+	id=1057
+	name="STATE_1057"
+
+	history={
+		owner = NMB
+		add_core_of = NMB
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		13217 17857 
+	}
+	manpower=21000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

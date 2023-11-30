@@ -1,0 +1,26 @@
+state={
+	id=910
+	name="STATE_910"
+
+	history={
+		owner = KOR
+		add_core_of = KOR
+		add_claim_by = NOK
+		add_claim_by = JAP
+		buildings = {
+			infrastructure = 3
+			13264 = {
+				naval_base = 1
+			}
+
+		}
+
+	}
+
+	provinces={
+		13264 
+	}
+	manpower=12102
+	buildings_max_level_factor=1.000
+	state_category = tiny_island
+}

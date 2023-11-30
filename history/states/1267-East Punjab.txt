@@ -1,0 +1,24 @@
+
+state={
+	id=1267
+	name="STATE_1267"
+
+	history={
+		owner = RAJ
+		add_core_of = PUN
+		add_core_of = RAJ
+		buildings = {
+			infrastructure = 4
+
+		}
+
+	}
+
+	provinces={
+		10729 10772 12822 16788 16791 16792 16793 16795 16797 16799 16800 16803 16804 16805 16806 16809 16810 16811 16812 16814 16815 16816 16818 
+	}
+	manpower=8846500
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

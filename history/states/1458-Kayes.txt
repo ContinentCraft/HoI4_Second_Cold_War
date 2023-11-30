@@ -1,0 +1,26 @@
+
+state={
+	id=1458
+	name="STATE_1458"
+
+	history={
+		owner = MLI
+		add_core_of = MLI
+		victory_points = {
+			2012 1 
+		}
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		102 107 2012 3090 3180 10829 10915 
+	}
+	manpower=731830
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

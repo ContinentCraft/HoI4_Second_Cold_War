@@ -1,0 +1,27 @@
+
+state={
+	id=890
+	name="STATE_890"
+	resources={
+		rubber=3.000
+	}
+
+	history={
+		owner = COG
+		add_core_of = COG
+		add_core_of = KVU
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		236 1181 3568 3584 4201 4941 6373 7161 9275 9288 9543 10766 11298 11614 12783 13176 13879 
+	}
+	manpower=710035
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

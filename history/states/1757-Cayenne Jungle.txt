@@ -1,0 +1,22 @@
+state={
+	id=1757
+	name="STATE_1757"
+
+	impassable = yes
+
+	history = {
+		owner = FRA
+		add_core_of = CAY
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces={
+		4934 
+	}
+	manpower=5000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

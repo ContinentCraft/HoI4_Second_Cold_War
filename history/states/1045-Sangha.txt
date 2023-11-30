@@ -1,0 +1,23 @@
+
+state={
+	id=1045
+	name="STATE_1045"
+
+	history={
+		owner = RCG
+		add_core_of = RCG
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		23 714 6008 13273 
+	}
+	manpower=131000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

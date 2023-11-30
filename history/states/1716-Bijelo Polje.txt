@@ -1,0 +1,21 @@
+state={
+	id=1716
+	name="STATE_1716"
+
+	history={
+		owner = MNT
+		add_core_of = MNT
+		buildings = {
+			infrastructure = 2
+		}
+
+	}
+
+	provinces={
+		937 13319 
+	}
+	manpower=20000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

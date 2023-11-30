@@ -1,0 +1,26 @@
+
+state={
+	id=891
+	name="STATE_891"
+	resources={
+		rubber=1.000
+	}
+
+	history={
+		owner = ANG
+		add_core_of = ANG
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		3241 4735 
+	}
+	manpower=640000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

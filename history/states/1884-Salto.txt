@@ -1,0 +1,22 @@
+state={
+	id=1884
+	name="STATE_1884"
+
+	history={
+		owner = URG
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = URG
+
+	}
+
+	provinces={
+		12440 12468 15660 15663 15670 15671 15680 15686 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

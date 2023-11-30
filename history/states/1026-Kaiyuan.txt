@@ -1,0 +1,28 @@
+
+state={
+	id=1026
+	name="STATE_1026"
+
+	history={
+		owner = PRC
+		add_core_of = PRC
+		add_core_of = MAN
+		add_claim_by = CHI
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			4572 90 
+		}
+
+	}
+
+	provinces={
+		930 1567 3913 4572 15157 15170 15172 15174 15182 15185 
+	}
+	manpower=2305033
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

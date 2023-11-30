@@ -1,0 +1,26 @@
+
+state={
+	id=1622
+	name="STATE_1622"
+
+	history={
+		owner = MLW
+		add_core_of = MLW
+		victory_points = {
+			13209 1 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		3115 11060 13209 
+	}
+	manpower=562321
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

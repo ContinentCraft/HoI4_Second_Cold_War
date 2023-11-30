@@ -1,0 +1,24 @@
+state={
+	id=1115
+	name="STATE_1115"
+
+	history={
+		owner = GER
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			6488 40 
+		}
+		add_core_of = GER
+
+	}
+
+	provinces={
+		6444 6488 8386 9486
+	}
+	manpower=3325000
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

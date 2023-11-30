@@ -1,0 +1,24 @@
+
+state={
+	id=1209
+	name="STATE_1209"
+
+	history={
+		owner = BOL
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = BOL
+		add_claim_by = PAR
+
+	}
+
+	provinces={
+		2160 12916 12979 15746 15748 
+	}
+	manpower=66900
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

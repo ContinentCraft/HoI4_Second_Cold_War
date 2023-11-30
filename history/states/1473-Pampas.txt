@@ -1,0 +1,52 @@
+
+state={
+	id=1473
+	name="STATE_1473"
+
+	history={
+		owner = ARG
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 3
+			dockyard = 1
+			air_base = 4
+			1639 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = ARG
+		victory_points = {
+			12998 10 
+		}
+		victory_points = {
+			12394 5 
+		}
+		victory_points = {
+			10390 5 
+		}
+		victory_points = {
+			1568 5 
+		}
+		victory_points = {
+			1639 5 
+		}
+		victory_points = {
+			4602 3 
+		}
+		victory_points = {
+			1596 2 
+		}
+
+	}
+
+	provinces={
+		1596 1624 1639 4643 12321 12409 12494 15595 15598 
+	}
+	manpower=1007235
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

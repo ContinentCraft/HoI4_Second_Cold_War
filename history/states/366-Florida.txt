@@ -1,0 +1,77 @@
+
+state={
+	id=366
+	name="STATE_366"
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			air_base = 8
+			1572 = {
+				naval_base = 2
+
+			}
+			1843 = {
+				naval_base = 5
+
+			}
+			7388 = {
+				naval_base = 3
+
+			}
+			10352 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = USA
+		victory_points = {
+			1843 5 
+		}
+		victory_points = {
+			7388 1 
+		}
+		victory_points = {
+			866 1 
+		}
+		victory_points = {
+			12381 5 
+		}
+		victory_points = {
+			10407 10 
+		}
+		victory_points = {
+			10352 1 
+		}
+		victory_points = {
+			1556 1 
+		}
+		victory_points = {
+			1584 1 
+		}
+		victory_points = {
+			12439 1 
+		}
+		victory_points = {
+			10489 1 
+		}
+		victory_points = {
+			12752 1 
+		}
+		victory_points = {
+			9834 1 
+		}
+
+	}
+
+	provinces={
+		109 167 866 1556 1572 1584 1843 1913 3936 6052 6161 6176 6747 7388 9834 10352 10380 10407 10489 11101 11167 11198 12353 12381 12439 12752 13276 13724 13925 17266 17267 17268 17272 17273 17274 17276 17277 17278 17279 17283 17284 17286 17290 17294 17300 17304 17309 17311 17313 17320 
+	}
+	manpower=1468210
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

@@ -1,0 +1,22 @@
+state={
+	id=1226
+	name="STATE_1226"
+	
+	history={
+		owner = KEN
+		add_core_of = KEN
+		add_claim_by = SOM
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		8133 
+	}
+	manpower=272000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

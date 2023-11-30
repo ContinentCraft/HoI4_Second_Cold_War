@@ -1,0 +1,32 @@
+
+state={
+	id=1488
+	name="STATE_1488"
+	resources={
+		oil=1.000
+	}
+
+	history={
+		owner = MEX
+		buildings = {
+			infrastructure = 6
+
+		}
+		add_core_of = MEX
+		victory_points = {
+			2008 10 
+		}
+		victory_points = {
+			2011 5 
+		}
+
+	}
+
+	provinces={
+		2008 2011 2270 3909 5748 7213 13593 17647 
+	}
+	manpower=217253
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

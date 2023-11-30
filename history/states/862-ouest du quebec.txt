@@ -1,0 +1,19 @@
+
+state={
+	id=862
+	name="STATE_862"
+
+	history={
+		owner = CAN
+		add_core_of = CAN
+
+	}
+
+	provinces={
+		983 1341 7435 9624 10249 10700 12205 12276 17549 17555 17557 
+	}
+	manpower=80000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}
