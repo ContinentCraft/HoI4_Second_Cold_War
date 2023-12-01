@@ -1,0 +1,175 @@
+bookmarks = {
+	bookmark = {
+		name = "NEW_DECADE_COVID_NAME"
+		desc = "NEW_DECADE_COVID_DESC"
+		date = 2020.1.1.12
+		picture = "GFX_select_date_2020"
+		default_country = "PRC"
+		default = yes
+
+		USA = {
+			history = "USA_NEW_DECADE_COVID_DESC"
+			ideology = democratic
+			available = { }
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		PRC = {
+			history = "PRC_NEW_DECADE_COVID_DESC"
+			ideology = communism
+			available = {  } 
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		CHI = {
+			history = "CHI_NEW_DECADE_COVID_DESC"
+			ideology = democratic
+			available = { }
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		SOV = {
+			history = "SOV_NEW_DECADE_COVID_DESC"
+			ideology = communism
+			available = {  }
+			ideas = {
+			}
+			focuses = {
+			}	
+		}
+		UKR = {
+			history = "UKR_NEW_DECADE_COVID_DESC"
+			ideology = democratic
+			available = {  }
+			ideas = {
+			}	
+			focuses = {
+			}		
+		}
+		GER = {
+			history = "GER_NEW_DECADE_COVID_DESC"
+			ideology = democratic
+			available = {  }
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		JAP = {
+			history = "JAP_NEW_DECADE_COVID_DESC"
+			ideology = democratic
+			available = { }
+			ideas = {
+			}	
+			focuses = {
+			}			
+		}
+
+		"---"={
+			history = "OTHER_NEW_DECADE_COVID_DESC"
+		}
+
+
+		# MINORS ####
+		ISR = {
+			minor = yes
+			history = "ISR_NEW_DECADE_COVID_DESC"
+			ideology = democratic
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		NOK = {
+			minor = yes
+			history = "NOK_NEW_DECADE_COVID_DESC"
+			ideology = communism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		KOR = {
+			minor = yes
+			history = "KOR_NEW_DECADE_COVID_DESC"
+			ideology = democratic
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		ENG = {
+			minor = yes
+			history = "ENG_NEW_DECADE_COVID_DESC"
+			ideology = democratic
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		FRA = {
+			minor = yes
+			history = "FRA_NEW_DECADE_COVID_DESC"
+			ideology = democratic
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		TUR = {
+			minor = yes
+			history = "TUR_NEW_DECADE_COVID_DESC"
+			ideology = neutrality
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		PHI = {
+			minor = yes
+			history = "PHI_NEW_DECADE_COVID_DESC"
+			ideology = democratic
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		VIN = {
+			minor = yes
+			history = "VIN_NEW_DECADE_COVID_DESC"
+			ideology = communism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		CAN = {
+			minor = yes
+			history = "CAN_NEW_DECADE_COVID_DESC"
+			ideology = democratic
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		AST = {
+			minor = yes
+			history = "AST_NEW_DECADE_COVID_DESC"
+			ideology = democratic
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

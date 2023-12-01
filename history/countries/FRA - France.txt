@@ -186,7 +186,6 @@ if = {
 	complete_national_focus = FRA_begin_rearmament
 	complete_national_focus = FRA_form_the_popular_front
 	complete_national_focus = FRA_reform_the_labour_laws
-	complete_national_focus = FRA_the_blum_viollette_proposal
 	complete_national_focus = FRA_review_foreign_policy
 	complete_national_focus = FRA_intervention_in_spain
 	complete_national_focus = FRA_buy_time

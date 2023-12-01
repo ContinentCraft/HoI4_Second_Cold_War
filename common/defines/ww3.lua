@@ -1,3 +1,6 @@
+--Game
+NDefines.NGame.START_DATE = "2020.1.1.12"
+NDefines.NGame.END_DATE = "2035.1.1.1"
 NDefines.NGame.LAG_DAYS_FOR_LOWER_SPEED = 100
 NDefines.NGame.LAG_DAYS_FOR_PAUSE = 60
 NDefines.NFocus.MAX_SAVED_FOCUS_PROGRESS = 15
