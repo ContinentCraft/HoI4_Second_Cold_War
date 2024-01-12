@@ -20,10 +20,10 @@ state={
 	}
 
 	provinces={
-		13769 
+		1047 13769 14187 
 	}
 	manpower=309321
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=megalopolis
 	local_supplies=0.000
 }

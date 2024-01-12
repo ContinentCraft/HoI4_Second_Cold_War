@@ -6,7 +6,7 @@ state={
 		owner = MON
 		add_core_of = MON
 		buildings = {
-			infrastructure = 0
+			infrastructure = 2
 
 		}
 
@@ -15,7 +15,7 @@ state={
     provinces={
         1796
     }
-	manpower=566
+	manpower=10566
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=pastoral
 }
