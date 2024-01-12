@@ -1,22 +1,26 @@
-state = {
+
+state={
 	id=1611
 	name="STATE_1611"
-	manpower = 6481
-
-	state_category = rural
 
 	history={
 		owner = CAN
 		victory_points = {
-			13936 1
+			13936 1 
 		}
 		buildings = {
 			infrastructure = 2
+
 		}
 		add_core_of = CAN
+
 	}
 
 	provinces={
-		13935 13936
+		4808 13935 13936 
 	}
+	manpower=6481
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
 }

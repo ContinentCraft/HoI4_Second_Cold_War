@@ -1,11 +1,8 @@
 
 state={
 	id=284
-	name="STATE_284" # North Island
-	manpower = 899836
-	
-	state_category = city
-	
+	name="STATE_284"
+
 	history={
 		owner = NZL
 		buildings = {
@@ -15,27 +12,35 @@ state={
 			air_base = 5
 			4543 = {
 				naval_base = 7
+
 			}
 			1814 = {
 				naval_base = 4
+
 			}
+
 		}
 		victory_points = {
-			1814 10
+			1814 10 
 		}
 		victory_points = {
-			4718 5
+			4718 5 
 		}
 		victory_points = {
-			7887 5
-		}		
+			7887 5 
+		}
 		victory_points = {
 			4543 9 
 		}
 		add_core_of = NZL
+
 	}
 
 	provinces={
-		1565 1713 1746 1786 1801 1814 4543 4615 4718 4748 4804 7692 7742 7783 7826 7887 10334 10373 10609 10710 12362 12604 12617 12664 
+		1565 1713 1746 1786 1801 1814 4543 4615 4718 4748 4797 4804 7692 7742 7783 7826 7863 7887 10334 10373 10609 10710 12362 12565 12604 12617 12664 
 	}
+	manpower=899836
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
 }

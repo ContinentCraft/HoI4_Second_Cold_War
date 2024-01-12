@@ -1,7 +1,7 @@
 
 state={
-    id=1362
-    name="STATE_1362"
+	id=1362
+	name="STATE_1362"
 
 	history={
 		owner = USA
@@ -11,15 +11,16 @@ state={
 		}
 		add_core_of = USA
 		victory_points = {
-			12597 1
+			12597 1 
 		}
 
 	}
 
-    provinces={
-        13930 12597 11667
-    }
+	provinces={
+		1795 4832 7691 10667 11667 12597 13930 
+	}
 	manpower=91281
 	buildings_max_level_factor=1.000
 	state_category=rural
+	local_supplies=0.000
 }

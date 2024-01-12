@@ -12,7 +12,7 @@ state={
 		buildings = {
 			infrastructure = 6
 			air_base = 10
-			dockyard = 1			
+			dockyard = 1
 			6881 = {
 				naval_base = 4
 
@@ -25,11 +25,11 @@ state={
 			6881 5 
 		}
 		victory_points = {
-			11859 3
+			11859 3 
 		}
 		victory_points = {
-			986 1
-		}		
+			986 1 
+		}
 		2024.1.1 = {
 			buildings = {
 				industrial_complex = 1
@@ -41,9 +41,10 @@ state={
 	}
 
 	provinces={
-		986 3784 6881 11859 11876 
+		986 3784 6881 11859 11876 12592 
 	}
 	manpower=402028
 	buildings_max_level_factor=1.000
 	state_category=rural
+	local_supplies=0.000
 }
