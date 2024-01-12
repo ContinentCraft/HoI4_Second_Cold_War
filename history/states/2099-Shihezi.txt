@@ -1,24 +1,22 @@
-
 state={
-	id=2060
-	name="STATE_2060"
+	id=2099
+	name="STATE_2099"
 
 	history={
 		owner = PRC
-		add_core_of = PRC
-		add_claim_by = CHI
 		buildings = {
 			infrastructure = 3
 
 		}
+		add_core_of = PRC
 
 	}
 
 	provinces={
-		1087 1187 14156 
+		1783 10691 15184 15206 
 	}
-	manpower=2000000
+	manpower=450000
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=town
 	local_supplies=0.000
 }

@@ -1,24 +1,22 @@
-
 state={
-	id=878
-	name="STATE_878"
+	id=2101
+	name="STATE_2101"
 
 	history={
 		owner = SOV
 		buildings = {
-			infrastructure = 1
+			infrastructure = 0
 
 		}
 		add_core_of = SOV
-		add_core_of = TAY
 
 	}
 
 	provinces={
-		2900 3336 4733 4859 10607 11328 12687 
+		5506 
 	}
-	manpower=15974
+	manpower=500
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=wasteland
 	local_supplies=0.000
 }
