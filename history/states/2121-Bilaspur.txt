@@ -1,0 +1,22 @@
+state={
+	id=2121
+	name="STATE_2121"
+
+	history={
+		owner = RAJ
+		add_core_of = RAJ
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		8120 16632 16638 16640 16649 
+	}
+	manpower=2000000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

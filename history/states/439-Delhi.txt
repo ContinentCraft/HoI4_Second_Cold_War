@@ -19,10 +19,10 @@ state={
 	}
 
 	provinces={
-		2002 2032 2086 12868 16367 16770 16771 16772 16775 16778 16780 16781 16783 16785 16786 16794 16796 16801 
+		2086 
 	}
-	manpower=5784200
+	manpower=20784200
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=megalopolis
 	local_supplies=0.000
 }

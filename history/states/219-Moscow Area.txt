@@ -9,11 +9,11 @@ state={
 	history={
 		owner = SOV
 		victory_points = {
-			6380 50 
+			6380 300 
 		}
 		buildings = {
 			infrastructure = 4
-			arms_factory = 7
+			arms_factory = 3
 			industrial_complex = 3
 			air_base = 10
 
@@ -22,7 +22,7 @@ state={
 		2022.1.1 = {
 			buildings = {
 				industrial_complex = 4
-				arms_factory = 10
+				arms_factory = 6
 
 			}
 
@@ -33,8 +33,8 @@ state={
 	provinces={
 		301 344 350 366 398 401 3259 3290 3327 3358 6283 6290 6348 6380 6414 9282 9302 9348 9378 9395 11217 11236 11268 11282 11330 
 	}
-	manpower=8335992
+	manpower=18335992
 	buildings_max_level_factor=1.000
-	state_category=megalopolis
+	state_category=metropolis
 	local_supplies=6.000
 }
