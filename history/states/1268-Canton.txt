@@ -22,7 +22,7 @@ state={
 	provinces={
 		1047 13769 14187 
 	}
-	manpower=309321
+	manpower=24309321
 	buildings_max_level_factor=1.000
 	state_category=megalopolis
 	local_supplies=0.000
