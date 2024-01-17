@@ -1,7 +1,7 @@
 
 state={
-	id=2162
-	name="STATE_2162"
+	id=2213
+	name="STATE_2213"
 
 	history={
 		owner = RAJ
@@ -14,10 +14,10 @@ state={
 	}
 
 	provinces={
-		1569 2005 16277 16282 
+		10332 16666 16675 16688 
 	}
-	manpower=2500000
+	manpower=750000
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=rural
 	local_supplies=0.000
 }

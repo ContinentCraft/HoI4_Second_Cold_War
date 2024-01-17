@@ -1,25 +1,21 @@
-
 state={
-	id=437
-	name="STATE_437"
+	id=2212
+	name="STATE_2212"
 
 	history={
 		owner = RAJ
+		add_core_of = RAJ
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 1
+			infrastructure = 2
 
-		}
-		victory_points = {
-			7205 10 
 		}
 
 	}
 
 	provinces={
-		2105 12080 
+		10801 12854 16639 16655 16656 16674 
 	}
-	manpower=4402500
+	manpower=2500000
 	buildings_max_level_factor=1.000
 	state_category=city
 	local_supplies=0.000
