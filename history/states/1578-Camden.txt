@@ -22,10 +22,10 @@ state={
 	}
 
 	provinces={
-		11740 11900 17454 
+		9801 9864 11740 
 	}
 	manpower=1245671
 	buildings_max_level_factor=1.000
-	state_category=metropolis
+	state_category=large_town
 	local_supplies=0.000
 }

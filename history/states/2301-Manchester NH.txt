@@ -1,0 +1,11 @@
+state={
+	id=2301
+	name="STATE_2301"
+	provinces={
+		3712 17519 
+	}
+	manpower=600000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

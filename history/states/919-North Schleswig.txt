@@ -1,3 +1,4 @@
+
 state={
 	id=919
 	name="STATE_919"
@@ -9,12 +10,14 @@ state={
 
 		}
 		add_core_of = DEN
+
 	}
 
 	provinces={
-		332 11251 13356 13419
+		332 11251 13419 
 	}
 	manpower=100000
 	buildings_max_level_factor=1.000
 	state_category=rural
+	local_supplies=0.000
 }

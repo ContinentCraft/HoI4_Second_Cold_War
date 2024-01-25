@@ -6,7 +6,7 @@ state={
 	history={
 		owner = USA
 		buildings = {
-			infrastructure = 6
+			infrastructure = 4
 			industrial_complex = 3
 			dockyard = 4
 			air_base = 10
@@ -36,10 +36,10 @@ state={
 	}
 
 	provinces={
-		788 865 873 951 1506 3823 3925 6846 7558 9779 9931 10343 10412 10439 11738 11841 11873 17415 17417 17418 17424 17425 17426 17429 17430 17431 17433 17441 
+		3823 11841 17425 17429 
 	}
 	manpower=2451054
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=city
 	local_supplies=0.000
 }

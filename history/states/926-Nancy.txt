@@ -13,12 +13,11 @@ state={
 
 		}
 		add_core_of = FRA
-		add_core_of = BGN
 
 	}
 
 	provinces={
-		1346 11516 13431 
+		1346 13431 
 	}
 	manpower=356376
 	buildings_max_level_factor=1.000

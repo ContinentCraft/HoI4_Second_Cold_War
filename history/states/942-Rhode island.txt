@@ -6,11 +6,11 @@ state={
 	history={
 		owner = USA
 		buildings = {
-			infrastructure = 7
+			infrastructure = 4
 
 		}
 		victory_points = {
-			11830 1 
+			11830 20 
 		}
 		add_core_of = USA
 		add_core_of = NEE
@@ -20,8 +20,8 @@ state={
 	provinces={
 		11830 17489 
 	}
-	manpower=40010
+	manpower=1400010
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=city
 	local_supplies=0.000
 }

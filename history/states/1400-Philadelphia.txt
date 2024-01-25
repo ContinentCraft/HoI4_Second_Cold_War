@@ -31,7 +31,7 @@ state={
         891 6845 11799
     }
 
-    state_category=megalopolis
+    state_category=large_city
     manpower=1950961
 	buildings_max_level_factor=1.000
 }

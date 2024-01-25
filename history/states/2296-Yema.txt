@@ -1,0 +1,23 @@
+state={
+	id=2296
+	name="STATE_2296"
+
+	history={
+		owner = PRC
+		add_core_of = PRC
+		add_claim_by = CHI
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+	
+	provinces={
+		5076 15009 
+	}
+	manpower=150
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

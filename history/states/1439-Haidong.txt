@@ -1,21 +1,24 @@
+
 state={
 	id=1439
 	name="STATE_1439"
-	
+
 	history={
 		owner = PRC
 		add_core_of = PRC
 		add_claim_by = CHI
 		buildings = {
 			infrastructure = 1
+
 		}
 
 	}
-	
+
 	provinces={
-		4888 7270 11448 
+		4888 7270 11448 14846 
 	}
 	manpower=150000
 	buildings_max_level_factor=1.000
 	state_category=rural
+	local_supplies=0.000
 }

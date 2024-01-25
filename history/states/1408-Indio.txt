@@ -18,10 +18,10 @@ state={
 	}
 
 	provinces={
-		780 4727 7986 17699 17701 17707 
+		780 4727 5011 7986 17699 17701 17707 
 	}
 	manpower=207230
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=large_town
 	local_supplies=0.000
 }

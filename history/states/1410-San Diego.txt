@@ -31,10 +31,10 @@ state={
 	}
 
 	provinces={
-		823 1562 7517 11757 12374 17705 17706 
+		576 823 1562 7517 11757 12374 17705 17706 
 	}
 	manpower=592070
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=city
 	local_supplies=0.000
 }

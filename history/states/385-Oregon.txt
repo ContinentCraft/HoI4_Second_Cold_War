@@ -22,10 +22,10 @@ state={
 	}
 
 	provinces={
-		528 1414 3454 4274 4347 7398 10151 11495 12281 17790 17793 
+		528 1414 3454 4274 4347 4826 7398 10151 11495 12281 17790 17793 
 	}
 	manpower=197531
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 	local_supplies=0.000
 }

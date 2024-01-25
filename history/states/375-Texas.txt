@@ -45,8 +45,8 @@ state={
 	provinces={
 		805 1500 2082 3960 4577 7628 9920 10337 10504 10778 10861 12486 13318 17296 17297 17307 17312 17318 17326 17327 17331 17337 17339 17344 17346 17349 17359 
 	}
-	manpower=1303790
+	manpower=7303790
 	buildings_max_level_factor=1.000
-	state_category=metropolis
+	state_category=large_city
 	local_supplies=0.000
 }

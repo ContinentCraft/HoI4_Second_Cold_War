@@ -14,7 +14,6 @@ state={
 			849 3 
 		}
 		add_core_of = TUR
-		add_core_of = THR	
 	}
 	
 	provinces={
