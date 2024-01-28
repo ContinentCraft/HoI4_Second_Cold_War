@@ -1,0 +1,21 @@
+state={
+	id=2373
+	name="STATE_2373"
+
+	history={
+		owner = USA
+		add_core_of = USA
+		buildings = {
+			infrastructure = 4
+
+		}
+
+	}
+	provinces={
+		827 3829 6874 9808 
+	}
+	manpower=600000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}
