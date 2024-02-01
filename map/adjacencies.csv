@@ -384,3 +384,17 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 9314;219;impassable;-1;-1;-1;-1;-1;;Sléibhte Pennine
 6320;11218;impassable;-1;-1;-1;-1;-1;;Sléibhte Pennine
 13625;219;impassable;-1;-1;-1;-1;-1;;Sléibhte Pennine
+17778;17777;impassable;-1;-1;-1;-1;-1;;Colorado Rockies
+13947;17774;impassable;-1;-1;-1;-1;-1;;Colorado Rockies
+13949;868;impassable;-1;-1;-1;-1;-1;;Colorado Rockies
+13949;13950;impassable;-1;-1;-1;-1;-1;;Colorado Rockies
+3058;13950;impassable;-1;-1;-1;-1;-1;;Colorado Rockies
+868;7999;impassable;-1;-1;-1;-1;-1;;Colorado Rockies
+868;7684;impassable;-1;-1;-1;-1;-1;;Colorado Rockies
+17744;7684;impassable;-1;-1;-1;-1;-1;;Colorado Rockies
+1740;7818;impassable;-1;-1;-1;-1;-1;;Glen Canyon
+1740;7764;impassable;-1;-1;-1;-1;-1;;Glen Canyon
+17734;17720;impassable;-1;-1;-1;-1;-1;;Grand Canyon
+850;17720;impassable;-1;-1;-1;-1;-1;;Grand Canyon
+850;17714;impassable;-1;-1;-1;-1;-1;;Grand Canyon
+13961;17714;impassable;-1;-1;-1;-1;-1;;Grand Canyon
