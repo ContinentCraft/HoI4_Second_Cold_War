@@ -6,10 +6,11 @@ state={
 	history={
 		owner = USA
 		buildings = {
-			infrastructure = 4
+			infrastructure = 2
 
 		}
 		add_core_of = USA
+		add_core_of = NEE
 		victory_points = {
 			10247 1
 		}

@@ -21,10 +21,10 @@ state={
 	}
 
 	provinces={
-		505 3126 3471 3842 7721 10305 10625 11733 
+		505 3471 11733 
 	}
-	manpower=426150
+	manpower=326150
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 	local_supplies=0.000
 }

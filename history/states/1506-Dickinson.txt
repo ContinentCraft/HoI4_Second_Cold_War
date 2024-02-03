@@ -10,7 +10,6 @@ state={
 
 		}
 		add_core_of = USA
-		add_core_of = SIX
 		victory_points = {
 			6722 1 
 		}
@@ -18,7 +17,7 @@ state={
 	}
 
 	provinces={
-		154 6722 7877 12566 
+		6722 7877 12566 
 	}
 	manpower=25602
 	buildings_max_level_factor=1.000

@@ -1,0 +1,22 @@
+state={
+	id=2533
+	name="STATE_2533"
+
+	history={
+		owner = USA
+		add_core_of = USA
+		add_core_of = CAL
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+	provinces={
+		6681 6745 6757 6772 9730 
+	}
+	manpower=400000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

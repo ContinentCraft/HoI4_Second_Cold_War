@@ -10,7 +10,6 @@ state={
 
 		}
 		add_core_of = USA
-		add_core_of = SIX
 		victory_points = {
 			1747 1 
 		}

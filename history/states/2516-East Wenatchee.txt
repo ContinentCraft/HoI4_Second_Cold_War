@@ -1,0 +1,21 @@
+state={
+	id=2516
+	name="STATE_2516"
+
+	history={
+		owner = USA
+		add_core_of = USA
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+	provinces={
+		11111 
+	}
+	manpower=50000
+	buildings_max_level_factor=1.000
+	state_category=enclave
+	local_supplies=0.000
+}

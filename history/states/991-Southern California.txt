@@ -20,7 +20,7 @@ state={
 	}
 
 	provinces={
-		941 4518 7667 9911 13604 17724 17725 17726 17731 
+		941 9911 17726 
 	}
 	manpower=353501
 	buildings_max_level_factor=1.000
