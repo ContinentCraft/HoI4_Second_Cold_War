@@ -1,0 +1,22 @@
+state={
+	id=2587
+	name="STATE_2587"
+
+	history={
+		owner = INS
+		add_core_of = INS
+		add_core_of = SSI
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+	provinces={
+		12168 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category=enclave
+	local_supplies=0.000
+}

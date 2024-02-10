@@ -15,7 +15,7 @@ state={
 		add_core_of = SOV
 		add_core_of = UDM
 		victory_points = {
-			6278 1 
+			6278 10 
 		}
 
 	}
@@ -25,6 +25,6 @@ state={
 	}
 	manpower=1324935
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=large_town
 	local_supplies=0.000
 }

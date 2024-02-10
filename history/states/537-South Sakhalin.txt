@@ -9,6 +9,7 @@ state={
 	history={
 		owner = SOV
 		add_core_of = SOV
+		add_core_of = FER
 		buildings = {
 			infrastructure = 3
 			12446 = {

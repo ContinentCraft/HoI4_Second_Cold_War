@@ -25,10 +25,10 @@ state={
 	}
 
 	provinces={
-		7381 13985 
+		7381 13985 13996 
 	}
-	manpower=1452000
+	manpower=22452000
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=megalopolis
 	local_supplies=0.000
 }

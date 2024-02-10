@@ -16,14 +16,17 @@ state={
 		add_core_of = SOV
 		add_core_of = FER
 		add_core_of = SIB
+		victory_points = {
+			4728 3 
+		}
 
 	}
 
 	provinces={
 		1823 1839 1863 4728 4744 7878 12207 12522 
 	}
-	manpower=48831
+	manpower=248831
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=town
 	local_supplies=0.000
 }

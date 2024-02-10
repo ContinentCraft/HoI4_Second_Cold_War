@@ -1,0 +1,22 @@
+state={
+	id=2572
+	name="STATE_2572"
+
+	history={
+		owner = INS
+		add_core_of = INS
+		add_core_of = SSM
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+	provinces={
+		4211 
+	}
+	manpower=50000
+	buildings_max_level_factor=1.000
+	state_category=small_island
+	local_supplies=0.000
+}

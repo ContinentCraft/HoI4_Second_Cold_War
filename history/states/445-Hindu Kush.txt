@@ -19,10 +19,10 @@ state={
 	}
 
 	provinces={
-		4990 5105 7847 7903 10813 16897 16901 16904 16905 16908 16910 16912 16916 16924 16925 16933 
+		4990 5105 7847 7975 8044 16912 16924 16933 16934 
 	}
-	manpower=259264
+	manpower=2259264
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=city
 	local_supplies=0.000
 }

@@ -5,6 +5,7 @@ state={
 
 	history={
 		owner = INS
+		add_core_of = INS
 		add_core_of = WPP
 		victory_points = {
 			12371 1 
@@ -21,9 +22,10 @@ state={
 	}
 
 	provinces={
-		1546 4468 4509 4524 4552 7487 7512 7529 7542 7585 10369 10396 12315 12371 12386 
+		1546 4509 4552 7529 7542 10369 10396 12371 
 	}
-	manpower=90000
+	manpower=900000
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=town
+	local_supplies=0.000
 }

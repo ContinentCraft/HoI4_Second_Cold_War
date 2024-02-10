@@ -19,10 +19,10 @@ state={
 	}
 
 	provinces={
-		1107 1978 4558 4998 7975 8044 12717 12763 16934 16935 16951 16954 16961 16963 16966 16969 16971 16975 16976 16977 16978 16979 16980 
+		12717 16971 16975 16976 
 	}
 	manpower=4684400
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=city
 	local_supplies=0.000
 }

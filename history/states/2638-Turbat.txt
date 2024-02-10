@@ -1,0 +1,22 @@
+state={
+	id=2638
+	name="STATE_2638"
+
+	history={
+		owner = PAK
+		add_core_of = PAK
+		add_core_of = BAL
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+	provinces={
+		5043 7917 12761 16149 16150 16167 16871 16881 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

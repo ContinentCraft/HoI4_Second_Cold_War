@@ -15,10 +15,10 @@ state={
 	}
 
 	provinces={
-		1413 4390 7223 7642 10135 12277 12293 17121 17122 17124 17126 17128 17129 17132 
+		1413 4390 6204 17132 
 	}
-	manpower=10469212
+	manpower=4469212
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=city
 	local_supplies=0.000
 }

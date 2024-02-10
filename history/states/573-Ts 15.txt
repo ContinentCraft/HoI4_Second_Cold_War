@@ -8,7 +8,7 @@ state={
 
 	history={
 		victory_points = {
-			10329 1 
+			10185 2 
 		}
 		owner = SOV
 		buildings = {
@@ -16,14 +16,13 @@ state={
 
 		}
 		add_core_of = SOV
-		add_core_of = IDL
 
 	}
 
 	provinces={
 		4265 10185 
 	}
-	manpower=556677
+	manpower=256677
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 	local_supplies=0.000

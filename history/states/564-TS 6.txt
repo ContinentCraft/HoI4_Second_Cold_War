@@ -19,6 +19,9 @@ state={
 		add_core_of = SIB
 		add_core_of = FER
 		add_core_of = BRY
+		victory_points = {
+			7835 8 
+		}
 
 	}
 
@@ -27,6 +30,6 @@ state={
 	}
 	manpower=370893
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 	local_supplies=0.000
 }

@@ -1,0 +1,23 @@
+state={
+	id=2704
+	name="STATE_2704"
+
+	history={
+		owner = SOV
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = SOV
+		add_core_of = BSK
+
+	}
+	
+	provinces={
+		1378 1406 4283 4311 4354 7300 7373 10226 12172 
+	}
+	manpower=600000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

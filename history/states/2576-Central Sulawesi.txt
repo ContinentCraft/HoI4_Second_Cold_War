@@ -1,0 +1,23 @@
+state={
+	id=2576
+	name="STATE_2576"
+
+	history={
+		owner = INS
+		add_core_of = INS
+		add_core_of = SUL
+		add_core_of = GEA
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+	provinces={
+		1098 1484 1505 1518 1561 4262 4307 4493 4537 12358 17139 17142 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

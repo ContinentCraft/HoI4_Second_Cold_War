@@ -1,0 +1,22 @@
+state={
+	id=2595
+	name="STATE_2595"
+
+	history={
+		owner = INS
+		add_core_of = INS
+		add_core_of = MTR
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+	provinces={
+		4434 4621 17131 
+	}
+	manpower=3000000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

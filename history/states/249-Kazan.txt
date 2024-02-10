@@ -14,7 +14,7 @@ state={
 
 		}
 		victory_points = {
-			6338 10 
+			6338 25 
 		}
 		add_core_of = SOV
 		add_core_of = TAT
@@ -29,10 +29,10 @@ state={
 	}
 
 	provinces={
-		228 355 372 403 404 3251 3365 6338 6368 9336 9354 9385 9514 10301 11292 11339 11389 11496 
+		372 404 3251 3365 6338 9336 9354 9514 11292 11339 11496 
 	}
 	manpower=2761291
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=city
 	local_supplies=0.000
 }

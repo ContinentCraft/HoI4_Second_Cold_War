@@ -8,30 +8,30 @@ state={
 
 	history={
 		victory_points = {
+			2050 300 
+		}
+		victory_points = {
 			1891 3 
 		}
 		victory_points = {
 			1969 1 
 		}
-		victory_points = {
-			2025 5 
-		}
 		owner = NGA
 		add_core_of = NGA
 		add_core_of = YOR
 		buildings = {
-			infrastructure = 1
-			arms_factory = 0
+			infrastructure = 3
+			arms_factory = 1
 
 		}
 
 	}
 
 	provinces={
-		1227 1679 1899 2050 2470 2496 2567 2914 2991 3201 4687 5668 5876 6636 8153 8739 12731 12817 13757 18188 18191 18193 18197 18198 18199 18202 18207 18212 18213 18221 18222 
+		2050 8153 8739 
 	}
-	manpower=3683000
+	manpower=15683000
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=metropolis
 	local_supplies=0.000
 }

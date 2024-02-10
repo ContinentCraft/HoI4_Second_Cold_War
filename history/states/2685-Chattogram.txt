@@ -1,0 +1,30 @@
+state={
+	id=2685
+	name="STATE_2685"
+
+	history={
+		owner = BAN
+		add_core_of = BAN
+		victory_points = {
+			9991 100 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			9991 = {
+				naval_base = 3
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		16834 
+	}
+	manpower=7000000
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=0.000
+}

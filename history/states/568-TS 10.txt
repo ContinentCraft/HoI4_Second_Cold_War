@@ -10,7 +10,7 @@ state={
 
 		}
 		victory_points = {
-			4724 1 
+			4724 20 
 		}
 		add_core_of = SOV
 		add_core_of = SIB
@@ -22,6 +22,6 @@ state={
 	}
 	manpower=1187427
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=city
 	local_supplies=0.000
 }

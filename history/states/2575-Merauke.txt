@@ -1,0 +1,22 @@
+state={
+	id=2575
+	name="STATE_2575"
+
+	history={
+		owner = INS
+		add_core_of = INS
+		add_core_of = WPP
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+	provinces={
+		1617 1629 4593 7269 7627 10505 12457 
+	}
+	manpower=400000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

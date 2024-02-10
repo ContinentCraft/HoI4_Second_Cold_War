@@ -10,15 +10,19 @@ state={
 
 		}
 		add_core_of = SOV
+		add_core_of = SIB
 		add_core_of = TAY
+		victory_points = {
+			4859 3 
+		}
 
 	}
 
 	provinces={
 		2900 3336 4733 4859 10607 11328 12687 
 	}
-	manpower=15974
+	manpower=205974
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=rural
 	local_supplies=0.000
 }

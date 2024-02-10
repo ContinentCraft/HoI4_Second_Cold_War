@@ -17,8 +17,8 @@ state={
 	provinces={
 		1985 3742 14815 14833 14893 14939 
 	}
-	manpower=20776
+	manpower=820776
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 	local_supplies=0.000
 }

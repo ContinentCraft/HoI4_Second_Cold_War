@@ -8,17 +8,17 @@ state={
 		add_core_of = NGA
 		add_core_of = BIA
 		buildings = {
-			infrastructure = 1
+			infrastructure = 3
 
 		}
 
 	}
 
 	provinces={
-		54 2296 5288 5344 5450 5496 5877 8034 9021 10831 13706 13709 13727 13756 18181 18183 18185 
+		8034 13709 13727 18182 
 	}
 	manpower=5000000
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=city
 	local_supplies=0.000
 }

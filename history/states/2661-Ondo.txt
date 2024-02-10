@@ -1,0 +1,22 @@
+state={
+	id=2661
+	name="STATE_2661"
+
+	history={
+		owner = NGA
+		add_core_of = NGA
+		add_core_of = YOR
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+	provinces={
+		1227 13757 18188 18189 
+	}
+	manpower=2000000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

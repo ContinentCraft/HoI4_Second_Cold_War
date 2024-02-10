@@ -43,12 +43,12 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 9793;9845;sea;8871;-1;-1;-1;-1;;Menorca-Mallorca
 12299;12113;sea;5539;-1;-1;-1;-1;;Singapore-Batam
 7396;1401;sea;4225;-1;-1;-1;-1;;Bangka Belitung-Sumatra
-1342;10279;sea;2737;-1;-1;-1;-1;;Java-Sumatra
+1342;9059;sea;2737;-1;-1;-1;-1;;Java-Sumatra
 7396;4211;sea;4225;-1;-1;-1;-1;;Bangka-Belitung
 1460;12126;sea;812;-1;-1;-1;-1;;Tanahbala-Sumatra
 12126;1428;sea;812;-1;-1;-1;-1;;Tanahbala-Siberut
 4306;4608;sea;5666;-1;-1;-1;-1;;Soerbaja-Madura
-7654;17117;sea;2239;-1;-1;-1;-1;;Java-Bali
+9215;17117;sea;2239;-1;-1;-1;-1;;Java-Bali
 7293;17117;sea;2239;-1;-1;-1;-1;;Bali-Lombok
 7293;10191;sea;2239;-1;-1;-1;-1;;Lombok-W.Nusa Tenggara
 12162;1298;sea;2124;-1;-1;-1;-1;;West Nusa Tenggara-East Nusa Tenggara
@@ -205,6 +205,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 7114;9793;sea;8845;-1;-1;-1;-1;;Ibiza-Mallorca
 7423;12502;sea;2876;-1;-1;-1;-1;;Panay-Tablas
 4692;11261;sea;13719;-1;-1;-1;-1;;Taymyr-Severnaya Zemlya
+1332;18270;sea;5615;-1;-1;-1;-1;;Nipahpandjang-Singkep
 
 
 #STRAITS

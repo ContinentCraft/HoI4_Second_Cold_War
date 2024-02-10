@@ -1,0 +1,22 @@
+state={
+	id=2628
+	name="STATE_2628"
+
+	history={
+		owner = PAK
+		add_core_of = PAK
+		add_core_of = SIN
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+	provinces={
+		10735 16890 16894 16895 
+	}
+	manpower=1500000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

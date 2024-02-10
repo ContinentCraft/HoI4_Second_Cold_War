@@ -3,6 +3,8 @@ state={
 	id=322
 	name="STATE_322"
 
+	impassable = yes
+
 	history={
 		owner = PRC
 		add_core_of = PRC

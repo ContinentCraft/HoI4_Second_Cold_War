@@ -7,15 +7,12 @@ state={
 		owner = BAN
 		add_core_of = BAN
 		victory_points = {
-			11929 15 
-		}
-		victory_points = {
-			9991 15 
+			11929 400 
 		}
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2
-			11968 = {
+			16843 = {
 				naval_base = 3
 
 			}
@@ -25,10 +22,10 @@ state={
 	}
 
 	provinces={
-		7179 9991 9993 10416 11929 11968 12010 12423 13208 16827 16828 16829 16833 16834 16837 16841 16842 16843 16845 16846 16849 16851 16854 16855 16859 16860 
+		11929 16843 
 	}
-	manpower=19183980
+	manpower=21183980
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=megalopolis
 	local_supplies=0.000
 }

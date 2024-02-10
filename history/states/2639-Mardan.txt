@@ -1,0 +1,21 @@
+state={
+	id=2639
+	name="STATE_2639"
+
+	history={
+		owner = PAK
+		add_core_of = PAK
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+	provinces={
+		12763 16977 16978 16979 
+	}
+	manpower=700000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

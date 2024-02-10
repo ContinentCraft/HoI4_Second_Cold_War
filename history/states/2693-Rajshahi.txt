@@ -1,0 +1,22 @@
+state={
+	id=2693
+	name="STATE_2693"
+
+	history={
+		owner = BAN
+		add_core_of = BAN
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		4616 7662 16857 
+	}
+	manpower=3500000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

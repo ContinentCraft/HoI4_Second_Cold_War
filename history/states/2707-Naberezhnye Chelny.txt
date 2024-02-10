@@ -1,0 +1,24 @@
+
+state={
+	id=2707
+	name="STATE_2707"
+
+	history={
+		owner = SOV
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = SOV
+		add_core_of = TAT
+
+	}
+	
+	provinces={
+		228 355 403 6368 9385 10301 11389 
+	}
+	manpower=800000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

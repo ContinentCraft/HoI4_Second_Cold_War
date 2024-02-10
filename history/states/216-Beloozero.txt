@@ -6,7 +6,7 @@ state={
 	history={
 		owner = SOV
 		victory_points = {
-			11159 1 
+			11159 3 
 		}
 		buildings = {
 			infrastructure = 2
@@ -21,8 +21,8 @@ state={
 	provinces={
 		40 92 2356 3033 6070 6106 9231 11150 11159 13257 
 	}
-	manpower=229564
+	manpower=329564
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 	local_supplies=0.000
 }

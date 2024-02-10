@@ -1,0 +1,22 @@
+state={
+	id=2571
+	name="STATE_2571"
+
+	history={
+		owner = INS
+		add_core_of = INS
+		add_core_of = SSM
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+	provinces={
+		7384 7396 
+	}
+	manpower=150000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

@@ -9,12 +9,12 @@ state={
 	history={
 		owner = SOV
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
 
 		}
 		add_core_of = SOV
 		victory_points = {
-			6124 1 
+			6124 10 
 		}
 
 	}
@@ -22,8 +22,8 @@ state={
 	provinces={
 		88 146 359 3103 3139 3146 3264 3270 3294 3363 3394 6089 6124 6133 6162 6224 6288 6383 9155 9192 9214 9370 11087 11124 11149 11255 11365 
 	}
-	manpower=2115475
+	manpower=1615475
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=large_town
 	local_supplies=0.000
 }

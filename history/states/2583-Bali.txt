@@ -1,0 +1,22 @@
+state={
+	id=2583
+	name="STATE_2583"
+
+	history={
+		owner = INS
+		add_core_of = INS
+		add_core_of = GEA
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+	provinces={
+		4273 17117 
+	}
+	manpower=2000000
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

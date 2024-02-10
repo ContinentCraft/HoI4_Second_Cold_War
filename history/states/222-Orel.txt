@@ -23,10 +23,10 @@ state={
 	}
 
 	provinces={
-		384 6355 9328 9355 11283 11337 11368 
+		384 9328 9355 11283 11337 11368 
 	}
 	manpower=1218607
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 	local_supplies=0.000
 }

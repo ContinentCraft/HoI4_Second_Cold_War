@@ -1,0 +1,25 @@
+state={
+	id=2699
+	name="STATE_2699"
+
+	history={
+		owner = SOV
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = SOV
+		victory_points = {
+			11234 1 
+		}
+
+	}
+	
+	provinces={
+		6293 11234 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}
