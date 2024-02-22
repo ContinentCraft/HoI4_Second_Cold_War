@@ -1,3 +1,4 @@
+
 state={
 	id=963
 	name="STATE_963"
@@ -7,22 +8,26 @@ state={
 		add_core_of = JAP
 		buildings = {
 			industrial_complex = 1
-			infrastructure = 5
+			infrastructure = 4
 
 		}
 		victory_points = {
-			4118 10
+			4118 5 
 		}
 		victory_points = {
-			4153 3
+			1024 5 
+		}
+		victory_points = {
+			4122 5 
 		}
 
 	}
 
 	provinces={
-		1024 4118 4122 4153 
+		1024 4118 4122 
 	}
-	manpower=2421000
+	manpower=1421000
 	buildings_max_level_factor=1.000
 	state_category=town
+	local_supplies=0.000
 }

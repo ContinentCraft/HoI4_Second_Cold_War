@@ -14,13 +14,7 @@ state={
 
 		}
 		victory_points = {
-			7087 3 
-		}
-		victory_points = {
-			10125 25 
-		}
-		victory_points = {
-			12097 10 
+			10125 200 
 		}
 		2024.1.1 = {
 			buildings = {
@@ -34,9 +28,9 @@ state={
 	}
 
 	provinces={
-		4069 4172 7187 10125 14776 
+		10125 
 	}
-	manpower=6174000
+	manpower=9174000
 	buildings_max_level_factor=1.000
 	state_category=large_city
 	local_supplies=0.000

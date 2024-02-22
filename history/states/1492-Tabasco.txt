@@ -6,18 +6,21 @@ state={
 	history={
 		owner = MEX
 		buildings = {
-			infrastructure = 3
+			infrastructure = 4
 
 		}
 		add_core_of = MEX
+		victory_points = {
+			12867 15 
+		}
 
 	}
 
 	provinces={
-		9686 12311 12867 13351 
+		12311 12867 
 	}
-	manpower=14032
+	manpower=1214032
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=large_town
 	local_supplies=0.000
 }

@@ -1,0 +1,25 @@
+state={
+	id=2755
+	name="STATE_2755"
+
+	history={
+		owner = MEX
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = MEX
+		victory_points = {
+			8599 3 
+		}
+
+	}
+	
+	provinces={
+		8599 12850 12897 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

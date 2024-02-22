@@ -9,7 +9,7 @@ state={
 	history={
 		owner = MEX
 		buildings = {
-			infrastructure = 7
+			infrastructure = 4
 			air_base = 2
 			10889 = {
 				naval_base = 2
@@ -28,7 +28,7 @@ state={
 	}
 
 	provinces={
-		2021 10889 17603 17604 17607 
+		2021 10889 
 	}
 	manpower=931319
 	buildings_max_level_factor=1.000

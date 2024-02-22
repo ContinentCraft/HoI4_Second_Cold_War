@@ -10,6 +10,7 @@ state={
 
 		}
 		add_core_of = MEX
+		add_core_of = CHP
 		victory_points = {
 			13747 1 
 		}
@@ -19,8 +20,8 @@ state={
 	provinces={
 		13747 17596 
 	}
-	manpower=17921
+	manpower=1017921
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=town
 	local_supplies=0.000
 }

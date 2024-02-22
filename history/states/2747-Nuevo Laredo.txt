@@ -1,0 +1,26 @@
+state={
+	id=2747
+	name="STATE_2747"
+
+	history={
+		owner = MEX
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = MEX
+		add_core_of = RIO
+		victory_points = {
+			10769 8 
+		}
+
+	}
+	
+	provinces={
+		10769 11737 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

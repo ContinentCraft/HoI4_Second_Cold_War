@@ -6,7 +6,7 @@ state={
 	history={
 		owner = MEX
 		buildings = {
-			infrastructure = 3
+			infrastructure = 4
 			4908 = {
 				naval_base = 3
 
@@ -14,27 +14,26 @@ state={
 
 		}
 		add_core_of = MEX
-		add_core_of = SON
 		victory_points = {
 			4977 3 
 		}
 		victory_points = {
-			4908 1 
+			4908 3 
 		}
 		victory_points = {
 			5071 1 
 		}
 		victory_points = {
-			10765 5 
+			10765 15 
 		}
 
 	}
 
 	provinces={
-		2069 4908 4977 5071 7257 8012 8033 10765 10848 12833 13214 17681 17683 17684 17686 17687 17688 17689 17694 
+		10765 13214 17683 17684 17686 
 	}
-	manpower=303987
+	manpower=1303987
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=large_town
 	local_supplies=0.000
 }

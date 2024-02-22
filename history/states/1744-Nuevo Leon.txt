@@ -1,3 +1,4 @@
+
 state={
 	id=1744
 	name="STATE_1744"
@@ -5,18 +6,22 @@ state={
 	history={
 		owner = MEX
 		buildings = {
-			infrastructure = 3
+			infrastructure = 4
 
 		}
 		add_core_of = MEX
+		add_core_of = RIO
+		victory_points = {
+			17674 100 
+		}
 
 	}
 
 	provinces={
-		2060 6764 12721 12835 13993 17667 17674 17675 17679 
+		12835 17674 17679 
 	}
-	manpower=6000000
+	manpower=5000000
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=large_city
 	local_supplies=0.000
 }

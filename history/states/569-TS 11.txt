@@ -12,6 +12,7 @@ state={
 		}
 		add_core_of = SOV
 		add_core_of = SIB
+		add_core_of = KHA
 		victory_points = {
 			10580 3 
 		}

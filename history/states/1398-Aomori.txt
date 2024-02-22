@@ -5,23 +5,29 @@ state={
 
 	history={
 		owner = JAP
-		victory_points = {
-			6994 5
-		}
+		add_core_of = JAP
 		buildings = {
-			infrastructure = 2
+			infrastructure = 4
 			6994 = {
 				naval_base = 3
+
 			}
 
 		}
-		add_core_of = JAP
+		victory_points = {
+			6994 5 
+		}
+		victory_points = {
+			11847 3 
+		}
+
 	}
 
 	provinces={
-		1063 3848 6994 6873 9859 9865 11847 
+		6873 6994 9859 11847 
 	}
 	manpower=1271205
 	buildings_max_level_factor=1.000
 	state_category=town
+	local_supplies=0.000
 }

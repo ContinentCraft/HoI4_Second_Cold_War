@@ -6,7 +6,7 @@ state={
 	history={
 		owner = MEX
 		buildings = {
-			infrastructure = 1
+			infrastructure = 4
 			4965 = {
 				naval_base = 3
 
@@ -14,17 +14,18 @@ state={
 
 		}
 		victory_points = {
-			4965 5 
+			11031 20 
 		}
 		add_core_of = MEX
+		add_core_of = YUC
 
 	}
 
 	provinces={
-		4965 6884 10063 10111 11031 17642 17649 
+		11031 
 	}
-	manpower=127216
+	manpower=1127216
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=city
 	local_supplies=0.000
 }

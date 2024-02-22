@@ -3,11 +3,11 @@ state={
 	name="STATE_934"
 
 	history={
-		owner = VCT
+		owner = VAT
 		buildings = {
-			infrastructure = 10
+			infrastructure = 5
 		}
-		add_core_of = VCT
+		add_core_of = VAT
 	}
 
 	provinces={

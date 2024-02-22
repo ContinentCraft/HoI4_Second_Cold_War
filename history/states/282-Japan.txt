@@ -16,19 +16,13 @@ state={
 			arms_factory = 1
 			dockyard = 4
 			9998 = {
-				naval_base = 6
+				naval_base = 10
 
 			}
 
 		}
 		victory_points = {
-			1182 750
-		}
-		victory_points = {
-			9998 20 
-		}
-		victory_points = {
-			4188 10 
+			1182 750 
 		}
 		2024.1.1 = {
 			buildings = {
@@ -43,9 +37,9 @@ state={
 	}
 
 	provinces={
-		1097 1182 4184 4188 9998 14819 14862 
+		1182 
 	}
-	manpower=9452000
+	manpower=12452000
 	buildings_max_level_factor=1.000
 	state_category=megalopolis
 	local_supplies=0.000

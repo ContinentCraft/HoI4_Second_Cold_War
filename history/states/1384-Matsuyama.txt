@@ -10,10 +10,10 @@ state={
 		owner = JAP
 		add_core_of = JAP
 		victory_points = {
-			4179 5 
+			4179 10 
 		}
 		buildings = {
-			infrastructure = 3
+			infrastructure = 4
 			industrial_complex = 1
 			air_base = 2
 			4179 = {
@@ -28,8 +28,8 @@ state={
 	provinces={
 		4094 4179 7046 
 	}
-	manpower=722640
+	manpower=1722640
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=large_town
 	local_supplies=0.000
 }

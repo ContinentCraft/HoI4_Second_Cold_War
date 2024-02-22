@@ -11,27 +11,20 @@ state={
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 1
-			8032 = {
-				naval_base = 3
-
-			}
 
 		}
 		add_core_of = MEX
 		victory_points = {
-			4887 3 
-		}
-		victory_points = {
-			8032 1 
+			6402 5 
 		}
 
 	}
 
 	provinces={
-		202 3930 5066 6402 9813 10832 13927 17606 
+		3930 6402 9813 
 	}
-	manpower=970699
+	manpower=1970699
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 	local_supplies=0.000
 }

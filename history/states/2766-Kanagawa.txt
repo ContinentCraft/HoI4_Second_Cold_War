@@ -1,0 +1,25 @@
+state={
+	id=2766
+	name="STATE_2766"
+
+	history={
+		owner = JAP
+		add_core_of = JAP
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			9998 100 
+		}
+
+	}
+
+	provinces={
+		9998 14819 
+	}
+	manpower=10000000
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+	local_supplies=0.000
+}

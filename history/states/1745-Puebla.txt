@@ -1,3 +1,4 @@
+
 state={
 	id=1745
 	name="STATE_1745"
@@ -9,11 +10,14 @@ state={
 
 		}
 		add_core_of = MEX
+		victory_points = {
+			8089 60 
+		}
 
 	}
 
 	provinces={
-		4195 6966 8089 9700 13233 17615 17626 17634 
+		4195 8089 9700 
 	}
 	manpower=5000000
 	buildings_max_level_factor=1.000

@@ -10,11 +10,15 @@ state={
 
 		}
 		add_core_of = MEX
+		add_core_of = YUC
+		victory_points = {
+			4904 1 
+		}
 
 	}
 
 	provinces={
-		4904 6866 7657 8865 17622 17640 
+		4904 6866 17622 17640 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

@@ -1,0 +1,23 @@
+state={
+	id=2765
+	name="STATE_2765"
+
+	history={
+		owner = MEX
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = MEX
+		add_core_of = RIO
+
+	}
+	
+	provinces={
+		2060 6764 13993 17675 
+	}
+	manpower=250000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

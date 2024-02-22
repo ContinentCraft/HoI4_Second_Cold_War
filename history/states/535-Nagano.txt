@@ -13,22 +13,22 @@ state={
 		buildings = {
 			arms_factory = 1
 			industrial_complex = 2
-			infrastructure = 3
+			infrastructure = 4
 			dockyard = 1
 			fuel_silo = 1
 
 		}
 		victory_points = {
-			10032 15 
+			10032 10 
 		}
 
 	}
 
 	provinces={
-		998 7217 10015 10032 
+		998 10032 
 	}
-	manpower=3871000
+	manpower=871000
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=large_town
 	local_supplies=0.000
 }

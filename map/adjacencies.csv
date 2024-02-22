@@ -190,7 +190,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 13427;6336;sea;2752;-1;-1;-1;-1;;Afsluitdijk
 13773;14240;sea;5322;-1;-1;-1;-1;;Mainland China-Kinmen
 14200;14198;sea;8462;-1;-1;-1;-1;;Taiwan-Penghu
-14872;7145;sea;2684;-1;-1;-1;-1;;Dogojima-Japan
+14872;1167;sea;2684;-1;-1;-1;-1;;Dogojima-Japan
 13499;13917;sea;5394;-1;-1;-1;-1;;Tanzania Island 1
 13501;13915;sea;5369;-1;-1;-1;-1;;Tanzania Island 2
 14033;15305;sea;8913;-1;-1;-1;-1;;Magellan Strait 1
@@ -350,17 +350,10 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 17024;4408;impassable;-1;-1;-1;-1;-1;;Siam
 10193;17021;impassable;-1;-1;-1;-1;-1;;Siam
 10193;12125;impassable;-1;-1;-1;-1;-1;;Siam
-4172;7217;impassable;-1;-1;-1;-1;-1;;Japanese Mountains
-7187;7217;impassable;-1;-1;-1;-1;-1;;Japanese Mountains
-7187;10015;impassable;-1;-1;-1;-1;-1;;Japanese Mountains
-10100;10015;impassable;-1;-1;-1;-1;-1;;Japanese Mountains
-1097;12072;impassable;-1;-1;-1;-1;-1;;Japanese Mountains
-11908;12072;impassable;-1;-1;-1;-1;-1;;Japanese Mountains
-10015;11908;impassable;-1;-1;-1;-1;-1;;Japanese Mountains
-11908;11989;impassable;-1;-1;-1;-1;-1;;Japanese Mountains
-4122;1117;impassable;-1;-1;-1;-1;-1;;Japanese Mountains
-4153;1117;impassable;-1;-1;-1;-1;-1;;Japanese Mountains
-11930;4153;impassable;-1;-1;-1;-1;-1;;Japanese Mountains
+1191;10128;impassable;-1;-1;-1;-1;-1;;Japanese Mountains
+7087;10100;impassable;-1;-1;-1;-1;-1;;Japanese Mountains
+7217;10100;impassable;-1;-1;-1;-1;-1;;Japanese Mountains
+15164;15173;impassable;-1;-1;-1;-1;-1;;Japanese Mountains
 9884;915;impassable;-1;-1;-1;-1;-1;;Pyrenees
 9884;9842;impassable;-1;-1;-1;-1;-1;;Pyrenees
 9884;3899;impassable;-1;-1;-1;-1;-1;;Pyrenees

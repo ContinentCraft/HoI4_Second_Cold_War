@@ -10,7 +10,7 @@ state={
 		owner = JAP
 		add_core_of = JAP
 		buildings = {
-			infrastructure = 7
+			infrastructure = 4
 			air_base = 3
 			dockyard = 4
 			arms_factory = 1
@@ -22,13 +22,10 @@ state={
 
 		}
 		victory_points = {
-			1025 10 
+			1025 25 
 		}
 		victory_points = {
-			9950 30 
-		}
-		victory_points = {
-			7110 20 
+			1051 5 
 		}
 		2024.1.1 = {
 			buildings = {
@@ -42,7 +39,7 @@ state={
 	}
 
 	provinces={
-		1025 1158 4027 4164 7110 9950 10020 14700 
+		1025 1051 
 	}
 	manpower=4913000
 	buildings_max_level_factor=1.000

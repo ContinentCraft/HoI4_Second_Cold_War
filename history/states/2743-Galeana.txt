@@ -1,0 +1,23 @@
+state={
+	id=2743
+	name="STATE_2743"
+
+	history={
+		owner = MEX
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = MEX
+		add_core_of = RIO
+
+	}
+	
+	provinces={
+		12721 17667 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

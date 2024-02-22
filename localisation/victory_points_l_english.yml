@@ -272,7 +272,6 @@
  VICTORY_POINTS_9655:0 "Ravensburg"
  
  VICTORY_POINTS_13878:0 "Elblag"
- VICTORY_POINTS_6402:0 "Braunsberg" 
  VICTORY_POINTS_3380:0 "Marienwerder" 
  VICTORY_POINTS_3351:0 "Deutsch-Eylau" 
  VICTORY_POINTS_9346:0 "Neidenburg" 
@@ -632,28 +631,8 @@
  VICTORY_POINTS_10438:0 "Nakhon Ratchasima"
  VICTORY_POINTS_4075:0 "Hanoi"
  VICTORY_POINTS_4401:0 "Saigon"
- VICTORY_POINTS_1182:0 "Tōkyō"
- VICTORY_POINTS_7072:0 "Ōsaka"
- VICTORY_POINTS_1025:0 "Kokura"
- VICTORY_POINTS_1092:0 "Hiroshima"
- VICTORY_POINTS_1117:0 "Niigata"
- VICTORY_POINTS_4102:0 "Kagoshima"
- VICTORY_POINTS_6994:0 "Aomori"
- VICTORY_POINTS_7087:0 "Shizuoka"
- VICTORY_POINTS_7169:0 "Sendai"
- VICTORY_POINTS_7197:0 "Kōchi"
- VICTORY_POINTS_9950:0 "Nagasaki"
- VICTORY_POINTS_10032:0 "Kanazawa"
- VICTORY_POINTS_10125:0 "Nagoya"
- VICTORY_POINTS_10444:0 "Sapporo"
- VICTORY_POINTS_12421:0 "Asahikawa"
- VICTORY_POINTS_12446:0 "Yuzhno-Sakhalinsk"
- VICTORY_POINTS_11932:0 "Naha"
  VICTORY_POINTS_1150:0 "Dalian"
  VICTORY_POINTS_4572:0 "Changchun"
- VICTORY_POINTS_4052:0 "Heijō"
- VICTORY_POINTS_4056:0 "Fuzan"
- VICTORY_POINTS_7125:0 "Keijō"
  VICTORY_POINTS_10433:0 "Harbin"
  VICTORY_POINTS_11771:0 "Mukden"
  VICTORY_POINTS_10265:0 "Manila"
@@ -784,11 +763,6 @@
  VICTORY_POINTS_4872:0 "Winnipeg"
  VICTORY_POINTS_7361:0 "Halifax"
  VICTORY_POINTS_12149:0 "Ville de Québec"
- VICTORY_POINTS_1965:0 "Mexico City"
- VICTORY_POINTS_4956:0 "San Luis Potosi"
- VICTORY_POINTS_12810:0 "Veracruz"
- VICTORY_POINTS_12835:0 "Monterrey"
- VICTORY_POINTS_13089:0 "Guadalajara"
  VICTORY_POINTS_10886:0 "Guatemala City"
  VICTORY_POINTS_12823:0 "San Salvador"
  VICTORY_POINTS_12865:0 "Tegucigalpa"
@@ -1080,43 +1054,6 @@
  VICTORY_POINTS_7418:0 "Xi'an"
  VICTORY_POINTS_4879:0 "Windhoek"
  VICTORY_POINTS_3823:0 "Richmond"
- VICTORY_POINTS_12715:0 "Mérida"
- VICTORY_POINTS_4904:0 "Campeche"
- VICTORY_POINTS_1900:0 "Tuxtla Gutiérrez"
- VICTORY_POINTS_12461:0 "Tijuana"
- VICTORY_POINTS_10769:0 "Reynosa"
- VICTORY_POINTS_5015:0 "Matamoros"
- VICTORY_POINTS_5021:0 "Tampico" 
- VICTORY_POINTS_10773:0 "Oaxaca"  
- VICTORY_POINTS_12721:0 "Ciudad Victoria" 
- VICTORY_POINTS_10889:0 "Coatzacoalcos"
- VICTORY_POINTS_2021:0 "Villahermosa"
- VICTORY_POINTS_8089:0 "Puebla"
- VICTORY_POINTS_8097:0 "Juárez"
- VICTORY_POINTS_2008:0 "León"
- VICTORY_POINTS_2011:0 "Celaya"
- VICTORY_POINTS_7921:0 "Durango"
- VICTORY_POINTS_8057:0 "Culiacán"
- VICTORY_POINTS_10853:0 "Torreón"
- VICTORY_POINTS_12850:0 "Camargo"
- VICTORY_POINTS_1945:0 "Los Mochis" 
- VICTORY_POINTS_10746:0 "Monclova"
- VICTORY_POINTS_10895:0 "Mazatlán"
- VICTORY_POINTS_12736:0 "La Paz"
- VICTORY_POINTS_10830:0 "Chihuahua"
- VICTORY_POINTS_1892:0 "Ensenada"
- VICTORY_POINTS_4908:0 "Guaymas"
- VICTORY_POINTS_10765:0 "Hermosillo"
- VICTORY_POINTS_4977:0 "Ciudad Obregón"
- VICTORY_POINTS_2060:0 "Nuevo Laredo"
- VICTORY_POINTS_12811:0 "Piedras Negras"
- VICTORY_POINTS_10730:0 "Acapulco"
- VICTORY_POINTS_10172:0 "Aguascalientes"
- VICTORY_POINTS_4887:0 "Morelia"
- VICTORY_POINTS_8032:0 "Manzanillo"
- VICTORY_POINTS_12746:0 "Puerto Vallarta"
- VICTORY_POINTS_5071:0 "Agua Prieta"
- VICTORY_POINTS_4965:0 "Cancún"
  VICTORY_POINTS_6526:0 "Truro"
  VICTORY_POINTS_4989:0 "Banjul"
  VICTORY_POINTS_12891:0 "Bissau"
@@ -1153,7 +1090,6 @@
  VICTORY_POINTS_3707:1 "Chisinău"
  VICTORY_POINTS_5128:0 "Antananarivo"
  VICTORY_POINTS_11984:0 "Nicosia"
- VICTORY_POINTS_13215:0 "Mexicali"
  VICTORY_POINTS_391:0 "Utrecht"
  VICTORY_POINTS_9335:0 "Groningen"
  VICTORY_POINTS_6336:0 "Leeuwarden"
@@ -1963,11 +1899,6 @@
 ##East Asia
  VICTORY_POINTS_1573:0 "Buxoro"
  VICTORY_POINTS_10671:0 "Semerkand"
- VICTORY_POINTS_4126:0 "Kōshū"
- VICTORY_POINTS_4086:0 "Taikyū"
- VICTORY_POINTS_7204:0 "Ōta"
- VICTORY_POINTS_7021:0 "Kō-ryō"
- VICTORY_POINTS_12040:0 "Kaesong"
  VICTORY_POINTS_13265:0 "Weihai"
  VICTORY_POINTS_7387:0 "Bandar Brunei"
  VICTORY_POINTS_1291:0 "Alor Setar"
@@ -1976,34 +1907,6 @@
  VICTORY_POINTS_1315:0 "Dawei"
  VICTORY_POINTS_12754:0 "Jammu"
  VICTORY_POINTS_12005:0 "Rawalpindi"
- VICTORY_POINTS_7221:0 "Nigawa"
- VICTORY_POINTS_848:0 "Motoyama"
- VICTORY_POINTS_10110:0 "Kiura"
- VICTORY_POINTS_6822:0 "Kiyotsu"
- VICTORY_POINTS_11835:0 "Shingishū"
- VICTORY_POINTS_11879:0 "Khasan"
- VICTORY_POINTS_6961:0 "Nakhodka"
- VICTORY_POINTS_6989:0 "Ussuriysk"
- VICTORY_POINTS_13294:0 "Keson"
- VICTORY_POINTS_13295:0 "Choruu~on"
- VICTORY_POINTS_4179:0 "Matsuyama"
- VICTORY_POINTS_9965:0 "Takamatsu"
- VICTORY_POINTS_1020:0 "Miyazaki"
- VICTORY_POINTS_7113:0 "Wakayama"
- VICTORY_POINTS_9998:0 "Yokohama"
- VICTORY_POINTS_4188:0 "Chiba"
- VICTORY_POINTS_12097:0 "Hamamatsu"
- VICTORY_POINTS_10055:0 "Tottori"
- VICTORY_POINTS_4118:0 "Iwaki"
- VICTORY_POINTS_4153:0 "Fukushima"
- VICTORY_POINTS_9865:0 "Akita"
- VICTORY_POINTS_11847:0 "Hachinohe"
- VICTORY_POINTS_3962:0 "Hakodate"
- VICTORY_POINTS_7110:0 "Fukuoka"
- VICTORY_POINTS_12006:0 "Kumamoto"
- VICTORY_POINTS_9807:0 "Morioka"
- VICTORY_POINTS_7145:0 "Matsue"
- VICTORY_POINTS_10724:0 "Yinchuan"
  VICTORY_POINTS_4973:0 "Khotan"
  VICTORY_POINTS_9496:0 "Frankfurt an der Oder"
  VICTORY_POINTS_11505:0 "Fürstenwalde"
@@ -2016,8 +1919,157 @@
 ############
 
 #CHINA
- VICTORY_POINTS_10132:0 "Chengdu"
+#Anhui
+#Chongqing
+#Fujian
+#Gansu
+#Guangdong
+#Guizhou
+#Hainan
+#Hebei
  VICTORY_POINTS_12043:0 "Tangshan"
+#Heilongjiang
+#Henan
+#Hubei
+#Hunan
+#Jiangsu
+#Jiangxi
+#Jilin
+#Liaoning
+#Qinghai
+#Shaanxi
+#Shandong
+#Shanxi
+#Sichuan
+ VICTORY_POINTS_10132:0 "Chengdu"
+#Yunnan
+#Zhejiang
+#Guangxi
+#Inner Mongolia
+#Ningxia
+ VICTORY_POINTS_10724:0 "Yinchuan"
+#Tibet
+#Xinjiang (East Turkestan)
+
+#INDIA
+#Andhra Pradesh
+#Arunachal Pradesh
+#Assam
+#Bihar
+#Chhattisgarh
+#Gujarat
+#Haryana
+#Himchal Pradesh
+#Jammu and Kashmir
+#Jharkand
+#Madhya Pradesh
+#Maharashtra
+#Manipur
+#Meghalaya
+#Mizoram
+#Nagaland
+#Karnataka
+#Kerala
+#Ladakh
+#Odisha
+#Punjab
+#Rajasthan
+#Sikkim
+#Tamil Nadu
+#Telangana
+#Tripura
+#Uttar Pradesh
+#Uttarakhand
+#West Bengal
+
+#JAPAN
+ VICTORY_POINTS_1182:0 "Tōkyō"
+ VICTORY_POINTS_9998:0 "Yokohama"
+ VICTORY_POINTS_4188:0 "Chiba"
+ VICTORY_POINTS_7072:0 "Ōsaka"
+ VICTORY_POINTS_10125:0 "Nagoya"
+ VICTORY_POINTS_11960:0 "Kyōto"
+ VICTORY_POINTS_1025:0 "Fukuoka"
+ VICTORY_POINTS_10444:0 "Sapporo"
+ VICTORY_POINTS_7169:0 "Sendai"
+ VICTORY_POINTS_7087:0 "Shizuoka"
+ VICTORY_POINTS_1092:0 "Hiroshima"
+ VICTORY_POINTS_14700:0 "Kitakyūshū"
+ VICTORY_POINTS_7212:0 "Okayama"
+ VICTORY_POINTS_14862:0 "Saitama"
+ VICTORY_POINTS_10032:0 "Kanazawa"
+ VICTORY_POINTS_1191:0 "Toyama"
+ VICTORY_POINTS_1117:0 "Niigata"
+ VICTORY_POINTS_14754:0 "Nara"
+ VICTORY_POINTS_1097:0 "Takasaki"
+ VICTORY_POINTS_4000:0 "Maebashi"
+ VICTORY_POINTS_1113:0 "Utsunomiya"
+ VICTORY_POINTS_7016:0 "Mito"
+ VICTORY_POINTS_4102:0 "Kagoshima"
+ VICTORY_POINTS_14776:0 "Okazaki"
+ VICTORY_POINTS_14771:0 "Toyohashi"
+ VICTORY_POINTS_9950:0 "Nagasaki"
+ VICTORY_POINTS_12421:0 "Asahikawa"
+ VICTORY_POINTS_6994:0 "Aomori"
+ VICTORY_POINTS_4153:0 "Yamagata"
+ VICTORY_POINTS_11989:0 "Nagaoka"
+ VICTORY_POINTS_4142:0 "Yokkaichi"
+ VICTORY_POINTS_7197:0 "Kōchi"
+ VICTORY_POINTS_4172:0 "Gifu"
+ VICTORY_POINTS_10128:0 "Matsumoto"
+ VICTORY_POINTS_4197:0 "Nagano"
+ VICTORY_POINTS_12072:0 "Kōfu"
+ VICTORY_POINTS_7157:0 "Fuji"
+ VICTORY_POINTS_1067:0 "Ōtsu"
+ VICTORY_POINTS_11932:0 "Naha"
+ VICTORY_POINTS_4179:0 "Matsuyama"
+ VICTORY_POINTS_14732:0 "Takamatsu"
+ VICTORY_POINTS_9965:0 "Tokushima"
+ VICTORY_POINTS_12031:0 "Tokushima"
+ VICTORY_POINTS_4164:0 "Kumamoto"
+ VICTORY_POINTS_1020:0 "Miyazaki"
+ VICTORY_POINTS_10092:0 "Ōita"
+ VICTORY_POINTS_1051:0 "Kurume"
+ VICTORY_POINTS_7110:0 "Saga"
+ VICTORY_POINTS_10052:0 "Yamaguchi"
+ VICTORY_POINTS_11985:0 "Shimonoseki"
+ VICTORY_POINTS_7113:0 "Wakayama"
+ VICTORY_POINTS_7102:0 "Fukui"
+ VICTORY_POINTS_12097:0 "Hamamatsu"
+ VICTORY_POINTS_1024:0 "Fukushima"
+ VICTORY_POINTS_9865:0 "Akita"
+ VICTORY_POINTS_11847:0 "Hachinohe"
+ VICTORY_POINTS_3962:0 "Hakodate"
+ VICTORY_POINTS_9807:0 "Morioka"
+ VICTORY_POINTS_10055:0 "Tottori"
+ VICTORY_POINTS_14747:0 "Fukuyama"
+ VICTORY_POINTS_1167:0 "Matsue"
+ VICTORY_POINTS_4122:0 "Kōriyama"
+ VICTORY_POINTS_4118:0 "Iwaki"
+ VICTORY_POINTS_14760:0 "Ise"
+ VICTORY_POINTS_7217:0 "Takayama"
+ VICTORY_POINTS_7595:0 "Kushiro"
+ VICTORY_POINTS_4646:0 "Kitami"
+ VICTORY_POINTS_15160:0 "Obihiro"
+ VICTORY_POINTS_15150:0 "Tomakomai"
+
+#SOUTH KOREA
+ VICTORY_POINTS_7125:0 "Keijō"
+ VICTORY_POINTS_4056:0 "Fuzan"
+ VICTORY_POINTS_7204:0 "Ōta"
+ VICTORY_POINTS_4086:0 "Taikyū"
+ VICTORY_POINTS_7221:0 "Nigawa"
+ VICTORY_POINTS_4126:0 "Kōshū"
+ VICTORY_POINTS_12011:0 "Kō-ryō"
+ VICTORY_POINTS_10110:0 "Kiura"
+ VICTORY_POINTS_13295:0 "Choruu~on"
+
+#NORTH KOREA
+ VICTORY_POINTS_4052:0 "Heijō"
+ VICTORY_POINTS_11835:0 "Shingishū"
+ VICTORY_POINTS_848:0 "Motoyama"
+ VICTORY_POINTS_13294:0 "Keson"
+ VICTORY_POINTS_6822:0 "Kiyotsu"
 
 #TAIWAN
  VICTORY_POINTS_14255:0 "Taoyuan"
@@ -2032,6 +2084,163 @@
  VICTORY_POINTS_14198:0 "Penghu"
  VICTORY_POINTS_1175:0 "Taitung"
  VICTORY_POINTS_14240:0 "Jincheng"
+
+
+################
+#   AMERICAS   #
+################
+
+#UNITED STATES
+#Alabama
+#Alaska
+#Arizona
+#Arkansas
+#California
+#Colorado
+#Connecticut
+#Delaware
+#Florida
+#Georgia
+#Hawaii
+#Idaho
+#Illinois
+#Indiana
+#Iowa
+#Kentucky
+#Kansas
+#Louisiana
+#Maine
+#Massachusetts
+#Maryland
+#Michigan
+#Minnesota
+#Mississippi
+#Missouri
+#Montana
+#Nebraska
+#Nevada
+#New Hampshire
+#New Jersey
+#New Mexico
+#New York
+#North Carolina
+#North Dakota
+#Ohio
+#Oklahoma
+#Oregon
+#Pennsylvania
+#Rhode Island
+#South Carolina
+#South Dakota
+#Tennessee
+#Texas
+#Utah
+#Vermont
+#Virginia
+#Washington
+#West Virginia
+#Wisconsin
+#Wyoming
+
+
+#BRAZIL
+
+
+#MÉXICO
+ VICTORY_POINTS_918:0 "Ciudad de México"
+#Aguascalientes
+ VICTORY_POINTS_10172:0 "Aguascalientes"
+#Baja California
+ VICTORY_POINTS_13215:0 "Mexicali"
+ VICTORY_POINTS_12461:0 "Tijuana"
+ VICTORY_POINTS_1892:0 "Ensenada"
+#Baja California Sur
+ VICTORY_POINTS_12736:0 "La Paz"
+#Campeche
+ VICTORY_POINTS_4904:0 "Campeche"
+#Chiapas
+ VICTORY_POINTS_12573:0 "Tuxtla Gutiérrez"
+ VICTORY_POINTS_1900:0 "San Cristobal de las Casas"
+#Chihuahua
+ VICTORY_POINTS_8097:0 "Juárez"
+ VICTORY_POINTS_10830:0 "Chihuahua"
+ VICTORY_POINTS_8599:0 "Delicias"
+ VICTORY_POINTS_10916:0 "Parral"
+ VICTORY_POINTS_12745:0 "Cuauhtemoc"
+#Coahuila
+ VICTORY_POINTS_7973:0 "Torreón"
+ VICTORY_POINTS_13884:0 "Saltillo"
+ VICTORY_POINTS_10746:0 "Monclova"
+ VICTORY_POINTS_12811:0 "Piedras Negras"
+#Colima
+ VICTORY_POINTS_9909:0 "Manzanillo"
+ VICTORY_POINTS_9800:0 "Colima"
+#Durango
+ VICTORY_POINTS_7921:0 "Durango"
+ VICTORY_POINTS_8003:0 "Gómez Palacio"
+ VICTORY_POINTS_10853:0 "Lerdo"
+#Estado de México
+ VICTORY_POINTS_12755:0 "Toluca"
+ VICTORY_POINTS_17632:0 "Nezahualcóyotl"
+ VICTORY_POINTS_1965:0 "Ecatepec de Morelos"
+#Guanajuato
+ VICTORY_POINTS_2008:0 "León"
+ VICTORY_POINTS_3909:0 "Celaya"
+#Guerrero
+ VICTORY_POINTS_3729:0 "Acapulco"
+ VICTORY_POINTS_6402:0 "Chilpancingo"
+#Hidalgo
+ VICTORY_POINTS_9933:0 "Pachuca"
+#Jalisco
+ VICTORY_POINTS_13089:0 "Guadalajara"
+ VICTORY_POINTS_12746:0 "Puerto Vallarta"
+#Michoacán
+ VICTORY_POINTS_3891:0 "Morelia"
+#Morelos
+ VICTORY_POINTS_17624:0 "Cuernavaca"
+ VICTORY_POINTS_17621:0 "Cuautla Morelos"
+#Nayarit
+ VICTORY_POINTS_13219:0 "Tepic"
+#Nuevo León
+ VICTORY_POINTS_17674:0 "Monterrey"
+#Oaxaca
+ VICTORY_POINTS_10773:0 "Oaxaca"  
+#Puebla
+ VICTORY_POINTS_4195:0 "Puebla"
+#San Luis Potosí
+ VICTORY_POINTS_4956:0 "San Luis Potosi"
+ VICTORY_POINTS_17658:0 "Ciudad Valles"
+#Sinaloa
+ VICTORY_POINTS_8057:0 "Culiacán"
+ VICTORY_POINTS_1945:0 "Los Mochis" 
+ VICTORY_POINTS_10895:0 "Mazatlán"
+#Sonora
+ VICTORY_POINTS_4908:0 "Guaymas"
+ VICTORY_POINTS_10765:0 "Hermosillo"
+ VICTORY_POINTS_4977:0 "Ciudad Obregón"
+ VICTORY_POINTS_5071:0 "Agua Prieta"
+#Querétaro
+ VICTORY_POINTS_13352:0 "Querétaro"
+#Quintana Roo
+ VICTORY_POINTS_11031:0 "Cancún"
+#Tabasco
+ VICTORY_POINTS_12867:0 "Villahermosa"
+#Tamaulipas
+ VICTORY_POINTS_12721:0 "Ciudad Victoria" 
+ VICTORY_POINTS_5021:0 "Tampico" 
+ VICTORY_POINTS_5015:0 "Matamoros"
+ VICTORY_POINTS_17676:0 "Reynosa"
+ VICTORY_POINTS_10769:0 "Nuevo Laredo"
+#Tlaxcala
+ VICTORY_POINTS_1178:0 "Tlaxcala"
+#Veracruz
+ VICTORY_POINTS_12810:0 "Veracruz"
+ VICTORY_POINTS_12810:0 "Xalapa"
+ VICTORY_POINTS_11123:0 "Poza Rica"
+ VICTORY_POINTS_10889:0 "Coatzacoalcos"
+#Yucatán
+ VICTORY_POINTS_12715:0 "Mérida"
+#Zacatecas
 
 
 ##############
@@ -2066,6 +2275,10 @@
  VICTORY_POINTS_12621:0 "Kansk"
  VICTORY_POINTS_9647:0 "Nalchik"
  VICTORY_POINTS_9124:0 "Kotlas"
+ VICTORY_POINTS_11879:0 "Khasan"
+ VICTORY_POINTS_6961:0 "Nakhodka"
+ VICTORY_POINTS_6989:0 "Ussuriysk"
+ VICTORY_POINTS_12446:0 "Yuzhno-Sakhalinsk"
 
 #UKRAINE
  VICTORY_POINTS_9481:0 "Vinnytsia"

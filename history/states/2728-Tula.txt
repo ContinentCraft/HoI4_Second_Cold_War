@@ -1,0 +1,22 @@
+state={
+	id=2728
+	name="STATE_2728"
+
+	history={
+		owner = MEX
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = MEX
+
+	}
+	
+	provinces={
+		932 5645 
+	}
+	manpower=400000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

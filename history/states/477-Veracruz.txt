@@ -19,19 +19,16 @@ state={
 		}
 		add_core_of = MEX
 		victory_points = {
-			12810 5 
-		}
-		victory_points = {
-			8089 10 
+			12810 20 
 		}
 
 	}
 
 	provinces={
-		931 6832 6936 8079 10732 11123 12810 17630 17657 17661 
+		12810 
 	}
 	manpower=1951460
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=city
 	local_supplies=0.000
 }
