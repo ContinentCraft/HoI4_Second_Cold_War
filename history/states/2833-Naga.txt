@@ -1,0 +1,22 @@
+state={
+	id=2833
+	name="STATE_2833"
+
+	history={
+		owner = PHI
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = PHI
+
+	}
+
+	provinces={
+		1372 10306 12279 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

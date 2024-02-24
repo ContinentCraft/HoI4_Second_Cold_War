@@ -8,29 +8,21 @@ state={
 
 	history={
 		buildings = {
+			infrastructure = 3
 
-		}
-		victory_points = {
-			8019 1 
-		}
-		victory_points = {
-			13246 2 
-		}
-		victory_points = {
-			13247 1 
 		}
 		owner = ETH
 		add_core_of = ETH
 		add_core_of = SID
-		add_core_of = ORO
+		add_claim_by = ORO
 
 	}
 
 	provinces={
-		410 6430 6565 6574 8019 8062 9447 13300 17860 
+		17863 
 	}
 	manpower=950000
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 	local_supplies=0.000
 }

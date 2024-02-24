@@ -5,28 +5,29 @@ state={
 
 	history={
 		buildings = {
+			infrastructure = 2
 			industrial_complex = 1
 			air_base = 1
 
 		}
 		victory_points = {
-			7980 2 
+			7980 5 
 		}
 		victory_points = {
 			13298 3 
 		}
 		owner = ETH
 		add_core_of = ETH
-		add_core_of = SOM
 		add_core_of = HAR
+		add_claim_by = SOM
 
 	}
 
 	provinces={
-		7980 9493 11477 12714 13298 17867 17870 
+		7980 11477 12714 
 	}
 	manpower=1500000
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 	local_supplies=0.000
 }

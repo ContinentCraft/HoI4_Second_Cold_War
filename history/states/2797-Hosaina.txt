@@ -1,0 +1,22 @@
+state={
+	id=2797
+	name="STATE_2797"
+
+	history={
+		buildings = {
+			infrastructure = 2
+
+		}
+		owner = ETH
+		add_core_of = ETH
+
+	}
+
+	provinces={
+		9424 11438 
+	}
+	manpower=750000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -1,0 +1,23 @@
+state={
+	id=2806
+	name="STATE_2806"
+
+	history={
+		buildings = {
+			infrastructure = 1
+
+		}
+		owner = ETH
+		add_core_of = ETH
+		add_claim_by = SOM
+
+	}
+
+	provinces={
+		410 3406 3467 4995 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

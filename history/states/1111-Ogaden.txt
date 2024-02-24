@@ -6,7 +6,7 @@ state={
 	history={
 		owner = ETH
 		buildings = {
-			infrastructure = 3
+			infrastructure = 1
 			industrial_complex = 1
 
 		}
@@ -14,15 +14,15 @@ state={
 			12812 1 
 		}
 		add_core_of = ETH
-		add_core_of = SOM
+		add_claim_by = SOM
 
 	}
 
 	provinces={
-		3467 9538 11480 11591 12757 12812 13297 17862 17864 
+		9538 11480 11591 12757 12812 13297 13298 
 	}
-	manpower=3400000
+	manpower=600000
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 	local_supplies=0.000
 }

@@ -1,0 +1,23 @@
+state={
+	id=2808
+	name="STATE_2808"
+
+	history={
+		buildings = {
+			infrastructure = 0
+
+		}
+		owner = ETH
+		add_core_of = ETH
+		add_claim_by = SOM
+
+	}
+
+	provinces={
+		17860 
+	}
+	manpower=15000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

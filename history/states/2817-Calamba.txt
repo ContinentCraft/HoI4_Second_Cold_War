@@ -1,0 +1,25 @@
+state={
+	id=2817
+	name="STATE_2817"
+
+	history={
+		owner = PHI
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = PHI
+		victory_points = {
+			4746 1 
+		}
+
+	}
+
+	provinces={
+		1221 2948 4746 
+	}
+	manpower=1500000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

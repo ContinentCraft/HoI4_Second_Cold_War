@@ -16,20 +16,17 @@ state={
 
 		}
 		victory_points = {
-			5010 5 
-		}
-		victory_points = {
-			7980 1.0 
+			5010 100 
 		}
 		add_core_of = ETH
 
 	}
 
 	provinces={
-		417 504 668 5010 6668 8036 9412 9424 9465 10734 11438 13314 13429 13430 13882 17866 
+		5010 9412 13314 
 	}
 	manpower=5500000
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=large_city
 	local_supplies=0.000
 }
