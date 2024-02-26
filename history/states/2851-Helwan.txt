@@ -1,0 +1,23 @@
+
+state={
+	id=2851
+	name="STATE_2851"
+
+	history={
+		owner = EGY
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = EGY
+
+	}
+
+	provinces={
+		13472 13473 
+	}
+	manpower=3000000
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

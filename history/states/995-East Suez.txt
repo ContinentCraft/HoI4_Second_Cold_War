@@ -6,14 +6,14 @@ state={
 		owner = EGY
 		add_core_of = EGY
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 		}
 
 	}
 	provinces={
 		1155 9947 
 	}
-	manpower=8140
+	manpower=108140
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=pastoral
 }

@@ -1,0 +1,22 @@
+state={
+	id=2874
+	name="STATE_2874"
+
+	history={
+		owner = VIN
+		add_core_of = VIN
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		12232 16994 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

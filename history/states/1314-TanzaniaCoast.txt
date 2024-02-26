@@ -10,7 +10,7 @@ state={
 		owner = TZN
 		add_core_of = TZN
 		victory_points = {
-			13916 3 
+			13916 125 
 		}
 		buildings = {
 			infrastructure = 3

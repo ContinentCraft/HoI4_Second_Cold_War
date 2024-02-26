@@ -9,9 +9,8 @@ state={
 	history={
 		owner = VIN
 		add_core_of = VIN
-		add_core_of = COC
 		victory_points = {
-			4401 3 
+			4401 200 
 		}
 		buildings = {
 			infrastructure = 4
@@ -27,10 +26,10 @@ state={
 	}
 
 	provinces={
-		1396 1423 4401 7238 7347 10261 12232 12288 16990 16992 16993 16994 16996 
+		4401 16992 
 	}
-	manpower=2442000
+	manpower=10442000
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=metropolis
 	local_supplies=0.000
 }

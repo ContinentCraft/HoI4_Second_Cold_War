@@ -1,19 +1,22 @@
+
 state={
 	id=1785
 	name="STATE_1785"
 
-	impassable=yes
+	impassable = yes
 
 	history={
 		owner = LBA
 		add_core_of = LBA
-		buildings={
-			infrastructure=0
+		buildings = {
+			infrastructure = 0
+
 		}
+
 	}
-	
+
 	provinces={
-		1140 13323 
+		13323 
 	}
 	manpower=10000
 	buildings_max_level_factor=1.000

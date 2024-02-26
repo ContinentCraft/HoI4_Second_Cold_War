@@ -6,7 +6,7 @@ state={
 	history={
 		owner = EGY
 		buildings = {
-			infrastructure = 1
+			infrastructure = 2
 
 		}
 		add_core_of = EGY
@@ -14,10 +14,10 @@ state={
 	}
 
 	provinces={
-		1080 9957 10126 12002 17903 17908 17909 17913 
+		9957 12002 17908 17909 
 	}
-	manpower=20194
+	manpower=420194
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=town
 	local_supplies=0.000
 }

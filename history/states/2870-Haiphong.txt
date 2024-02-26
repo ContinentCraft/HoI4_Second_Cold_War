@@ -1,0 +1,22 @@
+state={
+	id=2870
+	name="STATE_2870"
+
+	history={
+		owner = VIN
+		add_core_of = VIN
+		buildings = {
+			infrastructure = 4
+
+		}
+
+	}
+
+	provinces={
+		4119 12048 17066 
+	}
+	manpower=2000000
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}
