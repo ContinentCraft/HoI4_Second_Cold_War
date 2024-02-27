@@ -7,17 +7,17 @@ state={
 		owner = COG
 		add_core_of = COG
 		buildings = {
-			infrastructure = 2
+			infrastructure = 1
 
 		}
 
 	}
 
 	provinces={
-		544 2034 2073 2154 3297 6027 9247 9351 9396 11220 11383 11934 12808 
+		544 2034 9247 9396 9621 
 	}
-	manpower=992891
+	manpower=1992891
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=town
 	local_supplies=0.000
 }

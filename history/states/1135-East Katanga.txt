@@ -15,10 +15,10 @@ state={
 	}
 
 	provinces={
-		37 207 354 1817 4515 6082 6669 9242 11437 11459 13102 13108 13173 13922 
+		37 207 354 1817 6082 9242 13108 13173 13922 
 	}
-	manpower=310010
+	manpower=1310010
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=large_town
 	local_supplies=0.000
 }

@@ -1,7 +1,6 @@
-
 state={
-	id=1331
-	name="STATE_1331"
+	id=2909
+	name="STATE_2909"
 
 	history={
 		owner = COG
@@ -15,9 +14,9 @@ state={
 	}
 
 	provinces={
-		343 1901 12907 
+		387 3333 9301 9386 11214 12795 13347 
 	}
-	manpower=1309212
+	manpower=800000
 	buildings_max_level_factor=1.000
 	state_category=town
 	local_supplies=0.000

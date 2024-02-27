@@ -1,12 +1,10 @@
-
 state={
-	id=1331
-	name="STATE_1331"
+	id=2915
+	name="STATE_2915"
 
 	history={
 		owner = COG
 		add_core_of = COG
-		add_core_of = KTG
 		buildings = {
 			infrastructure = 1
 
@@ -15,9 +13,9 @@ state={
 	}
 
 	provinces={
-		343 1901 12907 
+		560 10883 
 	}
-	manpower=1309212
+	manpower=750000
 	buildings_max_level_factor=1.000
 	state_category=town
 	local_supplies=0.000

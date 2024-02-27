@@ -8,17 +8,17 @@ state={
 		add_core_of = COG
 		add_core_of = KTG
 		buildings = {
-			infrastructure = 3
+			infrastructure = 1
 
 		}
 
 	}
 
 	provinces={
-		387 500 509 765 1516 1929 1968 3333 6400 6544 9301 9386 9488 11109 11214 11599 12795 13129 13347 
+		1968 4515 6400 11109 13102 13129 
 	}
-	manpower=1020021
+	manpower=2020021
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=large_town
 	local_supplies=0.000
 }
