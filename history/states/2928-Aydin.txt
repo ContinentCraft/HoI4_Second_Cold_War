@@ -1,0 +1,22 @@
+state={
+	id=2928
+	name="STATE_2928"
+
+	history={
+		owner = TUR
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = TUR
+
+	}
+
+	provinces={
+		3927 6992 9929 10038 10041 11796 
+	}
+	manpower=1300000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

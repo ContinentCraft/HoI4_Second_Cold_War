@@ -6,10 +6,10 @@ state={
 	history={
 		owner = TUR
 		victory_points = {
-			9833 25 
+			9833 300 
 		}
 		buildings = {
-			infrastructure = 3
+			infrastructure = 4
 			industrial_complex = 2
 			arms_factory = 2
 			air_base = 4
@@ -28,6 +28,6 @@ state={
 	}
 	manpower=1042276
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=metropolis
 	local_supplies=0.000
 }

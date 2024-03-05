@@ -14,10 +14,10 @@ state={
 	}
 
 	provinces={
-		869 921 3870 9830 9861 13122 
+		921 6888 6977 
 	}
-	manpower=324212
+	manpower=1324212
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=city
 	local_supplies=0.000
 }

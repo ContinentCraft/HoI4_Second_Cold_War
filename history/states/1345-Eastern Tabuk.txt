@@ -5,11 +5,12 @@ state={
 
 	history={
 		owner = SAU
+		add_core_of = SAU
+		add_core_of = HEJ
 		buildings = {
 			infrastructure = 1
 
 		}
-		add_core_of = SAU
 
 	}
 

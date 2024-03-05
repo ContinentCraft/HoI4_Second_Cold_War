@@ -18,6 +18,16 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 12885;5708;;-1;-1;-1;-1;-1;;Cayenne
 12828;8107;;-1;1750;1054;1741;1026;;Paramaribo-Tigri
 
+#STRAITS
+
+5407;5382;;-1;-1;-1;-1;-1;GIBRALTAR_STRAIT;Gibraltar North
+5407;2400;;-1;-1;-1;-1;-1;GIBRALTAR_STRAIT;Gibraltar South
+2455;2506;;-1;-1;-1;-1;-1;DANISH_BELTS_STRAIT;Øresund
+5412;7678;;-1;-1;-1;-1;-1;BOSPHORUS_STRAIT;Bosphorus
+7678;7452;;-1;-1;-1;-1;-1;DARDANELLES_STRAIT;Dardanelles
+2800;2776;;-1;-1;-1;-1;-1;YEMEN_DJIBOUTI_STRAIT;Bab-Al-Mandeb
+2943;2919;;-1;-1;-1;-1;-1;HORMUZ_STRAIT;Strait of Hormuz
+
 #STRAIT CROSSINGS
 
 677;9671;sea;5430;-1;-1;-1;-1;GOLDEN_GATE_BRIDGE;Golden Gate Bridge
@@ -206,17 +216,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 7423;12502;sea;2876;-1;-1;-1;-1;;Panay-Tablas
 4692;11261;sea;13719;-1;-1;-1;-1;;Taymyr-Severnaya Zemlya
 1332;18270;sea;5615;-1;-1;-1;-1;;Nipahpandjang-Singkep
-
-
-#STRAITS
-
-5407;5382;;-1;-1;-1;-1;-1;GIBRALTAR_STRAIT;Gibraltar North
-5407;2400;;-1;-1;-1;-1;-1;GIBRALTAR_STRAIT;Gibraltar South
-2455;2506;;-1;-1;-1;-1;-1;DANISH_BELTS_STRAIT;Øresund
-5412;7678;;-1;-1;-1;-1;-1;BOSPHORUS_STRAIT;Bosphorus
-7678;7452;;-1;-1;-1;-1;-1;DARDANELLES_STRAIT;Dardanelles
-2800;2776;;-1;-1;-1;-1;-1;YEMEN_DJIBOUTI_STRAIT;Bab-Al-Mandeb
-2943;2919;;-1;-1;-1;-1;-1;HORMUZ_STRAIT;Strait of Hormuz
 
 
 #IMPASSABLE

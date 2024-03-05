@@ -10,14 +10,15 @@ state={
 
 		}
 		add_core_of = PER
+		add_core_of = KUR
 
 	}
 
 	provinces={
-		2065 5050 8040 14655 14688 14702 14749 
+		5050 8040 14688 14702 14749 
 	}
-	manpower=396396
+	manpower=1396396
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 	local_supplies=0.000
 }

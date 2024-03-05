@@ -6,7 +6,7 @@ state={
 	history={
 		owner = PER
 		victory_points = {
-			12773 1 
+			12773 20 
 		}
 		buildings = {
 			infrastructure = 3
@@ -18,10 +18,10 @@ state={
 	}
 
 	provinces={
-		4943 9816 12773 14701 14717 14729 14768 14774 
+		12773 14701 14717 14729 14768 
 	}
-	manpower=456278
+	manpower=2456278
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=city
 	local_supplies=0.000
 }

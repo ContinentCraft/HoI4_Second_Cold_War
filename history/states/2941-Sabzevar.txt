@@ -1,0 +1,21 @@
+state={
+	id=2941
+	name="STATE_2941"
+
+	state_category=town
+
+	history = {
+		owner = PER
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = PER
+	}
+
+	provinces={
+		8009 11671 12748 14805 14864 14895 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

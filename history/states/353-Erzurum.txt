@@ -6,9 +6,11 @@ state={
 	history={
 		owner = TUR
 		add_core_of = TUR
-		add_core_of = KUR
 		victory_points = {
-			6935 1 
+			6991 5 
+		}
+		victory_points = {
+			12376 2 
 		}
 		buildings = {
 			infrastructure = 3
@@ -20,8 +22,8 @@ state={
 	provinces={
 		652 6991 12376 
 	}
-	manpower=523537
+	manpower=923537
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 	local_supplies=0.000
 }

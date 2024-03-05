@@ -6,7 +6,7 @@ state={
 	history={
 		owner = PER
 		buildings = {
-			infrastructure = 1
+			infrastructure = 2
 
 		}
 		add_core_of = PER
@@ -14,10 +14,10 @@ state={
 	}
 
 	provinces={
-		5089 12756 14442 14457 14496 14533 14540 14558 14566 14593 14611 
+		5089 14442 14457 14496 14540 14558 
 	}
-	manpower=500000
+	manpower=1500000
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=town
 	local_supplies=0.000
 }

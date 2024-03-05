@@ -8,10 +8,10 @@ state={
 		add_core_of = TUR
 		add_core_of = KUR
 		victory_points = {
-			4512 5 
+			4512 20 
 		}
 		victory_points = {
-			13958 2 
+			13958 10 
 		}
 		buildings = {
 			infrastructure = 3
@@ -21,10 +21,10 @@ state={
 	}
 
 	provinces={
-		4512 11759 13958 14948 14954 14967 
+		4512 11759 14954 
 	}
-	manpower=942440
+	manpower=2942440
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=city
 	local_supplies=0.000
 }

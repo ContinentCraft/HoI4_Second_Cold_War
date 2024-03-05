@@ -7,7 +7,7 @@ state={
 		owner = GEO
 		add_core_of = GEO
 		victory_points = {
-			1599 5 
+			1599 20 
 		}
 		buildings = {
 			infrastructure = 3
@@ -28,8 +28,8 @@ state={
 	provinces={
 		1599 6671 9702 14017 14018 
 	}
-	manpower=1923511
+	manpower=1423511
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=city
 	local_supplies=0.000
 }

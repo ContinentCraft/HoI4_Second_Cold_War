@@ -10,15 +10,14 @@ state={
 
 		}
 		add_core_of = TUR
-		add_core_of = PON
 
 	}
 
 	provinces={
 		960 975 3965 11894 
 	}
-	manpower=620421
+	manpower=1120421
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 	local_supplies=0.000
 }

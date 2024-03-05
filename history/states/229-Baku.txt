@@ -10,13 +10,7 @@ state={
 		owner = AZR
 		add_core_of = AZR
 		victory_points = {
-			4458 3 
-		}
-		victory_points = {
-			1536 5 
-		}
-		victory_points = {
-			4477 5 
+			15075 5 
 		}
 		buildings = {
 			infrastructure = 3
@@ -31,8 +25,8 @@ state={
 	provinces={
 		1536 4614 15075 15085 
 	}
-	manpower=2410028
+	manpower=1410028
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=town
 	local_supplies=0.000
 }

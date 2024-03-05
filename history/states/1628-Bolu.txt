@@ -6,7 +6,7 @@ state={
 	history={
 		owner = TUR
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
 
 		}
 		add_core_of = TUR
@@ -14,10 +14,10 @@ state={
 	}
 
 	provinces={
-		890 3905 3919 6871 11866 11883 15108 
+		3905 3919 11866 11883 15108 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 	local_supplies=0.000
 }

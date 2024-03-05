@@ -9,7 +9,7 @@ state={
 
 		}
 		victory_points = {
-			6864 1 
+			6864 3 
 		}
 		add_core_of = TUR
 	}
@@ -19,6 +19,6 @@ state={
 	}
 	manpower=564589
 	buildings_max_level_factor=1.000
-	state_category=enclave
+	state_category=town
 }
 

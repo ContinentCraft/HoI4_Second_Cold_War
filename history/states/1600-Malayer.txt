@@ -14,10 +14,10 @@ state={
 	}
 
 	provinces={
-		1982 14620 14638 14663 14689 14704 
+		1982 14663 14689 14704 
 	}
-	manpower=396396
+	manpower=2396396
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=large_town
 	local_supplies=0.000
 }

@@ -6,7 +6,7 @@ state={
 	history={
 		owner = PER
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 			air_base = 3
 
 		}
@@ -17,8 +17,8 @@ state={
 	provinces={
 		4580 10385 10768 14845 14857 14873 14877 14892 
 	}
-	manpower=2000000
+	manpower=1500000
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 	local_supplies=0.000
 }
