@@ -9,7 +9,7 @@ state={
 	history={
 		owner = SPR
 		victory_points = {
-			3816 3 
+			3816 15 
 		}
 		victory_points = {
 			9840 1 
@@ -30,8 +30,8 @@ state={
 	provinces={
 		948 3816 6878 6901 9812 9840 9842 
 	}
-	manpower=668365
+	manpower=1668365
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=large_town
 	local_supplies=13.000
 }

@@ -1,0 +1,23 @@
+state={
+	id=2955
+	name="STATE_2955"
+
+	history={
+		owner = ALB
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = ALB
+		victory_points = {
+			9780 2 
+		}
+	}
+	
+	provinces={
+		9780 11762 13406 
+	}
+	manpower=250000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

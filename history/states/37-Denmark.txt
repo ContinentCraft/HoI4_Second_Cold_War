@@ -6,7 +6,7 @@ state={
 	history={
 		owner = DEN
 		victory_points = {
-			6287 20 
+			6287 25 
 		}
 		victory_points = {
 			3325 5 
@@ -32,6 +32,6 @@ state={
 	}
 	manpower=2034114
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=city
 	local_supplies=15.000
 }

@@ -10,7 +10,7 @@ state={
 		owner = SLO
 		add_core_of = SLO
 		victory_points = {
-			9692 30 
+			9692 8 
 		}
 		victory_points = {
 			13267 1 
@@ -30,6 +30,6 @@ state={
 	}
 	manpower=1230500
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=town
 	local_supplies=3.000
 }

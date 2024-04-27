@@ -1,0 +1,21 @@
+state={
+	id=2954
+	name="STATE_2954"
+
+	history={
+		owner = GER
+		buildings = {
+			infrastructure = 5
+		}
+		add_core_of = GER
+		add_core_of = WUR
+	}
+
+	provinces={
+		6555 6581 9517 9545 11499 
+	}
+	manpower=1700000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

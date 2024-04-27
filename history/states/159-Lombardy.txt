@@ -6,7 +6,7 @@ state={
 	history={
 		owner = ITA
 		victory_points = {
-			3780 15 
+			3780 60 
 		}
 		victory_points = {
 			773 3 
@@ -34,8 +34,8 @@ state={
 	provinces={
 		607 773 969 3776 3780 6661 6790 9584 11568 11570 11587 
 	}
-	manpower=5597704
+	manpower=3597704
 	buildings_max_level_factor=1.000
-	state_category=metropolis
+	state_category=city
 	local_supplies=0.000
 }

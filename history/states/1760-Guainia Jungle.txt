@@ -6,7 +6,6 @@ state={
 
 	history = {
 		owner = COL
-		add_core_of = COL
 		buildings = {
 			infrastructure = 0
 		}

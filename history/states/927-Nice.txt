@@ -9,7 +9,7 @@ state={
 		add_core_of = OCC
 		add_core_of = SPM
 		victory_points = {
-			13870 5 
+			13870 15 
 		}
 		buildings = {
 			infrastructure = 4
@@ -25,7 +25,7 @@ state={
 	provinces={
 		13870 
 	}
-	manpower=305100
+	manpower=1005100
 	buildings_max_level_factor=1.000
 	state_category=town
 	local_supplies=0.000

@@ -18,6 +18,7 @@ state={
 			}
 
 		}
+		add_core_of = RAJ
 		victory_points = {
 			4245 5 
 		}

@@ -4,9 +4,10 @@ state={
 
 	history={
 		owner = SPR
-		add_core_of = MOR
+		add_core_of = SPR
+		add_claim_by = MOR
 		victory_points = {
-			12100 3 
+			12100 1 
 		}
 		buildings = {
 			infrastructure = 4
@@ -22,7 +23,7 @@ state={
 	provinces={
 		12100 
 	}
-	manpower=221000
+	manpower=51000
 	buildings_max_level_factor=1.000
 	state_category=enclave
 }

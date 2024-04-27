@@ -8,7 +8,7 @@ state={
 
 	history={
 		victory_points = {
-			3755 3 
+			3755 5 
 		}
 		owner = UKR
 		add_core_of = UKR
@@ -23,8 +23,8 @@ state={
 	provinces={
 		568 721 737 767 3573 3755 9712 11715 
 	}
-	manpower=728363
+	manpower=1228363
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 	local_supplies=0.000
 }

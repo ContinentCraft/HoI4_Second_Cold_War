@@ -11,7 +11,7 @@ state={
 
 		}
 		victory_points = {
-			9508 10 
+			9508 15 
 		}
 		add_core_of = POL
 		2024.1.1 = {
@@ -27,8 +27,8 @@ state={
 	provinces={
 		493 584 9439 9508 9546 11428 11515 
 	}
-	manpower=2632000
+	manpower=1632000
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=large_town
 	local_supplies=0.000
 }

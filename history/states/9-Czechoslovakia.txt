@@ -9,7 +9,7 @@ state={
 	history={
 		owner = CZE
 		victory_points = {
-			11542 30 
+			11542 25 
 		}
 		victory_points = {
 			6418 5 
@@ -34,6 +34,6 @@ state={
 	}
 	manpower=4492600
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=city
 	local_supplies=0.000
 }

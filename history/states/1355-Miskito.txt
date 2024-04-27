@@ -19,6 +19,7 @@ state={
 
 		}
 		add_core_of = NIC
+		add_core_of = MIS
 		victory_points = {
 			13748 2
 		}

@@ -8,7 +8,7 @@ state={
 	history={
 		owner = POR
 		victory_points = {
-			11805 20 
+			11805 60 
 		}
 		victory_points = {
 			3798 1 
@@ -30,7 +30,7 @@ state={
 	provinces={
 		799 3798 3861 6924 11805 
 	}
-	manpower=1995800
+	manpower=3995800
 	buildings_max_level_factor=1.000
 	state_category=city
 

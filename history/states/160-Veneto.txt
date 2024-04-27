@@ -10,13 +10,13 @@ state={
 	history={
 		owner = ITA
 		victory_points = {
-			11584 10 
+			11584 12 
 		}
 		victory_points = {
-			3604 3 
+			3604 15 
 		}
 		victory_points = {
-			603 1 
+			603 12 
 		}
 		buildings = {
 			infrastructure = 3
@@ -46,8 +46,8 @@ state={
 	provinces={
 		603 628 3604 3657 6656 9582 9613 11584 13504 
 	}
-	manpower=3963151
+	manpower=1963151
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=large_town
 	local_supplies=5.000
 }

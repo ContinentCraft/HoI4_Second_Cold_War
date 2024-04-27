@@ -7,8 +7,6 @@ state={
 
 	history={
 		owner = MLI
-		add_core_of = MLI
-		add_core_of = AZA
 		buildings = {
 			infrastructure = 0
 

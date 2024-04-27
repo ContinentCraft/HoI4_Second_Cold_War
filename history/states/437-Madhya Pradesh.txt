@@ -13,6 +13,7 @@ state={
 		victory_points = {
 			7205 10 
 		}
+		add_core_of = RAJ
 
 	}
 

@@ -10,10 +10,10 @@ state={
 		owner = HOL
 		add_core_of = HOL
 		victory_points = {
-			391 40 
+			391 20 
 		}
 		victory_points = {
-			3211 10 
+			3211 15 
 		}
 		victory_points = {
 			9498 20 
@@ -36,8 +36,8 @@ state={
 	provinces={
 		68 391 3211 3314 8545 8622 8989 9125 9498 13427 
 	}
-	manpower=4123000
+	manpower=1623000
 	buildings_max_level_factor=1.000
-	state_category=metropolis
+	state_category=city
 	local_supplies=0.000
 }

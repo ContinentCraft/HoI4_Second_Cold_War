@@ -2,14 +2,14 @@ state=
 {
 	id=177
 	name="STATE_177"
-	manpower = 365500
+	manpower = 865500
 	
-	state_category = rural
+	state_category = town
 	
 	history=
 	{
 		victory_points = {
-			9793 1
+			9793 10
 		}
 		owner = SPR
 		buildings = {

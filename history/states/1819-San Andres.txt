@@ -5,6 +5,7 @@ state={
 	history={
 		owner = COL
 		add_core_of = COL
+		add_core_of = MIS
 		buildings={
 			infrastructure=2
 		}

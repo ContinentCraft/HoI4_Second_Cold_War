@@ -16,6 +16,12 @@ state={
 			}
 
 		}
+		victory_points = {
+			310 3 
+		}
+		victory_points = {
+			222 1 
+		}
 		add_core_of = LAT
 
 	}
@@ -23,7 +29,7 @@ state={
 	provinces={
 		222 310 3298 6459 7482 
 	}
-	manpower=600250
+	manpower=500250
 	buildings_max_level_factor=1.000
 	state_category=town
 	local_supplies=0.000

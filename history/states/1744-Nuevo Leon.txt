@@ -10,7 +10,7 @@ state={
 
 		}
 		add_core_of = MEX
-		add_core_of = RIO
+		add_core_of = RIG
 		victory_points = {
 			17674 100 
 		}

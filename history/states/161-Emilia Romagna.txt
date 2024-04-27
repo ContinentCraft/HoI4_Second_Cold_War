@@ -9,13 +9,13 @@ state={
 	history={
 		owner = ITA
 		victory_points = {
-			6606 5 
+			6606 15 #Bologna
 		}
 		victory_points = {
-			6793 3 
+			6793 3 #Ferrara
 		}
 		victory_points = {
-			9752 1 
+			9752 3 #Modena
 		}
 		buildings = {
 			infrastructure = 4
@@ -35,8 +35,8 @@ state={
 	provinces={
 		782 3976 6606 6793 9752 9924 11734 13379 13505 14024 
 	}
-	manpower=3202401
+	manpower=1702401
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=large_town
 	local_supplies=0.000
 }

@@ -2,9 +2,9 @@
 state={
 	id=128
 	name="STATE_128"
-	manpower = 3685235
+	manpower = 2685235
 	
-	state_category = metropolis
+	state_category = city
 	resources={
 		steel=27 # was: 48
 	}
@@ -18,7 +18,7 @@ state={
 			air_base = 6
 		}
 		victory_points = {
-			9297 25
+			9297 30
 		}
 		add_core_of = ENG
 		2024.1.1 = {

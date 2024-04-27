@@ -16,6 +16,7 @@ state={
 			}
 		}
 		add_core_of = HON
+		add_core_of = MIS
 		victory_points = {
 			13732 2
 		}

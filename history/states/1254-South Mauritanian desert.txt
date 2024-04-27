@@ -7,7 +7,6 @@ state={
 
 	history={
 		owner = MRT
-		add_core_of = MRT
 		buildings = {
 			infrastructure = 0
 

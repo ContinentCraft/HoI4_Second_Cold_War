@@ -6,13 +6,16 @@ state={
 	history={
 		owner = BEL
 		victory_points = {
-			3516 5 
+			13081 8 
 		}
 		victory_points = {
-			11519 10 
+			9444 5 
 		}
 		victory_points = {
 			9536 3 
+		}
+		victory_points = {
+			6537 12 
 		}
 		buildings = {
 			infrastructure = 3
@@ -28,8 +31,8 @@ state={
 	provinces={
 		3516 3959 6537 9444 9472 9536 11519 13081 13421 
 	}
-	manpower=3381300
+	manpower=2381300
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=large_town
 	local_supplies=14.000
 }

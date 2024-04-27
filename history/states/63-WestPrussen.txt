@@ -12,10 +12,13 @@ state={
 		add_core_of = POL
 		add_core_of = KSH
 		victory_points = {
-			6282 5 
+			6282 8 
 		}
 		victory_points = {
-			11372 3 
+			13299 3 
+		}
+		victory_points = {
+			9361 3 
 		}
 		buildings = {
 			infrastructure = 3

@@ -18,7 +18,7 @@ state={
 			}
 		}
 		victory_points = {
-			11683 3 
+			11683 10 
 		}
 
 	}
@@ -26,8 +26,8 @@ state={
 	provinces={
 		409 574 3403 6597 11546 11683 
 	}
-	manpower=896311
+	manpower=1396311
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=large_town
 	local_supplies=5.000
 }

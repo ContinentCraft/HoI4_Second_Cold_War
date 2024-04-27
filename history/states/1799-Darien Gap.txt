@@ -6,7 +6,6 @@ state={
 
 	history={
 		owner = PAN
-		add_core_of = PAN
 		buildings={
 			infrastructure=0
 		}

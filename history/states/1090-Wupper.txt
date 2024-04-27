@@ -14,10 +14,10 @@ state={
 	}
 
 	provinces={
-		529 3512 9482 11391 
+		3512 9482 
 	}
 	manpower=3000000
 	buildings_max_level_factor=1.000
-	state_category=metropolis
+	state_category=city
 	local_supplies=0.000
 }
