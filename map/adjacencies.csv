@@ -100,14 +100,14 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 1085;10291;sea;5868;-1;-1;-1;-1;;Malaita-Guadalcanal
 15232;4576;sea;4465;-1;-1;-1;-1;;Sakhalin-Hokkaido
 12661;7884;sea;3253;-1;-1;-1;-1;;Kodiak-Alaska
-11985;14700;sea;8791;-1;-1;-1;-1;;Japan-Kyushu
+11985;14700;sea;5845;-1;-1;-1;-1;;Honshu-Kyushu
 4094;7212;sea;8791;-1;-1;-1;-1;;Shikoku-Chugoku
 14732;7072;sea;8791;-1;-1;-1;-1;;Shikoku-Kansai
 1399;1515;sea;8893;-1;-1;-1;-1;;Kurils 1
 1515;13037;sea;5640;-1;-1;-1;-1;;Kurils 2
 13037;1512;sea;4465;-1;-1;-1;-1;;Kurils-Hokkaido
 9952;1117;sea;2658;-1;-1;-1;-1;;Niigata-Sado
-10092;7046;sea;8791;-1;-1;-1;-1;;Kyushu-Shikoku
+10092;7046;sea;5845;-1;-1;-1;-1;;Kyushu-Shikoku
 4198;12032;sea;7242;-1;-1;-1;-1;;Kanoya-Yokushima
 10124;11932;sea;8499;-1;-1;-1;-1;;Okinawa
 3995;13024;sea;2855;-1;-1;-1;-1;;Saipan-Tinian
@@ -156,7 +156,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 9833;11829;sea;5412;-1;-1;-1;-1;;Bosphorus
 9680;6741;sea;8282;-1;-1;-1;-1;;Kerch Strait
 9859;3962;sea;5946;-1;-1;-1;-1;;Tsugaru Strait
-4160;1070;sea;5244;-1;-1;-1;-1;;Hainan-Strait
+4160;1070;sea;8604;-1;-1;-1;-1;;Hainan-Strait
 7259;1393;sea;5257;-1;-1;-1;-1;;Vancouver-Strait
 11047;198;sea;8370;-1;-1;-1;-1;;Barents-Strait
 11157;3145;sea;5792;-1;-1;-1;-1;;Northern-Straits

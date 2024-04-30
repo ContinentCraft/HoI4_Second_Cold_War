@@ -1,9 +1,7 @@
+
 state={
 	id=1567
 	name="STATE_1567"
-	
-	state_category = pastoral
-
 
 	history={
 		owner = ZAM
@@ -12,11 +10,14 @@ state={
 			infrastructure = 1
 
 		}
+
 	}
 
 	provinces={
-		7907
+		7907 11152 
 	}
 	manpower=9726
 	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
 }

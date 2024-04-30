@@ -1,0 +1,25 @@
+state={
+	id=2960
+	name="STATE_2960"
+
+	history={
+		owner = SIA
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = SIA
+		victory_points = {
+			12195 10 
+		}
+
+	}
+
+	provinces={
+		4582 12195 12388 17016 17020 
+	}
+	manpower=2000000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

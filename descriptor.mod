@@ -20,5 +20,5 @@ tags={
 	"Events"
 }
 name="WW3"
-supported_version="1.13.*"
+supported_version="1.14.*"
 path="/Users/continentcraft/Documents/Paradox Interactive/Hearts of Iron IV/mod/ww3"

@@ -11,15 +11,16 @@ state={
 
 		}
 		victory_points = {
-			10978 5
+			10978 5 
 		}
 
 	}
 
 	provinces={
-		10957 10978 
+		130 10957 10978 
 	}
 	manpower=123762
 	buildings_max_level_factor=1.000
 	state_category=pastoral
+	local_supplies=0.000
 }

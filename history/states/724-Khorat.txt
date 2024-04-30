@@ -12,15 +12,15 @@ state={
 			infrastructure = 3
 
 		}
-		victory_points = {
-			7236 1 
-		}
 		add_core_of = SIA
+		victory_points = {
+			12201 5 
+		}
 
 	}
 
 	provinces={
-		1281 1337 1366 1394 4312 4371 10156 10158 12201 12230 12286 16985 
+		1281 1308 1394 4312 4388 12201 
 	}
 	manpower=1331400
 	buildings_max_level_factor=1.000
