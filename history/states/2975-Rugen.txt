@@ -1,23 +1,20 @@
-
 state={
-	id=2836
-	name="STATE_2836"
+	id=2975
+	name="STATE_2975"
 
 	history={
-		owner = PHI
+		owner = GER
 		buildings = {
 			infrastructure = 3
-
 		}
-		add_core_of = PHI
-
+		add_core_of = GER
 	}
 
 	provinces={
-		1234 1824 4266 12116 12158 
+		3054 
 	}
-	manpower=2000000
+	manpower=30000
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=enclave
 	local_supplies=0.000
 }

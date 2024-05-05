@@ -1,3 +1,4 @@
+
 state={
 	id=2701
 	name="STATE_2701"
@@ -12,9 +13,9 @@ state={
 		add_core_of = KAR
 
 	}
-	
+
 	provinces={
-		3 127 138 9055 13194 
+		3 127 9045 13194 
 	}
 	manpower=100000
 	buildings_max_level_factor=1.000

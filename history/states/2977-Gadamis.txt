@@ -1,23 +1,20 @@
-
 state={
-	id=1325
-	name="STATE_1325"
+	id=2977
+	name="STATE_2977"
 
 	history={
-		owner = ZIM
-		add_core_of = ZIM
+		owner = LBA
 		buildings = {
 			infrastructure = 1
-
 		}
-
+		add_core_of = LBA
 	}
 
 	provinces={
-		9162 11148 11187 13918 
+		7139 
 	}
-	manpower=1250000
+	manpower=40000
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=wasteland
 	local_supplies=0.000
 }

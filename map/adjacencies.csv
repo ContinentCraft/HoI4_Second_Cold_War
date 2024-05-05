@@ -4,7 +4,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 
 5388;803;sea;1155;-1;-1;-1;-1;SUEZ_CANAL;Suez
 8857;2284;sea;13662;1422;1106;1416;1116;PANAMA_CANAL;Panama
-2729;2408;sea;13774;2703;1897;2689;1884;KIEL_CANAL;Kiel
+2729;2408;sea;13774;2710;1894;2692;1882;KIEL_CANAL;Kiel
 13157;8642;sea;4345;1482;1706;1562;1762;LAWRENCE_STRAIT;Saint Lawrence
 13199;13156;sea;9724;-1;-1;-1;-1;STCLAIR_RIVER;St Clair River
 13156;13253;sea;6710;-1;-1;-1;-1;DETROIT_RIVER;Detroit River
@@ -216,6 +216,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 7423;12502;sea;2876;-1;-1;-1;-1;;Panay-Tablas
 4692;11261;sea;13719;-1;-1;-1;-1;;Taymyr-Severnaya Zemlya
 1332;18270;sea;5615;-1;-1;-1;-1;;Nipahpandjang-Singkep
+9388;3054;sea;2358;-1;-1;-1;-1;;Germany-Rügen
 
 
 #IMPASSABLE
