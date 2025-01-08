@@ -15,6 +15,7 @@ state={
 
 		}
 		add_core_of = GER
+		add_core_of = RHI
 		2023.1.1 = {
 			buildings = {
 				radar_station = 1

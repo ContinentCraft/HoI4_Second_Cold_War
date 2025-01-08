@@ -6,8 +6,8 @@ state={
 	state_category = small_island
 
 	history={
-		owner = POR
-		add_core_of = CPV
+		owner = CBV
+		add_core_of = CBV
 		buildings = {
 			infrastructure = 3
 			13014 ={

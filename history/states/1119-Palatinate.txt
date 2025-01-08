@@ -12,6 +12,7 @@ state={
 			3574 8 
 		}
 		add_core_of = GER
+		add_core_of = HES
 
 	}
 

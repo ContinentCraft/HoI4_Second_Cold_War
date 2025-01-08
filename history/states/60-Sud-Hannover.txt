@@ -22,7 +22,7 @@ state={
 
 		}
 		add_core_of = GER
-		add_core_of = PRE
+		add_core_of = THU
 		2024.1.1 = {
 			buildings = {
 				synthetic_refinery = 3
