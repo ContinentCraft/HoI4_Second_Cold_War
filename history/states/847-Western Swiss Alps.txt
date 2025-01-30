@@ -1,21 +1,17 @@
-
 state={
 	id=847
 	name="STATE_847"
-
+	provinces={
+		3612 9587 
+	}
 	history={
 		owner = SWI
 		buildings = {
-			infrastructure = 1
+			infrastructure = 3
 			industrial_complex = 1
 
 		}
 		add_core_of = SWI
-
-	}
-
-	provinces={
-		3612 9587 9618 
 	}
 	manpower=178429
 	buildings_max_level_factor=1.000

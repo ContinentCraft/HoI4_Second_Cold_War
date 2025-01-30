@@ -9,7 +9,7 @@ state={
 	history={
 		owner = POR
 		victory_points = {
-			6986 1 
+			9869 1 
 		}
 		victory_points = {
 			924 1 
@@ -24,7 +24,7 @@ state={
 	}
 
 	provinces={
-		924 3886 3926 6986 11768 
+		924 3886 3926 9869 11768 
 	}
 	manpower=729712
 	buildings_max_level_factor=1.000

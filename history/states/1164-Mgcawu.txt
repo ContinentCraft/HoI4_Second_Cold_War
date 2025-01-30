@@ -2,20 +2,22 @@
 state={
 	id=1164
 	name="STATE_1164"
-	
-	state_category=town
 
 	history={
 		owner = SAF
 		buildings = {
 			infrastructure = 4
+
 		}
 		add_core_of = SAF
+
 	}
-	
+
 	provinces={
-		1509 13394 13398 10668
+		1509 10668 11779 13394 13398 
 	}
 	manpower=152692
 	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
 }

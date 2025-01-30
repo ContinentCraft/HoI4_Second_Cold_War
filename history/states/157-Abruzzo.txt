@@ -22,12 +22,12 @@ state={
 
 		}
 		add_core_of = ITA
-		add_core_of = PAP
+		add_core_of = TTS
 
 	}
 
 	provinces={
-		925 963 967 3966 6831 6926 9838 11790 11861 11882 14022 14023 
+		963 3966 6831 9838 11882 
 	}
 	manpower=979335
 	buildings_max_level_factor=1.000

@@ -1,0 +1,19 @@
+state={
+	id=2995
+	name="STATE_2995"
+	history = {
+		owner = ENG
+		add_core_of = ENG
+		add_core_of = SCO
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces={
+		9314 9350 11218 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

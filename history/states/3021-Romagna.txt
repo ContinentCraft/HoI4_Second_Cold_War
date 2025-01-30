@@ -1,0 +1,21 @@
+state={
+	id=3021
+	name="STATE_3021"
+
+	history={
+		owner = ITA
+		add_core_of = ITA
+		add_core_of = PAP
+		buildings={
+			infrastructure=4
+		}
+	}
+
+	provinces={
+		782 6793 9924 13505 
+	}
+	manpower=2000000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

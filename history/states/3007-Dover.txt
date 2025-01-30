@@ -1,0 +1,22 @@
+state={
+	id=3007
+	name="STATE_3007"
+
+	history={
+		owner = ENG
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = ENG
+
+	}
+
+	provinces={
+		3501 
+	}
+	manpower=40000
+	buildings_max_level_factor=1.000
+	state_category=enclave
+	local_supplies=0.000
+}

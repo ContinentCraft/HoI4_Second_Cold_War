@@ -1,0 +1,18 @@
+state={
+	id=2978
+	name="STATE_2978"
+	provinces={
+		22 3758 6351 11471 
+	}
+	history = {
+		owner = ENG
+		add_core_of = ENG
+		buildings = {
+			infrastructure = 4
+		}
+	}
+	manpower=2000000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

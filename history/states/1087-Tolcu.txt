@@ -1,3 +1,4 @@
+
 state={
 	id=1087
 	name="STATE_1087"
@@ -17,12 +18,14 @@ state={
 			}
 
 		}
+
 	}
 
 	provinces={
-		657 687 3076 6677 9635 13311 
+		657 687 3076 9635 13311 
 	}
 	manpower=510040
 	buildings_max_level_factor=1.000
 	state_category=town
+	local_supplies=0.000
 }

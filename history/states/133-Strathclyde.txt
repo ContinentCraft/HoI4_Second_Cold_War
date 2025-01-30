@@ -1,15 +1,6 @@
-
 state={
 	id=133
-	name="STATE_133" # Lanark
-	manpower = 2257723
-	
-	state_category = city
-	
-	resources={
-		steel=21 # was: 36
-	}
-
+	name="STATE_133"
 	history={
 		add_core_of = SCO
 		owner = ENG
@@ -38,10 +29,14 @@ state={
 			}
 		}
 	}
-
-	provinces={
-		3273 6320 6350 6385 6395 9237 9350 11218 
+	resources={
+		steel=21.000
 	}
-
-	local_supplies=0.0 
+	provinces={
+		3273 6320 6385 
+	}
+	manpower=2257723
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
 }

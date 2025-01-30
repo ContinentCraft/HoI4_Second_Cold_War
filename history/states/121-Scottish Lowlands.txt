@@ -1,11 +1,6 @@
-
 state={
 	id=121
-	name="STATE_121" # Lothian
-	manpower = 1631624
-	
-	state_category = large_town
-
+	name="STATE_121"
 	history={
 		add_core_of = SCO
 		owner = ENG
@@ -22,10 +17,11 @@ state={
 		}
 		add_core_of = ENG
 	}
-
 	provinces={
-		159 6300 9314 9383 9392 11378 
+		3178 6300 9383 9392 11378 
 	}
-
-	local_supplies=0.0 
+	manpower=1631624
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
 }

@@ -1,0 +1,21 @@
+state={
+	id=3005
+	name="STATE_3005"
+	provinces={
+		3884 11767 13405 13910 
+	}
+
+	history={
+		owner = ALB
+		add_core_of = ALB
+		buildings = {
+			infrastructure = 2
+
+		}
+	}
+
+	manpower=800000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

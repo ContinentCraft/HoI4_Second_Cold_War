@@ -7,7 +7,7 @@ state={
 		owner = CRO
 		add_core_of = CRO
 		victory_points = {
-			13269 1 
+			3943 1 
 		}
 		buildings = {
 			infrastructure = 3
@@ -17,19 +17,11 @@ state={
 			}
 
 		}
-		# start_resistance = CRO
-		# set_compliance = 70
-		# set_state_name = STATE_163_ITA
-		# set_province_name = {
-		# 	id = 13269
-		# 	name = VICTORY_POINTS_13269_ITA
-
-		# }
 
 	}
 
 	provinces={
-		13269 
+		3943 
 	}
 	manpower=20000
 	buildings_max_level_factor=1.000

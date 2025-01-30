@@ -1,14 +1,6 @@
-
 state={
 	id=128
 	name="STATE_128"
-	manpower = 2685235
-	
-	state_category = city
-	resources={
-		steel=27 # was: 48
-	}
-
 	history={
 		owner = ENG
 		buildings = {
@@ -18,7 +10,7 @@ state={
 			air_base = 6
 		}
 		victory_points = {
-			9297 30
+			9297 50
 		}
 		add_core_of = ENG
 		2024.1.1 = {
@@ -28,10 +20,14 @@ state={
 			}
 		}
 	}
-
-	provinces={
-		6270 6301 7239 9297 11345 
+	resources={
+		steel=27.000
 	}
-
-	local_supplies=0.0 
+	provinces={
+		6270 9297 11345 
+	}
+	manpower=2685235
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
 }

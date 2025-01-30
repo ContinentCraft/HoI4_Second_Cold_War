@@ -21,8 +21,8 @@ state={
 	provinces={
 		914 
 	}
-	manpower=262200
+	manpower=62200
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=enclave
 	local_supplies=0.000
 }

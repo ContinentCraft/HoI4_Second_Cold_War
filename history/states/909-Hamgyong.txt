@@ -33,7 +33,7 @@ state={
 	}
 
 	provinces={
-		848 3981 6928 10083 15021 
+		800 848 3981 6928 10083 15021 
 	}
 	manpower=321000
 	buildings_max_level_factor=1.000

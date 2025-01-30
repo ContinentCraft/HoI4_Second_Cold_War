@@ -217,9 +217,15 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 4692;11261;sea;13719;-1;-1;-1;-1;;Taymyr-Severnaya Zemlya
 1332;18270;sea;5615;-1;-1;-1;-1;;Nipahpandjang-Singkep
 9388;3054;sea;2358;-1;-1;-1;-1;;Germany-Rügen
+984;11735;sea;5786;-1;-1;-1;-1;;Croatian Island
+984;591;sea;5786;-1;-1;-1;-1;;Croatian Island
 
 
 #IMPASSABLE
+
+9884;915;impassable;-1;-1;-1;-1;-1;;BIELSA-ARAGNOUET TUNNEL Pyrenees
+9603;611;impassable;-1;-1;-1;-1;-1;;MONT BLANC TUNNEL Pyrenees
+11882;9838;impassable;-1;-1;-1;-1;-1;;GRAN SASSO TUNNEL Appenines
 
 14621;12884;impassable;-1;-1;-1;-1;-1;;Himalayas
 3989;1961;impassable;-1;-1;-1;-1;-1;;Himalayas
@@ -261,21 +267,12 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 11647;9674;impassable;-1;-1;-1;-1;-1;;Georgia mountains
 13863;9674;impassable;-1;-1;-1;-1;-1;;Georgia mountains
 13863;6721;impassable;-1;-1;-1;-1;-1;;Georgia mountains
-9619;6667;impassable;-1;-1;-1;-1;-1;;Carpathian mountains
-3665;6667;impassable;-1;-1;-1;-1;-1;;Carpathian mountains
-3665;11605;impassable;-1;-1;-1;-1;-1;;Carpathian mountains
 6679;11605;impassable;-1;-1;-1;-1;-1;;Carpathian mountains
 660;3676;impassable;-1;-1;-1;-1;-1;;Carpathian mountains
-690;660;impassable;-1;-1;-1;-1;-1;;Carpathian mountains
-690;11619;impassable;-1;-1;-1;-1;-1;;Carpathian mountains
-690;11655;impassable;-1;-1;-1;-1;-1;;Carpathian mountains
 3689;13680;impassable;-1;-1;-1;-1;-1;;Carpathian mountains
-711;13680;impassable;-1;-1;-1;-1;-1;;Carpathian mountains
-13376;11689;impassable;-1;-1;-1;-1;-1;;Carpathian mountains
-13377;11689;impassable;-1;-1;-1;-1;-1;;Carpathian mountains
+711;11689;impassable;-1;-1;-1;-1;-1;;Carpathian mountains
 13377;9548;impassable;-1;-1;-1;-1;-1;;Carpathian mountains
 13377;3743;impassable;-1;-1;-1;-1;-1;;Carpathian mountains
-9704;3743;impassable;-1;-1;-1;-1;-1;;Carpathian mountains
 6571;3743;impassable;-1;-1;-1;-1;-1;;Carpathian mountains
 4558;10826;impassable;-1;-1;-1;-1;-1;;peshawar mountains
 4558;12653;impassable;-1;-1;-1;-1;-1;;peshawar mountains
@@ -304,17 +301,30 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 4391;4828;impassable;-1;-1;-1;-1;-1;;pamir mountains
 4391;15120;impassable;-1;-1;-1;-1;-1;;pamir mountains
 1703;15153;impassable;-1;-1;-1;-1;-1;;pamir mountains
-13870;11721;impassable;-1;-1;-1;-1;-1;;Alps
-9736;11721;impassable;-1;-1;-1;-1;-1;;Alps
-9745;6780;impassable;-1;-1;-1;-1;-1;;Alps
+9736;3646;impassable;-1;-1;-1;-1;-1;;Alps
+3646;11721;impassable;-1;-1;-1;-1;-1;;Alps
+9745;3782;impassable;-1;-1;-1;-1;-1;;Alps
 3612;9618;impassable;-1;-1;-1;-1;-1;;Alps
 9587;9618;impassable;-1;-1;-1;-1;-1;;Alps
+9745;3764;impassable;-1;-1;-1;-1;-1;;Alps
 611;3612;impassable;-1;-1;-1;-1;-1;;Alps
 611;9587;impassable;-1;-1;-1;-1;-1;;Alps
 6635;3641;impassable;-1;-1;-1;-1;-1;;Alps
 607;3641;impassable;-1;-1;-1;-1;-1;;Alps
-11587;3662;impassable;-1;-1;-1;-1;-1;;Alps
+6661;9600;impassable;-1;-1;-1;-1;-1;;Alps
+6661;658;impassable;-1;-1;-1;-1;-1;;Alps
 11587;6675;impassable;-1;-1;-1;-1;-1;;Alps
+11587;6631;impassable;-1;-1;-1;-1;-1;;Alps
+3662;6680;impassable;-1;-1;-1;-1;-1;;Alps
+9633;6680;impassable;-1;-1;-1;-1;-1;;Alps
+661;6680;impassable;-1;-1;-1;-1;-1;;Alps
+11615;11618;impassable;-1;-1;-1;-1;-1;;Alps
+11615;11634;impassable;-1;-1;-1;-1;-1;;Alps
+3657;671;impassable;-1;-1;-1;-1;-1;;Alps
+6673;3657;impassable;-1;-1;-1;-1;-1;;Alps
+6673;3675;impassable;-1;-1;-1;-1;-1;;Alps
+11634;688;impassable;-1;-1;-1;-1;-1;;Alps
+6691;3684;impassable;-1;-1;-1;-1;-1;;Alps
 7727;7864;impassable;-1;-1;-1;-1;-1;;Mongolia-Ningsia
 7727;4786;impassable;-1;-1;-1;-1;-1;;Mongolia-Ningsia
 4786;4783;impassable;-1;-1;-1;-1;-1;;Mongolia-Ningsia
@@ -354,32 +364,16 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 7087;10100;impassable;-1;-1;-1;-1;-1;;Japanese Mountains
 7217;10100;impassable;-1;-1;-1;-1;-1;;Japanese Mountains
 15164;15173;impassable;-1;-1;-1;-1;-1;;Japanese Mountains
-9884;915;impassable;-1;-1;-1;-1;-1;;Pyrenees
-9884;9842;impassable;-1;-1;-1;-1;-1;;Pyrenees
-9884;3899;impassable;-1;-1;-1;-1;-1;;Pyrenees
-3915;3899;impassable;-1;-1;-1;-1;-1;;Pyrenees
-173;6071;impassable;-1;-1;-1;-1;-1;;Scandes
-173;3088;impassable;-1;-1;-1;-1;-1;;Scandes
+6931;3899;impassable;-1;-1;-1;-1;-1;;Pyrenees
+6931;13308;impassable;-1;-1;-1;-1;-1;;Pyrenees
+6915;9824;impassable;-1;-1;-1;-1;-1;;Pyrenees
 9208;3088;impassable;-1;-1;-1;-1;-1;;Scandes
-9208;6187;impassable;-1;-1;-1;-1;-1;;Scandes
 6173;6187;impassable;-1;-1;-1;-1;-1;;Scandes
-6041;6173;impassable;-1;-1;-1;-1;-1;;Scandes
-3159;6205;impassable;-1;-1;-1;-1;-1;;a’ Ghàidhealtachd
-6046;6205;impassable;-1;-1;-1;-1;-1;;a’ Ghàidhealtachd
-6046;3178;impassable;-1;-1;-1;-1;-1;;a’ Ghàidhealtachd
-11161;6385;impassable;-1;-1;-1;-1;-1;;Am Monadh
-11161;11306;impassable;-1;-1;-1;-1;-1;;Am Monadh
+3098;6173;impassable;-1;-1;-1;-1;-1;;Scandes
 9161;11306;impassable;-1;-1;-1;-1;-1;;Am Monadh
-9161;11055;impassable;-1;-1;-1;-1;-1;;Am Monadh
-11207;11055;impassable;-1;-1;-1;-1;-1;;Am Monadh
-9314;9392;impassable;-1;-1;-1;-1;-1;;Sléibhte Pennine
-9314;6320;impassable;-1;-1;-1;-1;-1;;Sléibhte Pennine
-9314;11218;impassable;-1;-1;-1;-1;-1;;Sléibhte Pennine
-9314;219;impassable;-1;-1;-1;-1;-1;;Sléibhte Pennine
-6320;11218;impassable;-1;-1;-1;-1;-1;;Sléibhte Pennine
-13625;219;impassable;-1;-1;-1;-1;-1;;Sléibhte Pennine
 17778;17777;impassable;-1;-1;-1;-1;-1;;Colorado Rockies
 13947;17774;impassable;-1;-1;-1;-1;-1;;Colorado Rockies
+17446;13947;impassable;-1;-1;-1;-1;-1;;Colorado Rockies
 13949;868;impassable;-1;-1;-1;-1;-1;;Colorado Rockies
 13949;13950;impassable;-1;-1;-1;-1;-1;;Colorado Rockies
 3058;13950;impassable;-1;-1;-1;-1;-1;;Colorado Rockies
@@ -392,3 +386,28 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 850;17720;impassable;-1;-1;-1;-1;-1;;Grand Canyon
 850;17714;impassable;-1;-1;-1;-1;-1;;Grand Canyon
 13961;17714;impassable;-1;-1;-1;-1;-1;;Grand Canyon
+6973;3976;impassable;-1;-1;-1;-1;-1;;Appenines
+1616;6606;impassable;-1;-1;-1;-1;-1;;Appenines
+14023;6926;impassable;-1;-1;-1;-1;-1;;Appenines
+14020;11882;impassable;-1;-1;-1;-1;-1;;Appenines
+3966;11882;impassable;-1;-1;-1;-1;-1;;Appenines
+923;963;impassable;-1;-1;-1;-1;-1;;Appenines
+3966;9826;impassable;-1;-1;-1;-1;-1;;Appenines
+977;3820;impassable;-1;-1;-1;-1;-1;;Sistema Central Espanola
+3845;11820;impassable;-1;-1;-1;-1;-1;;Sistema Central Espanola
+3845;11780;impassable;-1;-1;-1;-1;-1;;Sistema Central Espanola
+747;11956;impassable;-1;-1;-1;-1;-1;;Baetic Mountains
+9703;11684;impassable;-1;-1;-1;-1;-1;;Cantabrian Mountains
+3902;885;impassable;-1;-1;-1;-1;-1;;Sistema Ibera
+1192;7196;impassable;-1;-1;-1;-1;-1;;Sistema Ibera
+982;9894;impassable;-1;-1;-1;-1;-1;;Bosnian Mountains
+6942;11899;impassable;-1;-1;-1;-1;-1;;Bosnian Mountains
+9818;935;impassable;-1;-1;-1;-1;-1;;Balkan Mountains
+9818;3908;impassable;-1;-1;-1;-1;-1;;Balkan Mountains
+3908;949;impassable;-1;-1;-1;-1;-1;;Balkan Mountains
+3819;6952;impassable;-1;-1;-1;-1;-1;;Balkan Mountains
+3865;3882;impassable;-1;-1;-1;-1;-1;;North Macedonian Mountains
+914;13910;impassable;-1;-1;-1;-1;-1;;Albanian Mountains
+3914;11786;impassable;-1;-1;-1;-1;-1;;Greek Mountains
+976;1205;impassable;-1;-1;-1;-1;-1;;Greek Mountains
+4193;8435;impassable;-1;-1;-1;-1;-1;;Greek Mountains

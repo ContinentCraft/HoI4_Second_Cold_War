@@ -1,15 +1,6 @@
-
 state={
 	id=129
 	name="STATE_129"
-	manpower = 1712021
-	
-	state_category = large_town
-	
-	resources={
-		steel=11 # was: 20
-	}
-
 	history={
 		owner = ENG
 		victory_points = {
@@ -32,10 +23,14 @@ state={
 			}
 		}
 	}
-
-	provinces={
-		364 3353 6237 9250 9268 9322 11279 
+	resources={
+		steel=11.000
 	}
-
-	local_supplies=0.0 
+	provinces={
+		36 6237 9852 11382 
+	}
+	manpower=2712021
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
 }

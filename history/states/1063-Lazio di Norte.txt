@@ -1,3 +1,4 @@
+
 state={
 	id=1063
 	name="STATE_1063"
@@ -5,7 +6,7 @@ state={
 	history={
 		owner = ITA
 		buildings = {
-			infrastructure = 3
+			infrastructure = 4
 			11751 = {
 				naval_base = 5
 
@@ -17,11 +18,11 @@ state={
 
 	}
 
-	provinces = {
-		6862 9750 9794 11751 13424 
+	provinces={
+		6862 6926 9750 9794 11751 11790 13424 
 	}
-
-	manpower=1000000
+	manpower=2000000
 	buildings_max_level_factor=1.000
 	state_category=town
+	local_supplies=0.000
 }

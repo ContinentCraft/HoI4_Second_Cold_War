@@ -18,12 +18,13 @@ state={
 				naval_base = 2
 
 			}
+
 		}
 
 	}
 
 	provinces={
-		8141 9551 13239 13499 13915 13916 13917 
+		8141 9551 9922 13239 13499 13915 13916 13917 
 	}
 	manpower=1120305
 	buildings_max_level_factor=1.000

@@ -1,0 +1,22 @@
+state={
+	id=3037
+	name="STATE_3037"
+
+	history={
+		owner = SPR
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = SPR
+
+	}
+
+	provinces={
+		1048 10094 13228 13644 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

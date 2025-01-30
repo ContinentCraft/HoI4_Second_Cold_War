@@ -1,0 +1,18 @@
+state={
+	id=2990
+	name="STATE_2990"
+	history = {
+		owner = ENG
+		add_core_of = ENG
+		buildings = {
+			infrastructure = 4
+		}
+	}
+	provinces={
+		3594 6318 
+	}
+	manpower=3000000
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

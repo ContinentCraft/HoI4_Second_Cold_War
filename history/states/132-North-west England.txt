@@ -1,12 +1,6 @@
-
 state={
 	id=132
 	name="STATE_132"
-	resources={
-		steel=31.000
-		aluminium=2.000
-	}
-
 	history={
 		owner = ENG
 		victory_points = {
@@ -38,11 +32,14 @@ state={
 		}
 
 	}
-
-	provinces={
-		36 3205 6318 6335 6384 
+	resources={
+		steel=31.000
+		aluminium=2.000
 	}
-	manpower=1770454
+	provinces={
+		6335 6384 9285 11231 
+	}
+	manpower=2170454
 	buildings_max_level_factor=1.000
 	state_category=city
 	local_supplies=0.000

@@ -1,15 +1,16 @@
-
 state={
 	id=127
 	name="STATE_127"
-
+	provinces={
+		98 507 3523 6489 9458 11446 
+	}
 	history={
 		owner = ENG
 		victory_points = {
 			3501 3 
 		}
 		victory_points = {
-			6489 20 
+			6489 1 
 		}
 		buildings = {
 			infrastructure = 4
@@ -37,10 +38,6 @@ state={
 
 		}
 
-	}
-
-	provinces={
-		98 507 3501 6489 9141 9458 11446 13070 
 	}
 	manpower=1193383
 	buildings_max_level_factor=1.000

@@ -1,0 +1,21 @@
+state={
+	id=3024
+	name="STATE_3024"
+
+	history={
+		owner = ITA
+		add_core_of = ITA
+		add_core_of = LBV
+		buildings={
+			infrastructure=4
+		}
+	}
+	
+	provinces={
+		6661 9584 11587 
+	}
+	manpower=1500000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

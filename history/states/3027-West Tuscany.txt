@@ -1,0 +1,21 @@
+state={
+	id=3027
+	name="STATE_3027"
+
+	history={
+		owner = ITA
+		add_core_of = ITA
+		add_core_of = TOS
+		buildings={
+			infrastructure=3
+		}
+	}
+
+	provinces={
+		910 1616 6875 6946 11833 
+	}
+	manpower=2000000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

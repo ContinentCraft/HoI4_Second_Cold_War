@@ -1,15 +1,6 @@
-
 state={
 	id=130
 	name="STATE_130"
-	manpower = 4762495
-	
-	state_category = metropolis
-	
-	resources={
-		steel=71 # was: 120
-	}
-
 	history={
 		owner = ENG
 		victory_points = {
@@ -41,10 +32,14 @@ state={
 			}
 		}
 	}
-
-	provinces={
-		6268 9269 9315 9332 9379 9397 11297 11317 11382 
+	resources={
+		steel=71.000
 	}
-
-	local_supplies=0.0 
+	provinces={
+		9332 11297 14027 
+	}
+	manpower=1762495
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
 }

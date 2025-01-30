@@ -1,8 +1,9 @@
-
 state={
 	id=14
 	name="STATE_14"
-
+	provinces={
+		542 3552 6536 6572 9495 9510 9525 11508 
+	}
 	history={
 		owner = FRA
 		victory_points = {
@@ -37,10 +38,6 @@ state={
 		add_core_of = FRA
 		add_core_of = BRI
 
-	}
-
-	provinces={
-		542 3552 3758 6536 6572 9495 9510 9525 11508 
 	}
 	manpower=1396600
 	buildings_max_level_factor=1.000

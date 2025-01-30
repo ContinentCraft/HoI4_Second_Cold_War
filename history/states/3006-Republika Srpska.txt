@@ -1,0 +1,22 @@
+state={
+	id=3006
+	name="STATE_3006"
+	provinces={
+		606 6619 6983 9588 11574 11741 
+	}
+
+	history={
+		owner = BOS
+		add_core_of = BOS
+		add_claim_by = SER
+		buildings = {
+			infrastructure = 2
+
+		}
+	}
+
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

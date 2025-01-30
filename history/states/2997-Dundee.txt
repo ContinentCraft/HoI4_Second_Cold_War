@@ -1,0 +1,19 @@
+state={
+	id=2997
+	name="STATE_2997"
+	history = {
+		owner = ENG
+		add_core_of = ENG
+		add_core_of = SCO
+		buildings = {
+			infrastructure = 4
+		}
+	}
+	provinces={
+		159 3150 11055 11306 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

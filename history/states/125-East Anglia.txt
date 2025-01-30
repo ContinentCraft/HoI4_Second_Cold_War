@@ -1,8 +1,6 @@
-
 state={
 	id=125
 	name="STATE_125"
-
 	history={
 		owner = ENG
 		victory_points = {
@@ -24,9 +22,8 @@ state={
 		add_core_of = ENG
 
 	}
-
 	provinces={
-		221 271 296 322 3105 3287 11221 11253 
+		322 3105 3287 
 	}
 	manpower=1363174
 	buildings_max_level_factor=1.000
