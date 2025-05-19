@@ -13,8 +13,13 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 
 #TRANS-IMPASSABLE ROUTES
 
-4191;13291;;-1;-1;-1;2900;1320;;TRANS_SAHARIAN_ROAD Libya-Sudan 1
-13291;9213;;-1;2902;1289;2921;1218;;TRANS_SAHARIAN_ROAD Libya-Sudan 2
+4191;13291;;-1;-1;-1;2900;1320;;TRANS_SAHARAN_ROAD_1 Libya-Sudan 1
+13291;7750;;-1;2903;1289;2921;1218;;TRANS_SAHARAN_ROAD_2 Libya-Sudan 2
+6392;5136;;-1;2800;1293;2794;1239;;TRANS_SAHARAN_ROAD_3 Chad
+1956;3381;;-1;-1;-1;-1;-1;;TRANS_SAHARAN_ROAD_4 Niger 1
+1956;6392;;-1;-1;-1;-1;-1;;TRANS_SAHARAN_ROAD_5 Niger 2
+18180;10868;;-1;2528;1287;2481;1369;;TRANS_SAHARAN_ROAD_6 Mali
+10838;18180;;-1;2444;1376;2466;1376;;TRANS_SAHARAN_ROAD_7 Mauritania
 12885;5708;;-1;-1;-1;-1;-1;;Cayenne
 12828;8107;;-1;1750;1054;1741;1026;;Paramaribo-Tigri
 
@@ -32,8 +37,9 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 
 677;9671;sea;5430;-1;-1;-1;-1;GOLDEN_GATE_BRIDGE;Golden Gate Bridge
 6889;11816;sea;5838;-1;-1;-1;-1;;PELJESAC_BRIDGE Croatia
-17177;7387;sea;2857;-1;-1;-1;-1;;JAMBATAN_SULTAN_HAJI_BRIDGE Brunei
+17177;7371;sea;2857;-1;-1;-1;-1;;JAMBATAN_SULTAN_HAJI_BRIDGE Brunei
 5681;5707;sea;;-1;-1;-1;-1;MESSINA_STRAIT;Strait of Messina
+12702;6597;sea;2691;3275;1390;-1;-1;;KING_FAHD_CAUSEWAY Saudi-Bahrain
 
 12251;10321;sea;8313;-1;-1;-1;-1;;Andaman
 7413;1419;sea;5294;-1;-1;-1;-1;;Moluccas
@@ -78,7 +84,9 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 4509;7542;sea;2585;-1;-1;-1;-1;;Papua-Japen
 10251;1329;sea;430;-1;-1;-1;-1;;Papua-New Britain
 7251;4421;sea;7010;-1;-1;-1;-1;;New Britain-Latangai
-13021;13022;sea;8673;-1;-1;-1;-1;;Gilbert Islands
+13021;7393;sea;8673;-1;-1;-1;-1;;Gilbert Islands 1
+13021;4387;sea;8673;-1;-1;-1;-1;;Gilbert Islands 2
+13020;4387;sea;8673;-1;-1;-1;-1;;Gilbert Islands 3
 4268;4231;sea;5741;-1;-1;-1;-1;;New Caledonia
 1237;12120;sea;7246;-1;-1;-1;-1;;Vanuatu 1
 1237;17114;sea;5660;-1;-1;-1;-1;;Vanuatu 2
@@ -97,7 +105,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 10319;12265;sea;5868;-1;-1;-1;-1;;Munda-Choiseul
 12265;4252;sea;5868;-1;-1;-1;-1;;Choiseul-Santa Isabel
 4252;1085;sea;5868;-1;-1;-1;-1;;Santa Isabel-Malaita
-1085;10291;sea;5868;-1;-1;-1;-1;;Malaita-Guadalcanal
+1085;7437;sea;5868;-1;-1;-1;-1;;Malaita-Guadalcanal
 15232;4576;sea;4465;-1;-1;-1;-1;;Sakhalin-Hokkaido
 12661;7884;sea;3253;-1;-1;-1;-1;;Kodiak-Alaska
 11985;14700;sea;5845;-1;-1;-1;-1;;Honshu-Kyushu
@@ -117,22 +125,24 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 7195;17181;sea;8410;-1;-1;-1;-1;;Maui-Molokai
 17181;17182;sea;8410;-1;-1;-1;-1;;Molokai-Oahu
 7112;17183;sea;5339;-1;-1;-1;-1;;Oahu-Kauai
+7290;17116;sea;1487;-1;-1;-1;-1;;Samoan Islands
 7290;13080;sea;1487;-1;-1;-1;-1;;Samoan Islands
 17111;12159;sea;5685;-1;-1;-1;-1;;Fiji-Sanua Levu
 17110;17109;sea;5685;-1;-1;-1;-1;;Fiji 1
 17108;17112;sea;5685;-1;-1;-1;-1;;Fiji 2
-13055;13056;sea;8419;-1;-1;-1;-1;;Nukufetau-Funafuti
-13056;13057;sea;8419;-1;-1;-1;-1;;Funafuti-Nukulaelae
-13027;13028;sea;2735;-1;-1;-1;-1;;Ngulu-Yap
-13029;13028;sea;2735;-1;-1;-1;-1;;Ulithi-Yap
+13056;13054;sea;2852;-1;-1;-1;-1;;Funafuti-Nanumanga
 2489;13033;sea;7918;-1;-1;-1;-1;;Truk-Hall Islands
-13041;13044;sea;7287;-1;-1;-1;-1;;Carolines 1
-13042;13043;sea;2414;-1;-1;-1;-1;;Carolines 2
+13042;13044;sea;2414;-1;-1;-1;-1;;Marshalls 1
+13042;13039;sea;2414;-1;-1;-1;-1;;Marshalls 2
+13041;13039;sea;2414;-1;-1;-1;-1;;Marshalls 3
+13041;13044;sea;7287;-1;-1;-1;-1;;Marshalls 4
+13041;13045;sea;7287;-1;-1;-1;-1;;Marshalls 5
+13044;13045;sea;7287;-1;-1;-1;-1;;Marshalls 6
 10276;7669;sea;5263;-1;-1;-1;-1;;Tiwi-Darwin
 7567;17213;sea;5771;-1;-1;-1;-1;;Adelaide-Kangaroo Island
 4526;153;sea;2571;-1;-1;-1;-1;;Curacao-Zulia
 10767;17572;sea;2597;-1;-1;-1;-1;;Miranda-Trinidad
-13012;3284;sea;2597;-1;-1;-1;-1;;Tobago-Trinidad
+13012;3284;sea;2372;-1;-1;-1;-1;;Tobago-Trinidad
 11106;379;sea;5533;-1;-1;-1;-1;;Grenada-St Vincent
 379;11350;sea;5533;-1;-1;-1;-1;;St Vincent-Barbados
 379;13009;sea;5533;-1;-1;-1;-1;;St Vincent-St Lucia
@@ -166,8 +176,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 9228;6066;sea;990;-1;-1;-1;-1;;Aland-Finland
 480;9431;sea;8621;-1;-1;-1;-1;;Flanders-Zeeland Connection
 11064;13246;sea;3195;-1;-1;-1;-1;;Scottish Highlands-Orkeny Islands
-14293;10870;sea;2691;-1;-1;-1;-1;;Saudi-Bahrain
-7683;13247;sea;8642;-1;-1;-1;-1;;Quebec-Anticosti
+7683;13247;sea;6453;-1;-1;-1;-1;;Quebec-Anticosti
 4155;13284;sea;5507;-1;-1;-1;-1;;Virgin islands
 13285;13286;sea;2871;-1;-1;-1;-1;;Channel islands
 13285;13778;sea;2871;-1;-1;-1;-1;;Channel Islands-Normandy
@@ -198,7 +207,8 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 17600;17601;sea;2887;-1;-1;-1;-1;;Nevis-Antigua and Barbuda
 17601;17599;sea;2887;-1;-1;-1;-1;;Montserrat-Antigua and Barbuda
 13427;6336;sea;2752;-1;-1;-1;-1;;Afsluitdijk
-13773;14240;sea;5322;-1;-1;-1;-1;;Mainland China-Kinmen
+7071;14240;sea;5322;-1;-1;-1;-1;;Mainland China-Kinmen 1
+13773;14240;sea;5322;-1;-1;-1;-1;;Mainland China-Kinmen 2
 14200;14198;sea;8462;-1;-1;-1;-1;;Taiwan-Penghu
 14872;1167;sea;2684;-1;-1;-1;-1;;Dogojima-Japan
 13499;13917;sea;5394;-1;-1;-1;-1;;Tanzania Island 1
@@ -206,7 +216,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 14033;15305;sea;8913;-1;-1;-1;-1;;Magellan Strait 1
 5201;5209;sea;8913;-1;-1;-1;-1;;Magellan Strait 2
 16123;10912;sea;2597;-1;-1;-1;-1;;Isla Margarita-Venezuela
-5918;7432;sea;4240;-1;-1;-1;-1;;Phu Quoc-Cambodia
+5918;7432;sea;1490;-1;-1;-1;-1;;Phu Quoc-Cambodia
 7003;10038;sea;7226;-1;-1;-1;-1;;Samos-Turkey
 13346;849;sea;7452;-1;-1;-1;-1;;Limnos-Turkey
 18268;10665;sea;5122;-1;-1;-1;-1;;King Island-Tasmania
@@ -219,7 +229,29 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 9388;3054;sea;2358;-1;-1;-1;-1;;Germany-Rügen
 984;11735;sea;5786;-1;-1;-1;-1;;Croatian Island
 984;591;sea;5786;-1;-1;-1;-1;;Croatian Island
-
+12747;266;sea;991;-1;-1;-1;-1;;Bissagos Islands
+13014;347;sea;9072;-1;-1;-1;-1;;Cabo Verde
+3521;1751;sea;8453;-1;-1;-1;-1;;Azores
+13071;3737;sea;210;-1;-1;-1;-1;;Gran Canaria-Tenerife
+13071;11497;sea;2246;-1;-1;-1;-1;;Gran Canaria-Fuerteventura
+12514;1158;sea;8450;-1;-1;-1;-1;;Kyushu-Fukue
+11490;14005;sea;2691;-1;-1;-1;-1;;Hawar Island-Qatar
+8073;6660;sea;2800;-1;-1;-1;-1;;Farasan Island
+7322;16982;sea;5984;-1;-1;-1;-1;;Langkawi-Malaysia
+12101;1361;sea;5984;-1;-1;-1;-1;;Tiran-Neom
+8241;1286;sea;5984;-1;-1;-1;-1;;Invercargill-Stewart Island
+1644;4916;sea;5563;-1;-1;-1;-1;;Australia-Torres Strait Islands
+1310;7714;sea;5563;-1;-1;-1;-1;;New Guinea-Saibai
+12213;13046;sea;8676;-1;-1;-1;-1;;Luzon-Babuyanes
+12111;13043;sea;3603;-1;-1;-1;-1;;Spratlys 1
+13032;13043;sea;3603;-1;-1;-1;-1;;Spratlys 2
+13040;13043;sea;3603;-1;-1;-1;-1;;Spratlys 3
+13040;13032;sea;3603;-1;-1;-1;-1;;Spratlys 4
+13040;8896;sea;3603;-1;-1;-1;-1;;Spratlys 5
+13032;9462;sea;3603;-1;-1;-1;-1;;Spratlys 6
+8896;9462;sea;3603;-1;-1;-1;-1;;Spratlys 7
+11442;9462;sea;3603;-1;-1;-1;-1;;Spratlys 8
+12111;9052;sea;2978;-1;-1;-1;-1;;Spratlys 9
 
 #IMPASSABLE
 
@@ -227,9 +259,21 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 9603;611;impassable;-1;-1;-1;-1;-1;;MONT BLANC TUNNEL Pyrenees
 11882;9838;impassable;-1;-1;-1;-1;-1;;GRAN SASSO TUNNEL Appenines
 
+10821;5087;impassable;-1;-1;-1;-1;-1;;Himalayas
+10821;13290;impassable;-1;-1;-1;-1;-1;;Himalayas
+10821;14831;impassable;-1;-1;-1;-1;-1;;Himalayas
+10893;14713;impassable;-1;-1;-1;-1;-1;;Himalayas
+10893;7273;impassable;-1;-1;-1;-1;-1;;Himalayas
+7316;7106;impassable;-1;-1;-1;-1;-1;;Himalayas
+7316;16820;impassable;-1;-1;-1;-1;-1;;Himalayas
+7316;16822;impassable;-1;-1;-1;-1;-1;;Himalayas
+7316;8005;impassable;-1;-1;-1;-1;-1;;Himalayas
+16821;10905;impassable;-1;-1;-1;-1;-1;;Himalayas
+16821;16823;impassable;-1;-1;-1;-1;-1;;Himalayas
+1129;3989;impassable;-1;-1;-1;-1;-1;;Himalayas
+1129;16813;impassable;-1;-1;-1;-1;-1;;Himalayas
 14621;12884;impassable;-1;-1;-1;-1;-1;;Himalayas
 3989;1961;impassable;-1;-1;-1;-1;-1;;Himalayas
-1129;1961;impassable;-1;-1;-1;-1;-1;;Himalayas
 14524;1961;impassable;-1;-1;-1;-1;-1;;Himalayas
 3989;14524;impassable;-1;-1;-1;-1;-1;;Himalayas
 17184;8029;impassable;-1;-1;-1;-1;-1;;Himalayas
@@ -266,7 +310,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 6692;11647;impassable;-1;-1;-1;-1;-1;;Georgia mountains
 11647;9674;impassable;-1;-1;-1;-1;-1;;Georgia mountains
 13863;9674;impassable;-1;-1;-1;-1;-1;;Georgia mountains
-13863;6721;impassable;-1;-1;-1;-1;-1;;Georgia mountains
+13863;3717;impassable;-1;-1;-1;-1;-1;;Georgia mountains
 6679;11605;impassable;-1;-1;-1;-1;-1;;Carpathian mountains
 660;3676;impassable;-1;-1;-1;-1;-1;;Carpathian mountains
 3689;13680;impassable;-1;-1;-1;-1;-1;;Carpathian mountains
@@ -274,33 +318,42 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 13377;9548;impassable;-1;-1;-1;-1;-1;;Carpathian mountains
 13377;3743;impassable;-1;-1;-1;-1;-1;;Carpathian mountains
 6571;3743;impassable;-1;-1;-1;-1;-1;;Carpathian mountains
-4558;10826;impassable;-1;-1;-1;-1;-1;;peshawar mountains
+4558;16198;impassable;-1;-1;-1;-1;-1;;peshawar mountains
 4558;12653;impassable;-1;-1;-1;-1;-1;;peshawar mountains
 4558;7519;impassable;-1;-1;-1;-1;-1;;peshawar mountains
-12763;10826;impassable;-1;-1;-1;-1;-1;;peshawar mountains
 2084;7519;impassable;-1;-1;-1;-1;-1;;peshawar mountains
 10821;7519;impassable;-1;-1;-1;-1;-1;;peshawar mountains
 16969;12831;impassable;-1;-1;-1;-1;-1;;peshawar mountains
-16963;5082;impassable;-1;-1;-1;-1;-1;;peshawar mountains
-16954;16188;impassable;-1;-1;-1;-1;-1;;peshawar mountains
-16954;16186;impassable;-1;-1;-1;-1;-1;;peshawar mountains
-8044;8090;impassable;-1;-1;-1;-1;-1;;peshawar mountains
-7975;16186;impassable;-1;-1;-1;-1;-1;;peshawar mountains
-8044;16186;impassable;-1;-1;-1;-1;-1;;peshawar mountains
-12805;8027;impassable;-1;-1;-1;-1;-1;;stalinabad mountains
-14949;15011;impassable;-1;-1;-1;-1;-1;;stalinabad mountains
-12805;15011;impassable;-1;-1;-1;-1;-1;;stalinabad mountains
-8027;4467;impassable;-1;-1;-1;-1;-1;;stalinabad mountains
-12250;4542;impassable;-1;-1;-1;-1;-1;;stalinabad mountains
-12805;15065;impassable;-1;-1;-1;-1;-1;;pamir mountains
-12370;15065;impassable;-1;-1;-1;-1;-1;;pamir mountains
-12370;15011;impassable;-1;-1;-1;-1;-1;;pamir mountains
-5062;12119;impassable;-1;-1;-1;-1;-1;;pamir mountains
+16969;16193;impassable;-1;-1;-1;-1;-1;;peshawar mountains
+10781;16198;impassable;-1;-1;-1;-1;-1;;peshawar mountains
+10781;12653;impassable;-1;-1;-1;-1;-1;;peshawar mountains
+10826;16198;impassable;-1;-1;-1;-1;-1;;peshawar mountains
+7519;14950;impassable;-1;-1;-1;-1;-1;;pamir mountains
+12805;8027;impassable;-1;-1;-1;-1;-1;;pamir mountains
+14949;15011;impassable;-1;-1;-1;-1;-1;;pamir mountains
+12805;15011;impassable;-1;-1;-1;-1;-1;;pamir mountains
+12805;15564;impassable;-1;-1;-1;-1;-1;;pamir mountains
+15564;4467;impassable;-1;-1;-1;-1;-1;;pamir mountains
+8027;4467;impassable;-1;-1;-1;-1;-1;;pamir mountains
+8027;4542;impassable;-1;-1;-1;-1;-1;;pamir mountains
+8027;10417;impassable;-1;-1;-1;-1;-1;;pamir mountains
+12250;4542;impassable;-1;-1;-1;-1;-1;;pamir mountains
+4467;4542;impassable;-1;-1;-1;-1;-1;;pamir mountains
+15568;4542;impassable;-1;-1;-1;-1;-1;;pamir mountains
+16210;4542;impassable;-1;-1;-1;-1;-1;;pamir mountains
+16210;10253;impassable;-1;-1;-1;-1;-1;;pamir mountains
+15568;10253;impassable;-1;-1;-1;-1;-1;;pamir mountains
+12430;10253;impassable;-1;-1;-1;-1;-1;;pamir mountains
+1216;16209;impassable;-1;-1;-1;-1;-1;;pamir mountains
+1919;11687;impassable;-1;-1;-1;-1;-1;;pamir mountains
 4768;15105;impassable;-1;-1;-1;-1;-1;;pamir mountains
+16217;15576;impassable;-1;-1;-1;-1;-1;;pamir mountains
 4768;4828;impassable;-1;-1;-1;-1;-1;;pamir mountains
 4391;4828;impassable;-1;-1;-1;-1;-1;;pamir mountains
 4391;15120;impassable;-1;-1;-1;-1;-1;;pamir mountains
-1703;15153;impassable;-1;-1;-1;-1;-1;;pamir mountains
+10530;15124;impassable;-1;-1;-1;-1;-1;;pamir mountains
+10660;15124;impassable;-1;-1;-1;-1;-1;;pamir mountains
+15578;15124;impassable;-1;-1;-1;-1;-1;;pamir mountains
 9736;3646;impassable;-1;-1;-1;-1;-1;;Alps
 3646;11721;impassable;-1;-1;-1;-1;-1;;Alps
 9745;3782;impassable;-1;-1;-1;-1;-1;;Alps
@@ -310,7 +363,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 611;3612;impassable;-1;-1;-1;-1;-1;;Alps
 611;9587;impassable;-1;-1;-1;-1;-1;;Alps
 6635;3641;impassable;-1;-1;-1;-1;-1;;Alps
-607;3641;impassable;-1;-1;-1;-1;-1;;Alps
+6661;3641;impassable;-1;-1;-1;-1;-1;;Alps
 6661;9600;impassable;-1;-1;-1;-1;-1;;Alps
 6661;658;impassable;-1;-1;-1;-1;-1;;Alps
 11587;6675;impassable;-1;-1;-1;-1;-1;;Alps
@@ -325,29 +378,21 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 6673;3675;impassable;-1;-1;-1;-1;-1;;Alps
 11634;688;impassable;-1;-1;-1;-1;-1;;Alps
 6691;3684;impassable;-1;-1;-1;-1;-1;;Alps
-7727;7864;impassable;-1;-1;-1;-1;-1;;Mongolia-Ningsia
-7727;4786;impassable;-1;-1;-1;-1;-1;;Mongolia-Ningsia
-4786;4783;impassable;-1;-1;-1;-1;-1;;Mongolia-Ningsia
-10689;4783;impassable;-1;-1;-1;-1;-1;;Mongolia-Ningsia
-10899;10689;impassable;-1;-1;-1;-1;-1;;Mongolia-Ningsia
-10899;10558;impassable;-1;-1;-1;-1;-1;;Mongolia-Ningsia
-10558;7803;impassable;-1;-1;-1;-1;-1;;Mongolia-Ningsia
 7122;10033;impassable;-1;-1;-1;-1;-1;;Burma
 7122;11966;impassable;-1;-1;-1;-1;-1;;Burma
 997;11966;impassable;-1;-1;-1;-1;-1;;Burma
 997;3999;impassable;-1;-1;-1;-1;-1;;Burma
 10090;4454;impassable;-1;-1;-1;-1;-1;;Burma
-16261;1581;impassable;-1;-1;-1;-1;-1;;Burma
-1553;16271;impassable;-1;-1;-1;-1;-1;;Burma
-1553;4087;impassable;-1;-1;-1;-1;-1;;Burma
-1553;1197;impassable;-1;-1;-1;-1;-1;;Burma
+16261;1553;impassable;-1;-1;-1;-1;-1;;Burma
+1581;16271;impassable;-1;-1;-1;-1;-1;;Burma
+1581;4087;impassable;-1;-1;-1;-1;-1;;Burma
+1581;6423;impassable;-1;-1;-1;-1;-1;;Burma
 12789;4318;impassable;-1;-1;-1;-1;-1;;Burma
 12898;4318;impassable;-1;-1;-1;-1;-1;;Burma
 4996;17099;impassable;-1;-1;-1;-1;-1;;Burma
 17097;4996;impassable;-1;-1;-1;-1;-1;;Burma
 17097;4425;impassable;-1;-1;-1;-1;-1;;Burma
 17096;4425;impassable;-1;-1;-1;-1;-1;;Burma
-10920;10863;impassable;-1;-1;-1;-1;-1;;Burma
 12363;10863;impassable;-1;-1;-1;-1;-1;;Burma
 12317;7647;impassable;-1;-1;-1;-1;-1;;Siam
 7675;7647;impassable;-1;-1;-1;-1;-1;;Siam
@@ -359,7 +404,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 7559;4408;impassable;-1;-1;-1;-1;-1;;Siam
 17024;4408;impassable;-1;-1;-1;-1;-1;;Siam
 10193;17021;impassable;-1;-1;-1;-1;-1;;Siam
-10193;12125;impassable;-1;-1;-1;-1;-1;;Siam
 1191;10128;impassable;-1;-1;-1;-1;-1;;Japanese Mountains
 7087;10100;impassable;-1;-1;-1;-1;-1;;Japanese Mountains
 7217;10100;impassable;-1;-1;-1;-1;-1;;Japanese Mountains
@@ -367,9 +411,16 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 6931;3899;impassable;-1;-1;-1;-1;-1;;Pyrenees
 6931;13308;impassable;-1;-1;-1;-1;-1;;Pyrenees
 6915;9824;impassable;-1;-1;-1;-1;-1;;Pyrenees
-9208;3088;impassable;-1;-1;-1;-1;-1;;Scandes
-6173;6187;impassable;-1;-1;-1;-1;-1;;Scandes
-3098;6173;impassable;-1;-1;-1;-1;-1;;Scandes
+188;3188;impassable;-1;-1;-1;-1;-1;;Scandes
+9127;6114;impassable;-1;-1;-1;-1;-1;;Scandes
+9216;6118;impassable;-1;-1;-1;-1;-1;;Scandes
+65;9170;impassable;-1;-1;-1;-1;-1;;Scandes
+6187;6173;impassable;-1;-1;-1;-1;-1;;Scandes
+173;11026;impassable;-1;-1;-1;-1;-1;;Scandes
+6214;6155;impassable;-1;-1;-1;-1;-1;;Scandes
+3132;6155;impassable;-1;-1;-1;-1;-1;;Scandes
+3034;6155;impassable;-1;-1;-1;-1;-1;;Scandes
+3034;6055;impassable;-1;-1;-1;-1;-1;;Scandes
 9161;11306;impassable;-1;-1;-1;-1;-1;;Am Monadh
 17778;17777;impassable;-1;-1;-1;-1;-1;;Colorado Rockies
 13947;17774;impassable;-1;-1;-1;-1;-1;;Colorado Rockies
@@ -411,3 +462,54 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 3914;11786;impassable;-1;-1;-1;-1;-1;;Greek Mountains
 976;1205;impassable;-1;-1;-1;-1;-1;;Greek Mountains
 4193;8435;impassable;-1;-1;-1;-1;-1;;Greek Mountains
+8283;3792;impassable;-1;-1;-1;-1;-1;;Baffin Mountains
+8283;13556;impassable;-1;-1;-1;-1;-1;;Baffin Mountains
+13977;12769;impassable;-1;-1;-1;-1;-1;;Afghanistan
+16190;12769;impassable;-1;-1;-1;-1;-1;;Afghanistan
+12788;1995;impassable;-1;-1;-1;-1;-1;;Afghanistan
+10789;8090;impassable;-1;-1;-1;-1;-1;;Afghanistan
+7984;16199;impassable;-1;-1;-1;-1;-1;;Afghanistan
+16196;16199;impassable;-1;-1;-1;-1;-1;;Afghanistan
+12370;15065;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+12370;4316;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+12454;10530;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+12454;10408;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+10530;10408;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+10530;12233;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+5062;12119;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+15093;12119;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+10680;15105;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+10680;4828;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+10680;15120;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+10680;4768;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+4224;15582;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+4224;1591;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+4224;7350;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+1825;10262;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+16223;15120;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+1703;15120;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+1703;15131;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+1703;15137;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+12601;4845;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+12601;12529;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+12601;13197;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+15153;15149;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+7850;15149;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+15137;15117;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+15137;7702;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+4770;7702;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+4770;15122;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+4770;15149;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+4770;15141;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+15118;15141;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+10545;4709;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+7866;15180;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+15191;15180;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+15191;15175;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+1783;15175;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+15166;15175;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+12656;15187;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+12656;4788;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+10610;1708;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+10610;12590;impassable;-1;-1;-1;-1;-1;;Tengri Tagh
+15169;15154;impassable;-1;-1;-1;-1;-1;;Tengri Tagh

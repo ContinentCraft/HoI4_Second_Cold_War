@@ -7,9 +7,7 @@ state={
 		owner = UZB
 		add_core_of = UZB
 		add_core_of = KOK
-		victory_points = {
-			12581 5 
-		}
+		victory_points = { 12581 5 }
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
@@ -19,10 +17,10 @@ state={
 	}
 
 	provinces={
-		2058 10488 12581 15574 16213 16214 16218 
+		12581 16213 
 	}
-	manpower=750000
+	manpower=1250000
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=town
 	local_supplies=0.000
 }

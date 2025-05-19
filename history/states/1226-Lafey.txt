@@ -7,7 +7,7 @@ state={
 		add_core_of = KEN
 		add_claim_by = SOM
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
 
 		}
 
@@ -18,5 +18,5 @@ state={
 	}
 	manpower=272000
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=pastoral
 }

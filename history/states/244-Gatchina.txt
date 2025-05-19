@@ -17,10 +17,10 @@ state={
 	}
 
 	provinces={
-		70 6095 9164 9197 11174 
+		70 9164 9197 11174 
 	}
-	manpower=195325
+	manpower=95325
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=pastoral
 	local_supplies=0.000
 }

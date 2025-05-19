@@ -7,8 +7,9 @@ state={
 		owner = PRC
 		add_core_of = PRC
 		add_claim_by = CHI
+		victory_points = { 12074 50 }
 		buildings = {
-			infrastructure = 1
+			infrastructure = 4
 
 		}
 
@@ -17,7 +18,7 @@ state={
 	provinces={
 		1184 12074 14884 14907 14919 
 	}
-	manpower=10000000
+	manpower=7000000
 	buildings_max_level_factor=1.000
 	state_category=city
 	local_supplies=0.000

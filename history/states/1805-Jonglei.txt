@@ -1,3 +1,4 @@
+
 state={
 	id=1805
 	name="STATE_1805"
@@ -5,16 +6,18 @@ state={
 	history={
 		owner = SSU
 		add_core_of = SSU
-		buildings={
-			infrastructure=2
+		buildings = {
+			infrastructure = 2
+
 		}
+
 	}
-	
+
 	provinces={
-		12744 12800 12887 15890 
+		1853 12744 12800 12887 15099 15890 
 	}
-	manpower=1000000
+	manpower=1200000
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 	local_supplies=0.000
 }

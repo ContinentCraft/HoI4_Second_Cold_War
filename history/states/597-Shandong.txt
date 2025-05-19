@@ -7,18 +7,8 @@ state={
 		owner = PRC
 		add_core_of = PRC
 		add_claim_by = CHI
-		victory_points = {
-			1069 100 
-		}
-		victory_points = {
-			12069 5 
-		}
-		victory_points = {
-			12074 5 
-		}
-		victory_points = {
-			4181 5 
-		}
+		victory_points = { 1069 100 }
+		victory_points = { 12069 5 }
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1

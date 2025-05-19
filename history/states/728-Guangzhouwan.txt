@@ -1,7 +1,7 @@
 state={
 	id=728
 	name="STATE_728"
-	manpower = 200000
+	manpower = 1200000
 	
 	state_category = city
 	
@@ -9,6 +9,7 @@ state={
 		owner = PRC
 		add_core_of = PRC
 		add_claim_by = CHI
+		victory_points = { 11981 25 }
 		buildings = {
 			infrastructure = 3
 			11981 = {

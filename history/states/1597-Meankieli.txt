@@ -20,10 +20,10 @@ state={
 	}
 
 	provinces={
-		201 6208 9147 
+		201 6208 
 	}
 	manpower=45327
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=wasteland
 	local_supplies=0.000
 }

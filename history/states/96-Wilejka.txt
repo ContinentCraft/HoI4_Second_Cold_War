@@ -7,7 +7,7 @@ state={
 		owner = BLR
 		add_core_of = BLR
 		victory_points = {
-			406 1 
+			406 2 
 		}
 		buildings = {
 			infrastructure = 2
@@ -17,10 +17,10 @@ state={
 	}
 
 	provinces={
-		277 358 406 6340 9341 13380 13381 
+		277 358 406 6340 13380 13381 
 	}
-	manpower=726000
+	manpower=1226000
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 	local_supplies=0.000
 }

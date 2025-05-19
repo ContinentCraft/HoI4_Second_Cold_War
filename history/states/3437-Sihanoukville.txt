@@ -1,0 +1,23 @@
+state={
+	id=3437
+	name="STATE_3437"
+
+	history={
+		owner = CAM
+		add_core_of = CAM
+
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		4359 7404 7432 12191 
+	}
+	manpower=800000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

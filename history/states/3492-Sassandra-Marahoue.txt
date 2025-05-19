@@ -1,0 +1,23 @@
+
+state={
+	id=3492
+	name="STATE_3492"
+
+	history={
+		owner = IVO
+		add_core_of = IVO
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		5070 18032 18037 18043 18047 18061 18064 18074 
+	}
+	manpower=2000000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

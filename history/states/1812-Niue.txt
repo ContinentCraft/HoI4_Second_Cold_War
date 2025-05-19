@@ -6,6 +6,7 @@ state={
 		owner = NZL
 		buildings={
 			infrastructure=2
+			17107 = { naval_base = 1 }
 		}
 	}
 	
@@ -14,6 +15,6 @@ state={
 	}
 	manpower=30000
 	buildings_max_level_factor=1.000
-	state_category=small_island
+	state_category=tiny_island
 	local_supplies=0.000
 }

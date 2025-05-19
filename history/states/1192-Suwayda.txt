@@ -2,9 +2,9 @@
 state={
 	id=1192
 	name="STATE_1192"
-	manpower = 57697
+	manpower = 1257697
 	
-	state_category = rural
+	state_category = town
 
 	history={
 		owner = SYR

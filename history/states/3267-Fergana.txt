@@ -1,0 +1,23 @@
+state={
+	id=3267
+	name="STATE_3267"
+
+	history={
+		owner = UZB
+		add_core_of = UZB
+		add_core_of = KOK
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		2058 15574 16214 
+	}
+	manpower=2000000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

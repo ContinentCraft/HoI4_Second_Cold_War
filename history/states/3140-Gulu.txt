@@ -1,0 +1,20 @@
+state={
+	id=3140
+	name="STATE_3140"
+
+	history={
+		owner = UGA
+		add_core_of = UGA
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={
+		368 3224 3285 6528 8223 
+	}
+	manpower=2500000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

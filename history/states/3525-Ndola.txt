@@ -1,0 +1,25 @@
+state={
+	id=3525
+	name="STATE_3525"
+
+	history={
+		owner = ZAM
+		add_core_of = ZAM
+		add_core_of = BAR
+		victory_points = { 12504 10 }
+		victory_points = { 11235 3 }
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		30 3104 7324 9156 11118 11235 12504 
+	}
+	manpower=2500000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

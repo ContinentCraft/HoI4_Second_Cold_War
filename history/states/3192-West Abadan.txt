@@ -1,0 +1,22 @@
+state={
+	id=3192
+	name="STATE_3192"
+
+	history={
+		owner = IRQ
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = IRQ
+
+	}
+
+	provinces={
+		14515 
+	}
+	manpower=75000
+	buildings_max_level_factor=1.000
+	state_category=enclave
+	local_supplies=0.000
+}

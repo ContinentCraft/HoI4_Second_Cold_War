@@ -2,15 +2,15 @@
 state={
 	id=721
 	name="STATE_721"
-	manpower = 455604
+	manpower = 1255604
 	
-	state_category = pastoral
+	state_category = town
 
 	history={
 		owner = POR
 		add_core_of = ETM
 		victory_points = {
-			12190 1
+			12190 6
 		}
 
 		buildings = {

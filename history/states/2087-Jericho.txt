@@ -7,15 +7,15 @@ state={
 		add_core_of = ISR
 		add_core_of = PAL
 		buildings = {
-			infrastructure = 1
+			infrastructure = 3
 		}
 	}
 
 	provinces={
 		14571 14617 
 	}
-	manpower=137742
+	manpower=1137742
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 	local_supplies=0.000
 }

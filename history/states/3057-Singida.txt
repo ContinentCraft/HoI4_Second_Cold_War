@@ -1,0 +1,22 @@
+state={
+	id=3057
+	name="STATE_3057"
+
+	history={
+		owner = TZN
+		add_core_of = TZN
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		3554 5180 6428 13223 
+	}
+	manpower=1500000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -1,0 +1,21 @@
+state={
+	id=3160
+	name="STATE_3160"
+
+	impassable = yes
+
+	history={
+		owner = SUD
+		buildings = {
+			infrastructure = 0
+		}
+	}
+
+	provinces={
+		7987 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

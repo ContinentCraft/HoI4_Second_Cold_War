@@ -1,0 +1,22 @@
+state={
+	id=3310
+	name="STATE_3310"
+
+	history={
+		owner = MZB
+		add_core_of = MZB
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		376 798 2202 3360 6856 9333 11262 
+	}
+	manpower=1500000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

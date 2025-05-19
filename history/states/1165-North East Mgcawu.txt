@@ -2,12 +2,12 @@ state={
 	id=1165
 	name="STATE_1165"
 	
-	state_category=town
+	state_category=wasteland
 
 	history={
 		owner = SAF
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 		}
 		add_core_of = SAF
 	}

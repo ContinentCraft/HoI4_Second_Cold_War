@@ -6,7 +6,7 @@ state={
 	history={
 		owner = YEM
 		add_core_of = YEM
-		add_core_of = SYE
+		add_core_of = FSA
 		buildings = {
 			infrastructure = 2
 
@@ -15,10 +15,10 @@ state={
 	}
 
 	provinces={
-		2029 12821 13079 14084 
+		2029 12821 14084 
 	}
-	manpower=300000
+	manpower=1800000
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=large_town
 	local_supplies=0.000
 }

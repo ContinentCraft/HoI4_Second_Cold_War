@@ -7,17 +7,17 @@ state={
 		owner = ANG
 		add_core_of = ANG
 		buildings = {
-			infrastructure = 1
+			infrastructure = 2
 
 		}
 
 	}
 
 	provinces={
-		501 3328 3356 6294 6357 6543 6776 8219 9055 9573 9729 11273 11394 11408 11681 
+		501 6439 9573 
 	}
-	manpower=100000
+	manpower=1500000
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=town
 	local_supplies=0.000
 }

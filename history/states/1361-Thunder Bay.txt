@@ -14,7 +14,7 @@ state={
 		}
 		add_core_of = CAN
 		victory_points = {
-			7899 1
+			7899 2
 		}
 
 	}
@@ -22,7 +22,7 @@ state={
     provinces={
         7899
     }
-	manpower=44717
+	manpower=144717
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=rural
 }

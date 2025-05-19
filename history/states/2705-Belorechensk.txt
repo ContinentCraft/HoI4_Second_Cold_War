@@ -1,3 +1,4 @@
+
 state={
 	id=2705
 	name="STATE_2705"
@@ -9,11 +10,12 @@ state={
 
 		}
 		add_core_of = SOV
+		add_core_of = KUB
 
 	}
-	
+
 	provinces={
-		717 3177 3698 
+		3177 3698 
 	}
 	manpower=200000
 	buildings_max_level_factor=1.000

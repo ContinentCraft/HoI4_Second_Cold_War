@@ -1,0 +1,23 @@
+state={
+	id=3372
+	name="STATE_3372"
+
+	history={
+		owner = FIN
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = FIN
+		add_core_of = SMI
+
+	}
+
+	provinces={
+		11125 11164 
+	}
+	manpower=25000
+	buildings_max_level_factor=1.000
+	state_category=enclave
+	local_supplies=0.000
+}

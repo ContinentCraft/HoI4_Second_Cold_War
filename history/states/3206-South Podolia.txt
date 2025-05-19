@@ -1,0 +1,22 @@
+state={
+	id=3206
+	name="STATE_3206"
+
+	history={
+		owner = UKR
+		add_core_of = UKR
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		6455 9435 
+	}
+	manpower=800000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

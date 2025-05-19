@@ -7,7 +7,7 @@ state={
 	history={
 		owner = CAN
 		buildings = {
-			infrastructure = 1
+			infrastructure = 0
 		}
 		add_core_of = CAN
 	}
@@ -15,6 +15,6 @@ state={
 	provinces={
 		9040
 	}
-	manpower=5121
+	manpower=10
 	buildings_max_level_factor=1.000
 }

@@ -5,12 +5,8 @@ state={
 
 	history={
 		owner = MOL
-		victory_points = {
-			13312 5 
-		}
-		victory_points = {
-			13234 1 
-		}
+		victory_points = { 13312 3 }
+		victory_points = { 13234 1 }
 		buildings = {
 			infrastructure = 5
 
@@ -22,8 +18,8 @@ state={
 	provinces={
 		13234 13312 
 	}
-	manpower=162043
+	manpower=462043
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=rural
 	local_supplies=0.000
 }

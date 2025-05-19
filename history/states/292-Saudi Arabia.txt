@@ -6,7 +6,7 @@ state={
 	history={
 		owner = SAU
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
 			arms_factory = 1
 			industrial_complex = 1
 
@@ -18,7 +18,7 @@ state={
 	provinces={
 		5024 14217 14223 14231 14241 14250 14251 14256 14277 
 	}
-	manpower=527042
+	manpower=327042
 	buildings_max_level_factor=1.000
 	state_category=rural
 	local_supplies=0.000

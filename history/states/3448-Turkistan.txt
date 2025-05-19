@@ -1,0 +1,22 @@
+state={
+	id=3448
+	name="STATE_3448"
+
+	history={
+		owner = KAZ
+		add_core_of = KAZ
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		7556 10508 12340 12397 12487 
+	}
+	manpower=1200000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

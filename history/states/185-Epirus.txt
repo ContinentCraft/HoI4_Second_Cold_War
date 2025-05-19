@@ -33,9 +33,9 @@ state={
 	}
 
 	provinces={
-		841 1106 1205 3914 9916 10203 11786 12001 
+		841 1205 3914 9916 12001 
 	}
-	manpower=760900
+	manpower=1760900
 	buildings_max_level_factor=1.000
 	state_category=town
 	local_supplies=9.000

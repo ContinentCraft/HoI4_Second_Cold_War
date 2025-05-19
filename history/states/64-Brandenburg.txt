@@ -35,7 +35,7 @@ state={
 	}
 
 	provinces={
-		375 3207 3367 6521 9428 11219 11444 11505 
+		375 3367 6521 9428 11219 11444 11505 
 	}
 	manpower=4265029
 	buildings_max_level_factor=1.000

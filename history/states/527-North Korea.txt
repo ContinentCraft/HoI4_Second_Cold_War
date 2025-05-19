@@ -12,24 +12,19 @@ state={
 		add_core_of = NOK
 		add_claim_by = KOR
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 			arms_factory = 2
 
 		}
-		victory_points = {
-			4052 30 
-		}
-		victory_points = {
-			11835 1 
-		}
+		victory_points = { 4052 60 }
 
 	}
 
 	provinces={
-		978 3912 4052 7171 9790 10065 11770 15006 15020 15036 
+		3431 4052 7171 9540 
 	}
-	manpower=5472200
+	manpower=4472200
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=city
 	local_supplies=0.000
 }

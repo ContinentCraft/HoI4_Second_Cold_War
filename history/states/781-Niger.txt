@@ -6,9 +6,7 @@ state={
 	history={
 		owner = NGR
 		add_core_of = NGR
-		victory_points = {
-			1975 1 
-		}
+		victory_points = { 1975 25 }
 		buildings = {
 			infrastructure = 3
 
@@ -17,10 +15,10 @@ state={
 	}
 
 	provinces={
-		1127 1204 1975 2056 3762 4047 4136 4176 10117 10884 11156 12707 13333 
+		1204 1975 2056 10117 11156 
 	}
-	manpower=313817
+	manpower=3313817
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=city
 	local_supplies=0.000
 }

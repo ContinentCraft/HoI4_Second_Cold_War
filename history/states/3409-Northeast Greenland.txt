@@ -1,0 +1,21 @@
+state={
+	id=3409
+	name="STATE_3409"
+
+	history={
+		owner = DEN
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = GRN
+
+	}
+
+	provinces={
+		13547 13904 
+	}
+	manpower=2500
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

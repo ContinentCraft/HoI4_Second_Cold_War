@@ -1,0 +1,21 @@
+state={
+	id=3660
+	name="STATE_3660"
+
+	history={
+		owner = SOL
+		add_core_of = SOL
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+	provinces={
+		4252 10319 12265 
+	}
+	manpower=150000
+	buildings_max_level_factor=1.000
+	state_category=small_island
+	local_supplies=0.000
+}

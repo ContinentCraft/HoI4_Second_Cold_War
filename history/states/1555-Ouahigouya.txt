@@ -7,17 +7,17 @@ state={
 		owner = VOL
 		add_core_of = VOL
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
 
 		}
 
 	}
 
 	provinces={
-		12851 18148 18152 
+		3146 9050 9155 12851 18148 18152 
 	}
-	manpower=637237
+	manpower=1637237
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=town
 	local_supplies=0.000
 }

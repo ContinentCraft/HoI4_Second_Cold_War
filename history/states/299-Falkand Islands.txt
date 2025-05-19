@@ -6,11 +6,9 @@ state={
 	history={
 		owner = ENG
 		add_claim_by = ARG
-		victory_points = {
-			12960 1 
-		}
+		# victory_points = { 12960 1 }
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
 			12960 = {
 				naval_base = 1
 
@@ -23,8 +21,8 @@ state={
 	provinces={
 		12960 
 	}
-	manpower=2463
+	manpower=3463
 	buildings_max_level_factor=1.000
-	state_category=enclave
+	state_category=wasteland
 	local_supplies=0.000
 }

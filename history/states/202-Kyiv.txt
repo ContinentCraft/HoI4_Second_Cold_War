@@ -10,9 +10,8 @@ state={
 	history={
 		owner = UKR
 		add_core_of = UKR
-		victory_points = {
-			525 50 
-		}
+		victory_points = { 525 50 }
+		victory_points = { 3494 4 }
 		buildings = {
 			infrastructure = 4
 			arms_factory = 2
@@ -33,9 +32,9 @@ state={
 	}
 
 	provinces={
-		489 525 582 3494 3543 6480 6497 11557 
+		525 3494 3543 6480 
 	}
-	manpower=2495352
+	manpower=3495352
 	buildings_max_level_factor=1.000
 	state_category=city
 	local_supplies=0.000

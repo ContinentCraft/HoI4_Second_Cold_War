@@ -9,20 +9,18 @@ state={
 		add_claim_by = KOR
 		buildings = {
 			infrastructure = 2
-			898 = {
-				naval_base = 1
-
-			}
+			898 = { naval_base = 1 }
 
 		}
+		victory_points = { 898 12 }
 
 	}
 
 	provinces={
-		852 898 959 3803 3852 3860 3904 3944 6822 6922 6944 9899 11878 15132 
+		898 959 3860 3944 6822 6944 15132 
 	}
-	manpower=2637150
+	manpower=2137150
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=large_town
 	local_supplies=0.000
 }

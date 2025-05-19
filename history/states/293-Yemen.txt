@@ -19,17 +19,17 @@ state={
 
 		}
 		victory_points = {
-			10840 3 
+			10840 60 
 		}
 		add_core_of = YEM
 
 	}
 
 	provinces={
-		1920 10752 10840 14076 14080 14081 14083 14085 14088 14090 14093 14095 14096 14100 
+		10840 14093 14100 
 	}
-	manpower=1665500
+	manpower=6665500
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=city
 	local_supplies=0.000
 }

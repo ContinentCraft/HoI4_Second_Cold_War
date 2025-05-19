@@ -1,0 +1,22 @@
+state={
+	id=3504
+	name="STATE_3504"
+
+	history={
+		owner = NGR
+		add_core_of = NGR
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		72 1164 3948 3988 7939 13333 
+	}
+	manpower=1500000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

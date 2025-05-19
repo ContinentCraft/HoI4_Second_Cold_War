@@ -1,0 +1,21 @@
+state={
+	id=3515
+	name="STATE_3515"
+
+	history={
+		owner = MLI
+		add_core_of = MLI
+		buildings = {
+			infrastructure = 2
+		}
+
+	}
+
+	provinces={
+		3067 3073 6644 6773 9090 
+	}
+	manpower=2000000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

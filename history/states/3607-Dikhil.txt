@@ -1,0 +1,23 @@
+state={
+	id=3607
+	name="STATE_3607"
+
+	history={
+		owner = DJI
+		add_core_of = DJI
+		buildings = {
+			infrastructure = 1
+			4985 = { naval_base = 1 }
+
+		}
+
+	}
+
+	provinces={
+		6557 
+	}
+	manpower=80000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

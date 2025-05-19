@@ -6,9 +6,7 @@ state={
 	history={
 		owner = SIE
 		add_core_of = SIE
-		victory_points = {
-			2038 1 
-		}
+		victory_points = { 2038 25 }
 		buildings = {
 			infrastructure = 3
 			2038 = {
@@ -21,10 +19,10 @@ state={
 	}
 
 	provinces={
-		2038 2094 18053 18059 18070 18073 18076 18084 18088 18092 18100 
+		2038 18084 
 	}
-	manpower=1768500
+	manpower=2768500
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=city
 	local_supplies=0.000
 }

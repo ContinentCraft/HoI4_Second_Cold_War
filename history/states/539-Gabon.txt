@@ -6,25 +6,20 @@ state={
 	history={
 		owner = GAB
 		add_core_of = GAB
-		victory_points = {
-			5139 1 
-		}
+		victory_points = { 5139 16 }
 		buildings = {
 			infrastructure = 3
-			5139 = {
-				naval_base = 1
-
-			}
+			5139 = { naval_base = 2 }
 
 		}
 
 	}
 
 	provinces={
-		1186 1247 1318 1371 5139 8207 10948 13210 13753 
+		1247 5139 
 	}
-	manpower=364741
+	manpower=1264741
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=town
 	local_supplies=0.000
 }

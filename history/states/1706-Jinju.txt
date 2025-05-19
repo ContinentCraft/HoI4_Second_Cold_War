@@ -8,14 +8,14 @@ state={
 		add_core_of = KOR
 		add_claim_by = NOK
 		buildings = {
-			infrastructure = 2
+			infrastructure = 4
 
 		}
 
 	}
 
 	provinces={
-		1054 10085 12085 13305 14735 14800 14817 
+		1054 10085 12085 14735 14800 
 	}
 	manpower=2000000
 	buildings_max_level_factor=1.000

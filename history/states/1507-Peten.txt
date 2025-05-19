@@ -13,16 +13,14 @@ state={
 
 		}
 		add_core_of = GUA
-		victory_points = {
-			4991 1 
-		}
+		victory_points = { 4991 1 }
 
 	}
 
 	provinces={
 		3822 4991 13226 
 	}
-	manpower=262421
+	manpower=862421
 	buildings_max_level_factor=1.000
 	state_category=rural
 	local_supplies=0.000

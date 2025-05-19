@@ -7,12 +7,10 @@ state={
 		owner = USA
 		add_core_of = USA
 		buildings = {
-			infrastructure = 5
+			infrastructure = 4
 
 		}
-		victory_points = {
-			12735 1 
-		}
+		victory_points = { 12735 16 }
 		victory_points = {
 			7422 1 
 		}

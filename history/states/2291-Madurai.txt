@@ -5,15 +5,17 @@ state={
 	history={
 		owner = RAJ
 		add_core_of = RAJ
+		add_core_of = RAS
 		buildings = {
 			infrastructure = 2
 
 		}
+		victory_points = { 10246 35 }
 
 	}
 
 	provinces={
-		1409 10130 16393 16395 16396 16399 
+		10246 10130 16393 16395 16396 16399 
 	}
 	manpower=3500000
 	buildings_max_level_factor=1.000

@@ -1,0 +1,22 @@
+state={
+	id=3286
+	name="STATE_3286"
+
+	impassable = yes
+
+	history={
+		owner = NMB
+		buildings = {
+			infrastructure = 0
+
+		}
+	}
+
+	provinces={
+		2207
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

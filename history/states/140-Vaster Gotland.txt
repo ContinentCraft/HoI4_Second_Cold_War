@@ -1,3 +1,4 @@
+
 state={
 	id=140
 	name="STATE_140"
@@ -29,9 +30,9 @@ state={
 		add_core_of = SWE
 
 	}
-	
+
 	provinces={
-		69 147 295 383 3063 3128 3286 3386 6331 9054 9218 11114 13096 
+		295 383 3063 3286 3375 3386 6331 
 	}
 	manpower=1282827
 	buildings_max_level_factor=1.000

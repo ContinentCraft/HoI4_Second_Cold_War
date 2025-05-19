@@ -1,0 +1,23 @@
+
+state={
+	id=3551
+	name="STATE_3551"
+
+	history={
+		owner = ZIM
+		add_core_of = ZIM
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		3846 6986 6996 11077 
+	}
+	manpower=850000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

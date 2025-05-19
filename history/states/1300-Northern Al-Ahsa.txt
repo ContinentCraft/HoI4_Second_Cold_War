@@ -6,7 +6,7 @@ state={
 	history={
 		owner = SAU
 		buildings = {
-			infrastructure = 1
+			infrastructure = 4
 
 		}
 		add_core_of = SAU
@@ -14,10 +14,10 @@ state={
 	}
 
 	provinces={
-		1955 13279 14292 14313 14359 
+		1955 5982 13279 14359 
 	}
-	manpower=50000
+	manpower=1000000
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=town
 	local_supplies=0.000
 }

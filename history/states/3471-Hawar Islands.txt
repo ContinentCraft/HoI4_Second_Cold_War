@@ -1,0 +1,26 @@
+state={
+	id=3471
+	name="STATE_3471"
+
+	history={
+		owner = BHR
+		add_core_of = BHR
+		buildings = {
+			infrastructure = 1
+			11490 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		11490 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+	state_category=tiny_island
+	local_supplies=0.000
+}

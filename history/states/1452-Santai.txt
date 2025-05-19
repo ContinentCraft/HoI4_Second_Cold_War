@@ -7,11 +7,9 @@ state={
 		owner = PRC
 		add_core_of = PRC
 		add_claim_by = CHI
-		victory_points = {
-			10132 150 
-		}
+		victory_points = { 10132 150 }
 		buildings = {
-			infrastructure = 4
+			infrastructure = 5
 
 		}
 		2022.1.1 = {

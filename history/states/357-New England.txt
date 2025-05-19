@@ -22,9 +22,7 @@ state={
 		}
 		add_core_of = USA
 		add_core_of = NEE
-		victory_points = {
-			6732 20 
-		}
+		victory_points = { 6732 85 }
 		victory_points = {
 			905 5 
 		}
@@ -37,7 +35,7 @@ state={
 	provinces={
 		6732 17508 
 	}
-	manpower=860100
+	manpower=5860100
 	buildings_max_level_factor=1.000
 	state_category=large_city
 	local_supplies=0.000

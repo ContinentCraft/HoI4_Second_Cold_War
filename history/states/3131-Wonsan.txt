@@ -1,0 +1,26 @@
+state={
+	id=3131
+	name="STATE_3131"
+
+	history={
+		owner = NOK
+		add_core_of = NOK
+		add_claim_by = KOR
+		buildings = {
+			infrastructure = 2
+			848 = {
+				naval_base = 3
+			}
+		}
+		victory_points = { 848 7 }
+
+	}
+
+	provinces={
+		848 10083 11770 15021 
+	}
+	manpower=1500000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -9,9 +9,7 @@ state={
 	history={
 		owner = RCG
 		add_core_of = RCG
-		victory_points = {
-			8193 2 
-		}
+		victory_points = { 8193 50 }
 		buildings = {
 			infrastructure = 2
 			12975 = {
@@ -24,10 +22,10 @@ state={
 	}
 
 	provinces={
-		636 2192 3109 3660 3777 6678 8193 9110 9688 12975 13083 
+		7412 8193 8832 10755 
 	}
-	manpower=606314
+	manpower=2606314
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=city
 	local_supplies=0.000
 }

@@ -6,17 +6,17 @@ state={
 	history={
 		owner = CAN
 		add_core_of = CAN
-		victory_points = {
-			11571 1 
-		}
+		buildings = {
+			infrastructure = 1
 
+		}
 	}
 
 	provinces={
 		763 3591 3736 11058 11571 
 	}
-	manpower=10000
+	manpower=30000
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=wasteland
 	local_supplies=0.000
 }

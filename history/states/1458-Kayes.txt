@@ -6,21 +6,18 @@ state={
 	history={
 		owner = MLI
 		add_core_of = MLI
-		victory_points = {
-			2012 1 
-		}
+		victory_points = { 2012 1 }
 		buildings = {
-			infrastructure = 3
-
+			infrastructure = 2
 		}
 
 	}
 
 	provinces={
-		102 107 2012 3090 3180 10829 10915 
+		102 2012 3090 3180 10829 10915 
 	}
-	manpower=731830
+	manpower=1731830
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=town
 	local_supplies=0.000
 }

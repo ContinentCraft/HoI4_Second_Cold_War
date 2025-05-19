@@ -2,7 +2,7 @@
 state={
 	id=1499
 	name="STATE_1499"
-	manpower = 17394
+	manpower = 117394
 	
 	state_category = pastoral
 	
@@ -13,9 +13,7 @@ state={
 			infrastructure = 3
 		}
 		add_core_of = COS
-		victory_points = {
-			5964 1
-		}
+		victory_points = { 5964 1 }
 
 	}
 

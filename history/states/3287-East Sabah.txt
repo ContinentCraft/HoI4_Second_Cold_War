@@ -1,0 +1,24 @@
+state={
+	id=3287
+	name="STATE_3287"
+
+	history={
+		owner = MAL
+		add_core_of = MAL
+		add_core_of = SUU
+		add_claim_by = PHI
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		1306 4282 10143 10199 10240 12186 12228 
+	}
+	manpower=1100000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

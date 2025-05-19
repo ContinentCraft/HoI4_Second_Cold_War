@@ -6,9 +6,9 @@ state={
 	history={
 		owner = YEM
 		add_core_of = YEM
-		add_core_of = SYE
+		add_core_of = FSA
 		victory_points = {
-			5074 1 
+			5074 20 
 		}
 		buildings = {
 			infrastructure = 3
@@ -23,10 +23,10 @@ state={
 	}
 
 	provinces={
-		5074 14075 14077 14078 14079 14082 
+		5074 14075 14077 14079 
 	}
-	manpower=851302
+	manpower=2851302
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=city
 	local_supplies=0.000
 }

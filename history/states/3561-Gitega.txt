@@ -1,0 +1,23 @@
+
+state={
+	id=3561
+	name="STATE_3561"
+
+	history={
+		owner = BRD
+		add_core_of = BRD
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		6010 9193 11053 
+	}
+	manpower=4000000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

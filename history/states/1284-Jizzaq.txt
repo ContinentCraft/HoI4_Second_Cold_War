@@ -7,17 +7,17 @@ state={
 		owner = UZB
 		add_core_of = UZB
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
 
 		}
 
 	}
 
 	provinces={
-		4629 7682 11687 15569 15570 15572 
+		1276 4629 7682 11687 15569 15572 
 	}
-	manpower=50000
+	manpower=1500000
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=town
 	local_supplies=0.000
 }

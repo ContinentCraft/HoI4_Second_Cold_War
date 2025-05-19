@@ -6,11 +6,9 @@ state={
 	history={
 		owner = JAM
 		add_core_of = JAM
-		victory_points = {
-			12304 1 
-		}
+		victory_points = { 12304 12 }
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 			12304 = {
 				naval_base = 1
 
@@ -23,8 +21,8 @@ state={
 	provinces={
 		12304 12477 17608 17610 
 	}
-	manpower=1075000
+	manpower=2075000
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=large_town
 	local_supplies=0.000
 }

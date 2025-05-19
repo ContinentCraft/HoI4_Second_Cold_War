@@ -1,0 +1,22 @@
+state={
+	id=3292
+	name="STATE_3292"
+
+	history={
+		owner = ANG
+		add_core_of = ANG
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		298 3348 4697 5158 12108 
+	}
+	manpower=1500000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

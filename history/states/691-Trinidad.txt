@@ -10,7 +10,7 @@ state={
 		owner = TRI
 		add_core_of = TRI
 		victory_points = {
-			3284 1 
+			3284 10 
 		}
 		buildings = {
 			infrastructure = 3
@@ -24,7 +24,7 @@ state={
 	}
 
 	provinces={
-		3284 13012 17572 
+		3284 17572 
 	}
 	manpower=1013119
 	buildings_max_level_factor=1.000

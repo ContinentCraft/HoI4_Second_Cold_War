@@ -1,0 +1,23 @@
+
+state={
+	id=3332
+	name="STATE_3332"
+
+	history={
+		owner = NEP
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = NEP
+
+	}
+
+	provinces={
+		16156 16157 16158 16165 
+	}
+	manpower=1500000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -1,0 +1,20 @@
+state={
+	id=3478
+	name="STATE_3478"
+	
+	history={
+		owner = JOR
+		add_core_of = JOR
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces={
+		1 4591 10089 14564 
+	}
+	manpower=850000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

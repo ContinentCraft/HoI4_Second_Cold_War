@@ -1,3 +1,4 @@
+
 state={
 	id=1464
 	name="STATE_1464"
@@ -5,23 +6,22 @@ state={
 	history={
 		owner = AFG
 		buildings = {
-			infrastructure = 1
+			infrastructure = 3
 			arms_factory = 1
 			industrial_complex = 1
 
 		}
-		victory_points = {
-			13976 5 
-		}
+		victory_points = { 10737 80 }
 		add_core_of = AFG
+		add_core_of = PSH
 
 	}
 
 	provinces={
-		13976 13977 13978 13979
+		10737 13976 13979 16194 
 	}
-	manpower=28000
+	manpower=5528000
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=city
+	local_supplies=0.000
 }
-

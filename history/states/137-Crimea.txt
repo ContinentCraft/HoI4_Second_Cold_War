@@ -4,22 +4,19 @@ state={
 	name="STATE_137"
 	manpower = 2061607
 	
-	state_category = large_town
+	state_category = city
 
 	history={
 		owner = SOV
 		add_core_of = SOV
 		add_core_of = UKR
 		add_core_of = CRI
-		victory_points = {
-			3686 10
-		}
-		victory_points = {
-			9680 1
-		}
-		victory_points = {
-			6704 1
-		}
+		victory_points = { 3686 10 }
+		victory_points = { 705 5 }
+		victory_points = { 9680 3 }
+		victory_points = { 11649 2 }
+		victory_points = { 6704 1 }
+		victory_points = { 9677 1 }
 		buildings = {
 			infrastructure = 3
 			dockyard = 1

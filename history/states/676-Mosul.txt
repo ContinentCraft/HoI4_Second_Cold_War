@@ -12,18 +12,18 @@ state={
 			infrastructure = 3
 
 		}
-		victory_points = {
-			10106 1 
-		}
+		victory_points = { 10106 30 }
 		add_core_of = IRQ
+		add_core_of = KUR
+		add_core_of = ASY
 
 	}
 
 	provinces={
-		10106 13442 14783 
+		558 6280 10106 13442 
 	}
-	manpower=1062741
+	manpower=3062741
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=city
 	local_supplies=0.000
 }

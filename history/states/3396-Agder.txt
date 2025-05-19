@@ -1,0 +1,22 @@
+state={
+	id=3396
+	name="STATE_3396"
+
+	history={
+		owner = NOR
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = NOR
+
+	}
+
+	provinces={
+		53 3094 3129 6151 6184 9196 9204 9296 11029 11176 11367 
+	}
+	manpower=1350000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

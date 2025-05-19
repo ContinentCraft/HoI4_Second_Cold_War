@@ -1,0 +1,22 @@
+state={
+	id=3522
+	name="STATE_3522"
+
+	history={
+		owner = MLW
+		add_core_of = MLW
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = { 3191 3 }
+
+	}
+
+	provinces={
+		3191 6198 11112 
+	}
+	manpower=2000000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

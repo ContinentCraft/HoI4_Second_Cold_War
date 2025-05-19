@@ -1,0 +1,22 @@
+state={
+	id=3502
+	name="STATE_3502"
+
+	history={
+		owner = CMR
+		add_core_of = CMR
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		775 893 1722 1792 6736 9187 12509 12611 
+	}
+	manpower=2000000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

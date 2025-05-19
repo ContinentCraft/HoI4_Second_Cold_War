@@ -8,7 +8,7 @@ state={
 		add_core_of = CAN
 		add_core_of = INU
 		buildings = {
-			infrastructure = 1
+			infrastructure = 0
 
 		}
 
@@ -17,7 +17,7 @@ state={
 	provinces={
 		1426 11045 
 	}
-	manpower=7021
+	manpower=3021
 	buildings_max_level_factor=1.000
 	state_category=wasteland
 	local_supplies=0.000

@@ -9,14 +9,16 @@ state={
 			infrastructure = 3
 
 		}
+		victory_points = { 1553 12 }
 		add_core_of = RAJ
+		add_core_of = MPU
 
 	}
 
 	provinces={
-		1581 16256 16261 16271 
+		1553 16256 16261 16271 
 	}
-	manpower=628397
+	manpower=2628397
 	buildings_max_level_factor=1.000
 	state_category=large_town
 	local_supplies=0.000

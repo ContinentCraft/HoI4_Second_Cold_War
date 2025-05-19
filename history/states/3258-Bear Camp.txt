@@ -1,0 +1,22 @@
+state={
+	id=3258
+	name="STATE_3258"
+
+	history={
+		owner = CAN
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = CAN
+
+	}
+
+	provinces={
+		13676 
+	}
+	manpower=10
+	buildings_max_level_factor=1.000
+	state_category=enclave
+	local_supplies=0.000
+}

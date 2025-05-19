@@ -7,12 +7,12 @@ state={
 		owner = SUD
 		add_core_of = SUD
 		victory_points = {
-			12725 1 
+			12725 10 
 		}
 		buildings = {
 			infrastructure = 1
 			12725 = {
-				naval_base = 3
+				naval_base = 5
 
 			}
 
@@ -21,10 +21,10 @@ state={
 	}
 
 	provinces={
-		2003 2046 2088 6248 7989 12725 13258 
+		2003 2046 2088 6248 7989 12725 
 	}
-	manpower=511402
+	manpower=1511402
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=large_town
 	local_supplies=0.000
 }

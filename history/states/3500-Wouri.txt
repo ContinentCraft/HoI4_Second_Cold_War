@@ -1,0 +1,24 @@
+
+state={
+	id=3500
+	name="STATE_3500"
+
+	history={
+		owner = CMR
+		add_core_of = CMR
+		buildings = {
+			infrastructure = 2
+			6039 = { naval_base = 1 }
+
+		}
+
+	}
+
+	provinces={
+		6039 6815 9685 
+	}
+	manpower=1500000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

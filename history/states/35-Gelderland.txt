@@ -7,7 +7,7 @@ state={
 		owner = HOL
 		add_core_of = HOL
 		buildings = {
-			infrastructure = 3
+			infrastructure = 4
 			industrial_complex = 5
 
 		}
@@ -24,9 +24,9 @@ state={
 	}
 
 	provinces={
-		73 131 480 3262 4523 6194 6496 6500 9217 9431 11456 11562 
+		73 131 3262 
 	}
-	manpower=1449000
+	manpower=1949000
 	buildings_max_level_factor=1.000
 	state_category=town
 	local_supplies=0.000

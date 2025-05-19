@@ -1,22 +1,27 @@
+
 state={
 	id=702
 	name="STATE_702"
-	manpower = 150600
-	
-	state_category = small_island
 
 	history={
 		owner = CBV
 		add_core_of = CBV
 		buildings = {
 			infrastructure = 3
-			13014 ={
+			13014 = {
 				naval_base = 1
+
 			}
+
 		}
+
 	}
 
 	provinces={
-		13014 
+		347 13014 
 	}
+	manpower=450600
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
 }

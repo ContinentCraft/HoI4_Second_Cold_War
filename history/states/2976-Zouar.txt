@@ -5,7 +5,7 @@ state={
 	history={
 		owner = CHA
 		buildings = {
-			infrastructure = 1
+			infrastructure = 0
 		}
 		add_core_of = CHA
 	}
@@ -13,7 +13,7 @@ state={
 	provinces={
 		6392 
 	}
-	manpower=10000
+	manpower=100
 	buildings_max_level_factor=1.000
 	state_category=wasteland
 	local_supplies=0.000

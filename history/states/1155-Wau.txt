@@ -6,9 +6,7 @@ state={
 	history={
 		owner = SSU
 		add_core_of = SSU
-		victory_points = {
-			4033 1 
-		}
+		victory_points = { 4033 5 }
 		buildings = {
 			infrastructure = 1
 
@@ -17,10 +15,10 @@ state={
 	}
 
 	provinces={
-		4033 6063 9093 9181 10857 18217 
+		4033 6063 9093 18217 
 	}
-	manpower=721239
+	manpower=1721239
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=town
 	local_supplies=0.000
 }

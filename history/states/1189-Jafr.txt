@@ -7,15 +7,13 @@ state={
 		add_core_of = JOR
 		buildings = {
 			infrastructure = 2
-
 		}
-
 	}
 
 	provinces={
 		11976 13414
 	}
-	manpower=23020
+	manpower=123020
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=pastoral
 }

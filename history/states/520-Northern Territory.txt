@@ -11,15 +11,9 @@ state={
 		buildings = {
 			infrastructure = 3
 			air_base = 1
-			7669 = {
-				naval_base = 1
-
-			}
-
+			7669 = { naval_base = 1 }
 		}
-		victory_points = {
-			7669 5 
-		}
+		victory_points = { 7669 5 }
 		add_core_of = AST
 
 	}
@@ -27,8 +21,8 @@ state={
 	provinces={
 		1217 1410 1422 1431 1454 1478 2139 4415 4441 4462 4487 7457 7481 7669 7685 10276 10288 10316 10518 12104 12246 12290 12326 12339 12499 17261 
 	}
-	manpower=8000
+	manpower=215000
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=town
 	local_supplies=0.000
 }

@@ -7,7 +7,7 @@ state={
 		owner = BAH
 		add_core_of = BAH
 		buildings = {
-			infrastructure = 4
+			infrastructure = 2
 			10440 = {
 				naval_base = 1
 
@@ -24,7 +24,7 @@ state={
 	provinces={
 		1513 17655 
 	}
-	manpower=15000
+	manpower=45000
 	buildings_max_level_factor=1.000
 	state_category=tiny_island
 	local_supplies=0.000

@@ -1,0 +1,24 @@
+state={
+	id=3678
+	name="STATE_3678"
+
+	history={
+		owner = PRC
+		add_claim_by = VIN
+		add_claim_by = PHI
+		add_claim_by = CHI
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			8896 = { naval_base = 2 }
+		}
+	}
+
+	provinces={
+		8896 
+	}
+	manpower=1500
+	buildings_max_level_factor=1.000
+	state_category=tiny_island
+	local_supplies=0.000
+}

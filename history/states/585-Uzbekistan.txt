@@ -8,7 +8,7 @@ state={
 		add_core_of = UZB
 		add_core_of = KKP
 		victory_points = {
-			12465 2 
+			1614 6 
 		}
 		buildings = {
 			infrastructure = 3
@@ -18,9 +18,9 @@ state={
 	}
 
 	provinces={
-		1479 1532 1554 1576 1614 4488 4499 4618 7501 7507 10420 15583 15585 16220 16221 
+		1532 1554 4499 7501 7507 10420 15583 16220 
 	}
-	manpower=826977
+	manpower=1026977
 	buildings_max_level_factor=1.000
 	state_category=rural
 	local_supplies=0.000

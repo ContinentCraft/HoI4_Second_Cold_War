@@ -4,13 +4,12 @@ state={
 	name="STATE_766"
 
 	history={
-		victory_points = {
-			6727 1 
-		}
+		victory_points = { 6727 1 }
+		victory_points = { 3704 1 }
 		owner = UKR
 		add_core_of = UKR
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
 			dockyard = 1
 			6727 = {
 				naval_base = 3

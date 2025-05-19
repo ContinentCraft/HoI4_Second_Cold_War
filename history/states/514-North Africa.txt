@@ -7,17 +7,15 @@ state={
 		owner = ALG
 		add_core_of = ALG
 		buildings = {
-			infrastructure = 0
-
+			infrastructure = 2
 		}
-
 	}
 
 	provinces={
-		1043 12849 17877 17879 17886 17887 17890 17899 17900 17901 17904 17907 17914 17917 
+		1043 12849 17877 17879 17887 
 	}
-	manpower=167733
+	manpower=1167733
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=town
 	local_supplies=0.000
 }

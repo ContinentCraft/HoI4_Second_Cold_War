@@ -10,27 +10,17 @@ state={
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
-			dockyard = 1
-			7221 = {
-				naval_base = 3
-
-			}
 
 		}
-		victory_points = {
-			7125 30 
-		}
-		victory_points = {
-			7221 5 
-		}
+		victory_points = { 7125 250 }
 
 	}
 
 	provinces={
-		363 7021 7125 7221 10036 11380 14928 14931 14972 
+		3567 7021 7125 14972 
 	}
-	manpower=5519817
+	manpower=17519817
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=metropolis
 	local_supplies=0.000
 }

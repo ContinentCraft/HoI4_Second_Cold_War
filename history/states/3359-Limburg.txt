@@ -1,0 +1,22 @@
+state={
+	id=3359
+	name="STATE_3359"
+
+	history={
+		owner = HOL
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = HOL
+
+	}
+
+	provinces={
+		4523 11562 
+	}
+	manpower=850000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

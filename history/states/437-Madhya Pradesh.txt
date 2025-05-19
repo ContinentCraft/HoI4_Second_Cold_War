@@ -10,15 +10,14 @@ state={
 			industrial_complex = 1
 
 		}
-		victory_points = {
-			7205 10 
-		}
+		victory_points = { 4106 60 }
 		add_core_of = RAJ
+		add_core_of = CIP
 
 	}
 
 	provinces={
-		2105 12080 
+		2105 4106  
 	}
 	manpower=4402500
 	buildings_max_level_factor=1.000

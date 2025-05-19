@@ -1,0 +1,22 @@
+state={
+	id=3415
+	name="STATE_3415"
+	
+
+	history={
+		owner = COS
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = COS
+
+	}
+
+	provinces={
+		12878 13092 17570 
+	}
+	manpower=1500000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

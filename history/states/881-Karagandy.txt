@@ -14,10 +14,10 @@ state={
 	}
 
 	provinces={
-		1243 1382 1402 4250 4277 4389 4492 4595 7335 10179 10220 10275 10508 12177 12194 12487 
+		1382 4232 4250 4277 4333 4389 4595 7335 7407 7425 10179 10220 10275 12152 12177 
 	}
-	manpower=227016
+	manpower=1727016
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=large_town
 	local_supplies=0.000
 }

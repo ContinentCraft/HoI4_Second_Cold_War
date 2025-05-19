@@ -1,0 +1,24 @@
+
+state={
+	id=3650
+	name="STATE_3650"
+
+	history={
+		owner = NZL
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = { 7887 5 }
+		add_core_of = NZL
+
+	}
+
+	provinces={
+		1565 1713 1746 4797 7887 
+	}
+	manpower=750000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

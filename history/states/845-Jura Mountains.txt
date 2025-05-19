@@ -8,14 +8,11 @@ state={
 
 	history={
 		owner = SWI
-		victory_points = {
-			9638 5 
-		}
-		victory_points = {
-			6666 5 
-		}
+		victory_points = { 6666 12 }
+		victory_points = { 346 8 }
+		victory_points = { 11590 1 }
 		buildings = {
-			infrastructure = 3
+			infrastructure = 4
 			arms_factory = 1
 			industrial_complex = 2
 
@@ -25,10 +22,10 @@ state={
 	}
 
 	provinces={
-		6666 6683 9622 11590 13124 
+		346 6666 6683 9622 11590 13124 
 	}
 	manpower=2067296
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=city
 	local_supplies=0.000
 }

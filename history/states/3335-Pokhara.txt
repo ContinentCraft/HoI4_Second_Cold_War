@@ -1,0 +1,24 @@
+
+state={
+	id=3335
+	name="STATE_3335"
+
+	history={
+		owner = NEP
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = { 16175 12 }
+		add_core_of = NEP
+
+	}
+
+	provinces={
+		4386 16174 16175 16177 
+	}
+	manpower=2500000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

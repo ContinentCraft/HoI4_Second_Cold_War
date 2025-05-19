@@ -6,7 +6,7 @@ state={
 	history={
 		owner = USA
 		buildings = {
-			infrastructure = 6
+			infrastructure = 4
 			industrial_complex = 1
 			610 = {
 				naval_base = 1
@@ -16,9 +16,7 @@ state={
 		}
 		add_core_of = USA
 		add_core_of = CAL
-		victory_points = {
-			9713 20 
-		}
+		victory_points = { 9713 40 }
 		victory_points = {
 			6681 1 
 		}

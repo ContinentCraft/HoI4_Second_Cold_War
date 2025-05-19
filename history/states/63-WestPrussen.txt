@@ -12,9 +12,6 @@ state={
 		add_core_of = POL
 		add_core_of = KSH
 		victory_points = {
-			6282 8 
-		}
-		victory_points = {
 			13299 3 
 		}
 		victory_points = {
@@ -38,7 +35,7 @@ state={
 	}
 
 	provinces={
-		6282 6334 6390 9252 9277 9306 9361 11288 11316 11372 13299 
+		6334 6390 9252 9277 9306 9361 11288 11316 11372 13299 
 	}
 	manpower=1124417
 	buildings_max_level_factor=1.000

@@ -1,0 +1,23 @@
+state={
+	id=3608
+	name="STATE_3608"
+
+	history={
+		buildings = {
+			infrastructure = 4
+
+		}
+		owner = AST
+		add_core_of = AST
+		victory_points = { 17249 15 }
+
+	}
+
+	provinces={
+		17249 
+	}
+	manpower=800000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

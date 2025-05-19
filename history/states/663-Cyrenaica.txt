@@ -14,10 +14,10 @@ state={
 	}
 
 	provinces={
-		1062 4063 4133 7063 7206 12025 12079 13078 
+		1062 4063 7063 7206 12025 12079 13078 
 	}
-	manpower=6808
+	manpower=111500
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=pastoral
 	local_supplies=0.000
 }

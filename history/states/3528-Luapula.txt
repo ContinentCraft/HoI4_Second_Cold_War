@@ -1,0 +1,22 @@
+state={
+	id=3528
+	name="STATE_3528"
+
+	history={
+		owner = ZAM
+		add_core_of = ZAM
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		133 147 3892 6123 9138 10594 11104 11798 
+	}
+	manpower=1500000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

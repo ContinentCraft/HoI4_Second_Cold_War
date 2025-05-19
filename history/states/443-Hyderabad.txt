@@ -7,6 +7,7 @@ state={
 		owner = PAK
 		add_core_of = PAK
 		add_core_of = SIN
+		victory_points = { 4110 40 }
 		buildings = {
 			infrastructure = 3
 

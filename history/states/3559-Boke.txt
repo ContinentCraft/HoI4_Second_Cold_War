@@ -1,0 +1,22 @@
+state={
+	id=3559
+	name="STATE_3559"
+
+	history={
+		owner = GNA
+		add_core_of = GNA
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		12858 18117 18126 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

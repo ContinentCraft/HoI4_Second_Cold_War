@@ -1,0 +1,20 @@
+state={
+	id=3569
+	name="STATE_3569"
+
+	history={
+		owner = DAH
+		add_core_of = DAH
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={
+		12762 18116 18130 18136 
+	}
+	manpower=1250000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

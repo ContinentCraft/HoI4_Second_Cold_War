@@ -1,0 +1,22 @@
+state={
+	id=3461
+	name="STATE_3461"
+
+	history={
+		owner = TAJ
+		add_core_of = TAJ
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		1694 16217 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

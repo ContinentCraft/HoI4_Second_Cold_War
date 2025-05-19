@@ -9,12 +9,8 @@ state={
 	history={
 		owner = AZR
 		add_core_of = AZR
-		victory_points = {
-			7661 50 
-		}
-		victory_points = {
-			15084 10 
-		}
+		victory_points = { 7661 50 }
+		victory_points = { 15084 10 }
 		buildings = {
 			infrastructure = 4
 			fuel_silo = 1

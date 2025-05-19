@@ -7,7 +7,7 @@ state={
 		owner = GNA
 		add_core_of = GNA
 		victory_points = {
-			1909 1 
+			1909 40 
 		}
 		buildings = {
 			infrastructure = 3
@@ -21,10 +21,10 @@ state={
 	}
 
 	provinces={
-		1909 12802 12858 18094 18106 18110 18112 18114 18117 18118 18126 18127 
+		1909 18094 
 	}
-	manpower=118316
+	manpower=2618316
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=city
 	local_supplies=0.000
 }

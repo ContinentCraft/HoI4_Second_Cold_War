@@ -12,16 +12,16 @@ state={
 
 		}
 		victory_points = {
-			6232 1 
+			6232 2 
 		}
 
 	}
 
 	provinces={
-		215 3203 3293 3507 6232 6319 6556 9249 9554 9568 11453 13694 
+		215 3293 3507 6232 6319 6556 9554 9568 13694 
 	}
-	manpower=934632
+	manpower=1934632
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 	local_supplies=0.000
 }

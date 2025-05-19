@@ -1,0 +1,24 @@
+state={
+	id=3223
+	name="STATE_3223"
+
+	history={
+		owner = CAN
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = CAN
+		add_core_of = QUE
+		victory_points = { 7345 2 }
+
+	}
+
+	provinces={
+		7345 
+	}
+	manpower=250000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

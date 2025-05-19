@@ -9,12 +9,24 @@ state={
 			infrastructure = 4
 
 		}
+		victory_points = {
+			13382 4 
+		}
+		victory_points = {
+			9338 2 
+		}
+		victory_points = {
+			6411 2 
+		}
+		victory_points = {
+			13385 1 
+		}
 		add_core_of = SAF
 
 	}
 
 	provinces={
-		257 338 6411 9338 12692 13382 13385 
+		257 338 6411 9177 9338 12692 13382 13385 
 	}
 	manpower=611278
 	buildings_max_level_factor=1.000

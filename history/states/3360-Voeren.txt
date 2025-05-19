@@ -1,0 +1,21 @@
+state={
+	id=3360
+	name="STATE_3360"
+
+	history={
+		owner = BEL
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = BEL
+	}
+
+	provinces={
+		1143 
+	}
+	manpower=50000
+	buildings_max_level_factor=1.000
+	state_category=enclave
+	local_supplies=0.000
+}

@@ -14,7 +14,7 @@ state={
 		}
 		add_core_of = COL
 		victory_points = {
-			10747 25 
+			10747 220 
 		}
 		victory_points = {
 			7993 5 

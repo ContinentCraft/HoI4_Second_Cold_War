@@ -6,9 +6,7 @@ state={
 	history={
 		owner = ICE
 		add_core_of = ICE
-		victory_points = {
-			12674 3 
-		}
+		victory_points = { 12674 3 }
 		buildings = {
 			infrastructure = 1
 			12674 = {
@@ -25,6 +23,6 @@ state={
 	}
 	manpower=365870
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=rural
 	local_supplies=0.000
 }

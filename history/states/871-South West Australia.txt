@@ -5,7 +5,7 @@ state={
 
 	history={
 		buildings = {
-			infrastructure = 1
+			infrastructure = 2
 
 		}
 		owner = AST
@@ -14,9 +14,9 @@ state={
 	}
 
 	provinces={
-		1526 2186 2191 8200 10473 10949 10969 10997 11011 12926 12948 12962 12976 12990 17237 
+		1498 1511 2186 7579 7608 8200 10473 10949 10969 12926 12962 
 	}
-	manpower=50000
+	manpower=100000
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 	local_supplies=0.000

@@ -5,9 +5,7 @@ state={
 
 	history={
 		owner = SOV
-		victory_points = {
-			3580 8 
-		}
+		victory_points = { 3580 8 }
 		buildings = {
 			infrastructure = 3
 			air_base = 1
@@ -18,7 +16,7 @@ state={
 	}
 
 	provinces={
-		457 558 3580 6304 6603 9542 9579 11244 11526 
+		457 3580 6304 6603 9542 9579 11244 11526 
 	}
 	manpower=1380086
 	buildings_max_level_factor=1.000

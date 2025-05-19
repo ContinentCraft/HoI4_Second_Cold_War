@@ -6,6 +6,7 @@ state={
 	history={
 		owner = PAK
 		add_core_of = PAK
+		victory_points = { 8022 25 }
 		buildings = {
 			infrastructure = 4
 

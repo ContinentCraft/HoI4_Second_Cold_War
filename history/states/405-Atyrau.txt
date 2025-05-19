@@ -7,10 +7,10 @@ state={
 		owner = UZB
 		add_core_of = UZB
 		victory_points = {
-			1459 3 
+			1459 50 
 		}
 		victory_points = {
-			10488 1 
+			10488 10 
 		}
 		buildings = {
 			infrastructure = 3
@@ -29,7 +29,7 @@ state={
 	}
 
 	provinces={
-		1459 15124 15571 15573 15576 
+		1459 15124 
 	}
 	manpower=4137910
 	buildings_max_level_factor=1.000

@@ -1,0 +1,22 @@
+state={
+	id=3327
+	name="STATE_3327"
+
+	history={
+		owner = YEM
+		buildings = {
+			infrastructure = 0
+
+		}
+		add_core_of = YEM
+
+	}
+
+	provinces={
+		14102 14106 
+	}
+	manpower=10000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

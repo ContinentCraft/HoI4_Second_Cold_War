@@ -10,17 +10,15 @@ state={
 		owner = CAR
 		add_core_of = CAR
 		buildings = {
-			infrastructure = 2
-
+			infrastructure = 1
 		}
-
 	}
 
 	provinces={
-		18 75 3086 9231 11012 11081 11171 
+		9225 11171 12628 
 	}
-	manpower=32500
+	manpower=532500
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=rural
 	local_supplies=0.000
 }

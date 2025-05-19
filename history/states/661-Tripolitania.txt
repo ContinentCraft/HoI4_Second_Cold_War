@@ -7,7 +7,7 @@ state={
 		owner = LBA
 		add_core_of = LBA
 		buildings = {
-			infrastructure = 1
+			infrastructure = 3
 
 		}
 
@@ -16,8 +16,8 @@ state={
 	provinces={
 		1174 4051 4117 7154 10037 10067 11940 12009 
 	}
-	manpower=17617
+	manpower=1017617
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=town
 	local_supplies=0.000
 }

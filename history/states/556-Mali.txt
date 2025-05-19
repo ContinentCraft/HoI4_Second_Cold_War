@@ -6,9 +6,7 @@ state={
 	history={
 		owner = MLI
 		add_core_of = MLI
-		victory_points = {
-			4927 2 
-		}
+		victory_points = { 4927 50 }
 		buildings = {
 			infrastructure = 3
 
@@ -17,10 +15,10 @@ state={
 	}
 
 	provinces={
-		3067 3073 3598 3923 4927 5045 6080 6104 6216 6644 6773 6972 7930 8116 9090 9148 11190 12169 12794 
+		107 4927 9148 10592 12169 
 	}
-	manpower=2693741
+	manpower=4693741
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=city
 	local_supplies=0.000
 }

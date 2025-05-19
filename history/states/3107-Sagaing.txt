@@ -1,0 +1,21 @@
+state={
+	id=3107
+	name="STATE_3107"
+
+	history={
+		owner = BRM
+		add_core_of = BRM
+		buildings = {
+			infrastructure = 3
+
+		}
+	}
+
+	provinces={
+		4588 12464 12492 17085 17091 17093 17094 17095 
+	}
+	manpower=1500000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -7,7 +7,7 @@ state={
 		owner = LEB
 		add_core_of = LEB
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 
 		}
 
@@ -16,7 +16,7 @@ state={
 	provinces={
 		11919 14683 
 	}
-	manpower=184000
+	manpower=1184000
 	buildings_max_level_factor=1.000
 	state_category=town
 	local_supplies=0.000

@@ -14,10 +14,10 @@ state={
 	}
 
 	provinces={
-		1966 3070 4909 6164 10818 10891 
+		360 1966 3070 4909 6164 9249 10818 10891 11453 
 	}
-	manpower=302000
+	manpower=1302000
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=town
 	local_supplies=0.000
 }

@@ -1,0 +1,23 @@
+state={
+	id=3126
+	name="STATE_3126"
+
+	history={
+		owner = KOR
+		add_core_of = KOR
+		add_claim_by = NOK
+		buildings = {
+			infrastructure = 4
+
+		}
+
+	}
+
+	provinces={
+		363 10036 11364 14931 
+	}
+	manpower=4000000
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

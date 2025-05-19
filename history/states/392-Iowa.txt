@@ -11,9 +11,7 @@ state={
 
 		}
 		add_core_of = USA
-		victory_points = {
-			1770 3 
-		}
+		victory_points = { 1770 10 }
 		2024.1.1 = {
 			buildings = {
 				industrial_complex = 5

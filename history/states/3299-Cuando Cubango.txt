@@ -1,0 +1,22 @@
+state={
+	id=3299
+	name="STATE_3299"
+
+	history={
+		owner = ANG
+		add_core_of = ANG
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		93 1812 2126 4677 7725 9254 10681 12391 
+	}
+	manpower=1400000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

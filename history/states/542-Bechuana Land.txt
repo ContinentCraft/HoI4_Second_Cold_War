@@ -10,17 +10,17 @@ state={
 		owner = BOT
 		add_core_of = BOT
 		buildings = {
-			infrastructure = 1
+			infrastructure = 3
 
 		}
 
 	}
 
 	provinces={
-		6096 6125 10525 11096 12963 13713 13728 
+		6096 6125 10525 11096 12963 13713 13728 13920 
 	}
-	manpower=234000
+	manpower=1034000
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=town
 	local_supplies=0.000
 }

@@ -6,21 +6,19 @@ state={
 	history={
 		owner = CHA
 		add_core_of = CHA
-		victory_points = {
-			2081 1 
-		}
+		victory_points = { 2081 30 }
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
 
 		}
 
 	}
 
 	provinces={
-		137 397 539 641 1473 1883 2081 3096 3123 3181 4897 4902 4978 5136 6168 6548 6599 6648 7919 9152 9849 11155 13138 13211 13903 
+		137 641 2081 3096 9152 10597 
 	}
-	manpower=1332236
+	manpower=2332236
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=city
 	local_supplies=0.000
 }

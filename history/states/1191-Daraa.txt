@@ -7,7 +7,7 @@ state={
 		owner = SYR
 		add_core_of = SYR
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 
 		}
 
@@ -16,8 +16,8 @@ state={
 	provinces={
 		1074 14634 14661 
 	}
-	manpower=1101594
+	manpower=1601594
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 	local_supplies=0.000
 }

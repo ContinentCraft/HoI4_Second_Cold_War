@@ -6,7 +6,7 @@ state={
 	history={
 		owner = AST
 		buildings = {
-			infrastructure = 5
+			infrastructure = 4
 			industrial_complex = 1
 			air_base = 1
 			1652 = {
@@ -16,25 +16,17 @@ state={
 			}
 
 		}
-		victory_points = {
-			1652 3 
-		}
-		victory_points = {
-			4645 1 
-		}
-		victory_points = {
-			1540 1 
-		}
+		victory_points = { 1652 40 }
 		add_core_of = AST
 		add_core_of = WSR
 
 	}
 
 	provinces={
-		1498 1511 1540 1652 2157 4630 5175 7453 7579 7608 8130 8228 8243 10983 17224 17226 17228 17230 17234 17238 17242 17243 
+		1652 17243 
 	}
-	manpower=367200
+	manpower=2067200
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=city
 	local_supplies=0.000
 }

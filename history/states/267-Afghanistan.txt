@@ -14,17 +14,16 @@ state={
 			industrial_complex = 1
 
 		}
-		victory_points = {
-			5064 5 
-		}
+		victory_points = { 5082 4 }
 		add_core_of = AFG
+		add_core_of = PSH
 
 	}
 
 	provinces={
-		5064 5082 7916 10737 10789 12769 16187 16190 16192 16194 16196 16201 
+		5082 10789 12769 16192 
 	}
-	manpower=3135120
+	manpower=1535120
 	buildings_max_level_factor=1.000
 	state_category=town
 	local_supplies=0.000

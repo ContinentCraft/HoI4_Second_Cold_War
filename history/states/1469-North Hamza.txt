@@ -7,17 +7,16 @@ state={
 		owner = UAE
 		add_core_of = UAE
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
 
 		}
-
 	}
 
 	provinces={
 		13980 13981 14182 
 	}
-	manpower=1702
+	manpower=101702
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=pastoral
 	local_supplies=0.000
 }

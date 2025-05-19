@@ -1,0 +1,23 @@
+
+state={
+	id=3278
+	name="STATE_3278"
+
+	history={
+		owner = MAL
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = MAL
+
+	}
+
+	provinces={
+		4424 10313 17154 
+	}
+	manpower=2500000
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

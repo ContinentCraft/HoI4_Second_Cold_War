@@ -4,12 +4,10 @@ state={
 	name="STATE_783" # Sidi Ifni
 	manpower = 11043
 	
-	state_category = pastoral
+	state_category = enclave
 
 	history={
-		victory_points = {
-			12857 1
-		}
+		# victory_points = { 12857 1 }
 
 		owner = MOR
 		add_core_of = MOR

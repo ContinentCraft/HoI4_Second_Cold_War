@@ -1,9 +1,7 @@
+
 state={
 	id=3005
 	name="STATE_3005"
-	provinces={
-		3884 11767 13405 13910 
-	}
 
 	history={
 		owner = ALB
@@ -12,8 +10,12 @@ state={
 			infrastructure = 2
 
 		}
+
 	}
 
+	provinces={
+		3884 11767 13405 
+	}
 	manpower=800000
 	buildings_max_level_factor=1.000
 	state_category=rural

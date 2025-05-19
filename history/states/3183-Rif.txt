@@ -1,0 +1,21 @@
+state={
+	id=3183
+	name="STATE_3183"
+
+	history={
+		owner = MOR
+		add_core_of = MOR
+		add_core_of = RIF
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces={
+		4199 7215 13304 14009 17971 
+	}
+	manpower=1200000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

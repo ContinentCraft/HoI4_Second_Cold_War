@@ -9,7 +9,7 @@ state={
 	history={
 		owner = RAJ
 		buildings = {
-			infrastructure = 5
+			infrastructure = 4
 			industrial_complex = 1
 			dockyard = 1
 			1159 = {
@@ -19,9 +19,7 @@ state={
 
 		}
 		add_core_of = RAJ
-		victory_points = {
-			4245 5 
-		}
+		victory_points = { 4245 300 }
 
 	}
 

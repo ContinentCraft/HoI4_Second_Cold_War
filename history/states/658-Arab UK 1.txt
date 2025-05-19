@@ -10,7 +10,7 @@ state={
 		owner = UAE
 		add_core_of = UAE
 		victory_points = {
-			7960 1 
+			7960 30 
 		}
 		buildings = {
 			infrastructure = 4
@@ -24,10 +24,10 @@ state={
 	}
 
 	provinces={
-		2048 7960 8108 14193 14195 14209 14215 14221 
+		2048 7960 14209 
 	}
-	manpower=170200
+	manpower=2170200
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=city
 	local_supplies=0.000
 }

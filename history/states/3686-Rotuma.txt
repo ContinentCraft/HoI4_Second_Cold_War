@@ -1,0 +1,21 @@
+state={
+	id=3686
+	name="STATE_3686"
+
+	history={
+		owner = FIJ
+		add_core_of = FIJ
+		buildings = {
+			infrastructure = 1
+			13057 = { naval_base = 1 }
+		}
+	}
+
+	provinces={
+		13057 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category=tiny_island
+	local_supplies=0.000
+}

@@ -1,0 +1,22 @@
+state={
+	id=3472
+	name="STATE_3472"
+
+	history={
+		owner = SYR
+		add_core_of = SYR
+		buildings = {
+			infrastructure = 4
+
+		}
+
+	}
+
+	provinces={
+		14716 14737 
+	}
+	manpower=2000000
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

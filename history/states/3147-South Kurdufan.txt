@@ -1,0 +1,20 @@
+state={
+	id=3147
+	name="STATE_3147"
+
+	history={
+		owner = SUD
+		add_core_of = SUD
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={
+		2995 3082 9089 10827 10851 10900 
+	}
+	manpower=1350000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

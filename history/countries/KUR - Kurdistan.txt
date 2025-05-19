@@ -1,5 +1,7 @@
 ﻿capital = 800
 
+set_capital = { state = 1196 remember_old_capital = yes }
+
 set_research_slots = 2
 
 add_ideas = {

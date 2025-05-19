@@ -1,0 +1,21 @@
+state={
+	id=3544
+	name="STATE_3544"
+
+	history={
+		owner = SEN
+		add_core_of = SEN
+		buildings = {
+			infrastructure = 2
+		}
+
+	}
+
+	provinces={
+		18159 18160 18161 
+	}
+	manpower=1350000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

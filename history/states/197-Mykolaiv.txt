@@ -16,15 +16,15 @@ state={
 				dockyard = 2
 
 			}
+
 		}
-		victory_points = {
-			11683 10 
-		}
+		victory_points = { 11683 10 }
+		victory_points = { 11546 1 }
 
 	}
 
 	provinces={
-		409 574 3403 6597 11546 11683 
+		574 11546 11683 
 	}
 	manpower=1396311
 	buildings_max_level_factor=1.000

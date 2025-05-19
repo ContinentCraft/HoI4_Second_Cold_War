@@ -1,0 +1,22 @@
+state={
+	id=3433
+	name="STATE_3433"
+
+	history={
+		owner = ENG
+		add_core_of = BRU
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		17177 
+	}
+	manpower=70000
+	buildings_max_level_factor=1.000
+	state_category=enclave
+	local_supplies=0.000
+}

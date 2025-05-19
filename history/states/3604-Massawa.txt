@@ -1,0 +1,25 @@
+state={
+	id=3604
+	name="STATE_3604"
+
+	history={
+		owner = ERI
+		add_core_of = ERI
+		buildings = {
+			infrastructure = 2
+			17874 = {
+				naval_base = 3
+			}
+
+		}
+
+	}
+
+	provinces={
+		5047 5091 15126 17874 
+	}
+	manpower=150000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

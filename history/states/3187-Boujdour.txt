@@ -1,0 +1,20 @@
+state={
+	id=3187
+	name="STATE_3187"
+
+	history={
+		owner = MOR
+		add_core_of = MOR
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		5012 
+	}
+	manpower=50000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

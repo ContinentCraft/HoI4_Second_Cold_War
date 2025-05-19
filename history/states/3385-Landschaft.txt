@@ -1,0 +1,22 @@
+state={
+	id=3385
+	name="STATE_3385"
+
+	history={
+		owner = SWI
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = { 9638 10 }
+		add_core_of = SWI
+	}
+
+	provinces={
+		445 3275 9638 
+	}
+	manpower=1650000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

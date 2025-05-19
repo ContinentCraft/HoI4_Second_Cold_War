@@ -5,9 +5,7 @@ state={
 	history={
 		owner = MRT
 		add_core_of = MRT
-		victory_points = {
-			7992 3 
-		}
+		victory_points = { 7992 3 }
 		buildings = {
 			infrastructure = 2
 

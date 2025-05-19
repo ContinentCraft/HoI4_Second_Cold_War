@@ -10,7 +10,7 @@ state={
 	history={
 		owner = USA
 		buildings = {
-			infrastructure = 7
+			infrastructure = 4
 			9671 = {
 				naval_base = 4
 
@@ -19,16 +19,14 @@ state={
 		}
 		add_core_of = USA
 		add_core_of = CAL
-		victory_points = {
-			9671 5 
-		}
+		victory_points = { 17739 40 }
 
 	}
 
 	provinces={
 		2010 17739 
 	}
-	manpower=1095391
+	manpower=2095391
 	buildings_max_level_factor=1.000
 	state_category=city
 	local_supplies=0.000

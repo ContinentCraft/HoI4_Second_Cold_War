@@ -6,14 +6,14 @@ state={
 		owner = TUN
 		add_core_of = TUN
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
 		}
 	}
 
 	provinces={
 		10026 11935 
 	}
-	manpower=110000
+	manpower=610000
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=rural
 }

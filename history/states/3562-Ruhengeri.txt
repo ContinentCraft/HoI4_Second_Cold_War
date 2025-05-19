@@ -1,0 +1,21 @@
+state={
+	id=3562
+	name="STATE_3562"
+
+	history={
+		owner = RWA
+		add_core_of = RWA
+		buildings = {
+			infrastructure = 3
+
+		}
+	}
+
+	provinces={
+		9765 14042 14059 
+	}
+	manpower=2650000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -11,32 +11,22 @@ state={
 		owner = NOK
 		add_core_of = NOK
 		add_claim_by = KOR
-		victory_points = {
-			848 10 
-		}
-		victory_points = {
-			6822 5 
-		}
 		buildings = {
-			infrastructure = 4
-			848 = {
-				naval_base = 3
+			infrastructure = 2
+			3981 = {
+				naval_base = 2
 
 			}
-			6822 = {
-				naval_base = 1
-
-			}
-
 		}
+		victory_points = { 3981 12 }
 
 	}
 
 	provinces={
-		800 848 3981 6928 10083 15021 
+		800 3981 6928 
 	}
-	manpower=321000
+	manpower=1321000
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=large_town
 	local_supplies=0.000
 }

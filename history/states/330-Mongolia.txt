@@ -9,9 +9,7 @@ state={
 
 	history={
 		owner = MON
-		victory_points = {
-			4801 30 
-		}
+		victory_points = { 4801 30 }
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
@@ -21,14 +19,13 @@ state={
 		}
 		add_core_of = MON
 		add_claim_by = CHI
-		add_claim_by = PRC
 
 	}
 
 	provinces={
 		1859 4732 4801 4862 7752 10554 12605 12686 15244 15267 15279 
 	}
-	manpower=335100
+	manpower=1835100
 	buildings_max_level_factor=1.000
 	state_category=city
 	local_supplies=0.000

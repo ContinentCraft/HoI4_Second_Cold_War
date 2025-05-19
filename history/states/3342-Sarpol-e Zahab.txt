@@ -1,0 +1,23 @@
+state={
+	id=3342
+	name="STATE_3342"
+
+	history={
+		owner = PER
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = PER
+		add_core_of = KUR
+
+	}
+
+	provinces={
+		5098
+	}
+	manpower=150000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

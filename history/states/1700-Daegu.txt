@@ -1,3 +1,4 @@
+
 state={
 	id=1700
 	name="STATE_1700"
@@ -7,13 +8,17 @@ state={
 		add_core_of = KOR
 		add_claim_by = NOK
 		buildings = {
-			infrastructure = 2
+			infrastructure = 4
+
+		}
+		victory_points = {
+			4086 45 
 		}
 
 	}
 
 	provinces={
-		4103 7121 10115 11912 12089 14844 
+		4086 12089 
 	}
 	manpower=2000000
 	buildings_max_level_factor=1.000

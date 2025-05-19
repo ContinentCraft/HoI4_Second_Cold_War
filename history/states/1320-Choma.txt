@@ -7,18 +7,19 @@ state={
 		owner = ZAM
 		add_core_of = ZAM
 		add_core_of = BAR
+		victory_points = { 7872 3 }
 		buildings = {
-			infrastructure = 1
+			infrastructure = 3
 
 		}
 
 	}
 
 	provinces={
-		30 118 697 3110 3344 3378 6247 6292 7872 9163 11041 11079 11146 11191 11208 12677 
+		3110 3183 6247 6758 7872 9211 9399 11191 
 	}
-	manpower=125042
+	manpower=2125042
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=town
 	local_supplies=0.000
 }

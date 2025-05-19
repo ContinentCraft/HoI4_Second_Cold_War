@@ -10,17 +10,14 @@ state={
 
 		}
 		add_core_of = USA
-		victory_points = {
-			1851 1 
-		}
 
 	}
 
 	provinces={
 		1767 7760 10587 
 	}
-	manpower=17598
+	manpower=27598
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=wasteland
 	local_supplies=0.000
 }

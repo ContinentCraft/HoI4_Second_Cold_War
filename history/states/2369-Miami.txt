@@ -9,6 +9,7 @@ state={
 			infrastructure = 4
 
 		}
+		victory_points = { 1843 120 }
 
 	}
 	provinces={

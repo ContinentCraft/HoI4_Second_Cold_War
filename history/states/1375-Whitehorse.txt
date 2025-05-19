@@ -6,18 +6,17 @@ state={
 	history={
 		owner = CAN
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
 
 		}
-		add_core_of = CAN
 
 	}
 
 	provinces={
 		13060 13613 13668 13701 
 	}
-	manpower=21581
+	manpower=40581
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=pastoral
 	local_supplies=0.000
 }

@@ -7,10 +7,10 @@ state={
 		owner = MZB
 		add_core_of = MZB
 		victory_points = {
-			12711 1 
+			12711 17 
 		}
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
 			2123 = {
 				naval_base = 1
 
@@ -23,8 +23,8 @@ state={
 	provinces={
 		232 1095 11335 12711 
 	}
-	manpower=612000
+	manpower=2112000
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=large_town
 	local_supplies=0.000
 }

@@ -2,7 +2,7 @@ state={
 	id=1651
 	name="STATE_1651"
 
-	state_category=pastoral
+	state_category=wasteland
 
 	history = {
 		owner = SAU
@@ -16,7 +16,7 @@ state={
 		14157 14162 
 	}
 
-	manpower=10000
+	manpower=20000
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

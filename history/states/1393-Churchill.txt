@@ -7,7 +7,6 @@ state={
 		owner = CAN
 		buildings = {
 			infrastructure = 1
-
 		}
 		add_core_of = CAN
 
@@ -16,7 +15,7 @@ state={
 	provinces={
 		5239 6029 7185 9201 10585 10605 11088 13182 
 	}
-	manpower=19100
+	manpower=9100
 	buildings_max_level_factor=1.000
 	state_category=wasteland
 	local_supplies=0.000

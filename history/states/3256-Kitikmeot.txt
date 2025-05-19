@@ -1,0 +1,22 @@
+state={
+	id=3256
+	name="STATE_3256"
+
+	history={
+		owner = CAN
+		buildings = {
+			infrastructure = 0
+
+		}
+		add_core_of = INU
+
+	}
+
+	provinces={
+		7696 7901 13539 13553 
+	}
+	manpower=6000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

@@ -14,10 +14,10 @@ state={
 	}
 
 	provinces={
-		155 1993 3141 3375 
+		1993 3141 12579 
 	}
-	manpower=110220
+	manpower=1210220
 	buildings_max_level_factor=1.000
-	state_category=enclave
+	state_category=town
 	local_supplies=0.000
 }

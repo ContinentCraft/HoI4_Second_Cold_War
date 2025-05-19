@@ -1,0 +1,21 @@
+state={
+	id=3168
+	name="STATE_3168"
+
+	history={
+		owner = ALG
+		add_core_of = ALG
+		buildings = {
+			infrastructure = 3
+
+		}
+	}
+
+	provinces={
+		4018 7040 17957 17972 17978 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

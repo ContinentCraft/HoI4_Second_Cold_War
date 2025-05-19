@@ -1,7 +1,7 @@
 state={
 	id=729
 	name="STATE_729"
-	manpower = 157805
+	manpower = 627805
 	
 	state_category = town
 	
@@ -10,9 +10,7 @@ state={
 		add_core_of = MCU
 		add_claim_by = CHI
 		add_claim_by = PRC
-		victory_points = {
-			4189 1 
-		}
+		victory_points = { 4189 12 }
 		buildings = {
 			infrastructure = 5
 			4189 = {

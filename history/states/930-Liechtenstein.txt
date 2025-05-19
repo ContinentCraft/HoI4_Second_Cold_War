@@ -4,9 +4,7 @@ state={
 
 	history={
 		owner = LIE
-		victory_points = {
-			13313 1 
-		}
+		victory_points = { 13313 1 }
 		buildings = {
 			infrastructure = 3
 		}
@@ -16,7 +14,7 @@ state={
 	provinces={
 		13313 
 	}
-	manpower=29812
+	manpower=84812
 	buildings_max_level_factor=1.000
 	state_category = pastoral
 }

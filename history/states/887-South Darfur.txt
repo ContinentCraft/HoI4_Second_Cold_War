@@ -7,17 +7,15 @@ state={
 		owner = SUD
 		add_core_of = SUD
 		buildings = {
-			infrastructure = 1
-
+			infrastructure = 2
 		}
-
 	}
 
 	provinces={
-		1960 1977 3099 3157 5060 6091 6213 8052 9102 9213 10739 11042 11107 11170 12587 13507 
+		1960 1977 6213 12587 13507 
 	}
-	manpower=302020
+	manpower=2802020
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=city
 	local_supplies=0.000
 }

@@ -8,15 +8,16 @@ state={
 		add_core_of = UAE
 		buildings = {
 			infrastructure = 4
+
 		}
 
 	}
 
 	provinces={
-		10904 14227 14239 14252 14253 14270 14271 14285 
+		10904 14239 14252 
 	}
-	manpower=1000000
+	manpower=3000000
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=city
 	local_supplies=0.000
 }

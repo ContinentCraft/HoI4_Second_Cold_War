@@ -12,16 +12,9 @@ state={
 			infrastructure = 4
 
 		}
-		victory_points = {
-			4883 10 
-		}
-		victory_points = {
-			10401 5 
-		}
-		victory_points = {
-			12420 5 
-		}
+		victory_points = { 4883 60 }
 		add_core_of = RAJ
+		add_core_of = KOL
 
 	}
 

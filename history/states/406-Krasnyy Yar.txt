@@ -8,19 +8,16 @@ state={
 		add_core_of = KAZ
 		buildings = {
 			infrastructure = 2
-
 		}
-		victory_points = {
-			3618 1 
-		}
+		victory_points = { 3618 1 }
 
 	}
 
 	provinces={
-		554 3618 7322 9453 11442 11469 
+		554 3618 9453 11469 
 	}
-	manpower=146494
+	manpower=546494
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=rural
 	local_supplies=0.000
 }

@@ -1,0 +1,22 @@
+state={
+	id=3446
+	name="STATE_3446"
+
+	history={
+		owner = SRL
+		add_core_of = SRL
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		16130 
+	}
+	manpower=60000
+	buildings_max_level_factor=1.000
+	state_category=enclave
+	local_supplies=0.000
+}

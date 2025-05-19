@@ -6,25 +6,18 @@ state={
 		owner = USA
 
 		add_core_of = SAM
-		victory_points = {
-			13080 1 
-		}
+		victory_points = { 13080 1 }
 
 		buildings = {
 			infrastructure = 3
-			13080 = {
-				naval_base = 1
-
-			}
-
+			13080 = { naval_base = 1 }
 		}
-
 	}
 
 	provinces={
 		13080 
 	}
-	manpower=46104
+	manpower=43104
 	buildings_max_level_factor=1.000
 	state_category=tiny_island
 }

@@ -16,15 +16,15 @@ state={
 		}
 		add_core_of = CAN
 		victory_points = {
-			9467 1 
+			7366 2 
 		}
 
 	}
 
 	provinces={
-		602 777 4775 6142 6510 7366 7809 9467 9480 12278 12582 13161 
+		6510 7366 9467 9480 12278 
 	}
-	manpower=83322
+	manpower=283322
 	buildings_max_level_factor=1.000
 	state_category=rural
 	local_supplies=0.000

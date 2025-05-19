@@ -9,7 +9,7 @@ state={
 	history={
 		owner = BHU
 		buildings = {
-			infrastructure = 1
+			infrastructure = 2
 			arms_factory = 1
 			industrial_complex = 2
 
@@ -22,10 +22,10 @@ state={
 	}
 
 	provinces={
-		8010 12860 16160 16162 16169 16170 16173 
+		8010 16169 16170 16173 
 	}
-	manpower=450000
+	manpower=550000
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=rural
 	local_supplies=0.000
 }

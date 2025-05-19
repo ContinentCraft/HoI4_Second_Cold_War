@@ -6,21 +6,18 @@ state={
 	history={
 		owner = BRD
 		add_core_of = BRD
-		victory_points = {
-			2220 1 
-		}
+		victory_points = { 2220 20 }
 		buildings = {
 			infrastructure = 2
-
 		}
 
 	}
 
 	provinces={
-		145 845 2220 3915 6010 9193 11053 11863 
+		2220 3915 
 	}
-	manpower=2145731
+	manpower=5145731
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=city
 	local_supplies=0.000
 }

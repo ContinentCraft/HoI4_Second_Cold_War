@@ -1,0 +1,23 @@
+state={
+	id=3203
+	name="STATE_3203"
+
+	history={
+		owner = AFG
+		add_core_of = AFG
+		add_core_of = BLC
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		2101 4949 5020 13263 
+	}
+	manpower=200000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

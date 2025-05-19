@@ -1,0 +1,22 @@
+state={
+	id=3652
+	name="STATE_3652"
+
+	history={
+		owner = NZL
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = NZL
+
+	}
+
+	provinces={
+		1786 1801 7692 7783 12604 12617 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

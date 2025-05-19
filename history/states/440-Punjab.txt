@@ -6,13 +6,8 @@ state={
 	history={
 		owner = PAK
 		add_core_of = PAK
-		add_core_of = PUN
-		victory_points = {
-			12005 20 
-		}
-		victory_points = {
-			10887 5 
-		}
+		add_core_of = KHL
+		victory_points = { 10887 250 }
 		buildings = {
 			infrastructure = 3
 
@@ -21,7 +16,7 @@ state={
 	}
 
 	provinces={
-		12005 16939 16944 
+		10887 16939 16944 
 	}
 	manpower=13665000
 	buildings_max_level_factor=1.000

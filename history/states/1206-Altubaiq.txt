@@ -5,7 +5,7 @@ state={
 	history={
 		owner = SAU
 		buildings = {
-			infrastructure = 3
+			infrastructure = 0
 
 		}
 		add_core_of = SAU
@@ -16,7 +16,7 @@ state={
 	provinces={
 		13437 
 	}
-	manpower=158000
+	manpower=1000
 	buildings_max_level_factor=1.000
 	state_category=wasteland
 }

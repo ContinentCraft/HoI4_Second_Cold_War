@@ -9,7 +9,7 @@ state={
 	history={
 		owner = CAN
 		buildings = {
-			infrastructure = 1
+			infrastructure = 0
 
 		}
 		add_core_of = INU
@@ -17,9 +17,9 @@ state={
 	}
 
 	provinces={
-		15 1712 2947 3050 3691 3792 5259 5315 5556 5815 6426 7696 7813 7901 8257 8283 8468 8645 8667 8962 9012 10721 13188 13190 13191 13532 13539 13543 13548 13550 13552 13553 13555 13556 13579 13592 
+		3691 3792 7813 8257 8283 8468 9012 13532 13556 13579 13592 
 	}
-	manpower=46135
+	manpower=16135
 	buildings_max_level_factor=1.000
 	state_category=wasteland
 	local_supplies=0.000

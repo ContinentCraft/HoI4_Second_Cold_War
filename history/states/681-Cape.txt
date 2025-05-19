@@ -6,7 +6,7 @@ state={
 	history={
 		owner = SAF
 		buildings = {
-			infrastructure = 3
+			infrastructure = 4
 			industrial_complex = 2
 			air_base = 1
 			12589 = {
@@ -16,17 +16,20 @@ state={
 
 		}
 		victory_points = {
-			12589 10 
+			12589 100 
+		}
+		victory_points = {
+			3214 2 
 		}
 		add_core_of = SAF
 
 	}
 
 	provinces={
-		497 3214 3339 6308 6382 9448 10415 11363 12589 13383 
+		497 3214 3339 6156 6308 12589 
 	}
-	manpower=1637178
+	manpower=5637178
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=large_city
 	local_supplies=0.000
 }

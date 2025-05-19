@@ -9,21 +9,18 @@ state={
 	history={
 		owner = CAR
 		add_core_of = CAR
-		victory_points = {
-			12830 1 
-		}
+		victory_points = { 12830 17  }
 		buildings = {
 			infrastructure = 2
 
 		}
-
 	}
 
 	provinces={
-		89 381 1974 3065 3154 3165 5084 6051 6193 6615 8078 9131 9134 9154 9233 11108 11143 12719 12830 13738 
+		6193 9154 9233 10631 11108 12830 
 	}
 	manpower=1104421
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=large_town
 	local_supplies=0.000
 }

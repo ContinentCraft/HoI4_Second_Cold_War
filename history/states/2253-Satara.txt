@@ -6,6 +6,7 @@ state={
 	history={
 		owner = RAJ
 		add_core_of = RAJ
+		add_core_of = KOL
 		buildings = {
 			infrastructure = 2
 
@@ -14,7 +15,7 @@ state={
 	}
 
 	provinces={
-		12182 16505 16509 
+		16505 16509 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

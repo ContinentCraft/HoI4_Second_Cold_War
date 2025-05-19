@@ -1,9 +1,9 @@
 state={
 	id=297
 	name="STATE_297" # Malabo
-	manpower = 183000
+	manpower = 683000
 	
-	state_category = small_island
+	state_category = rural
 	
 	history={
 		owner = EQG

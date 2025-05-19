@@ -9,18 +9,16 @@ state={
 			infrastructure = 2
 
 		}
-		victory_points = {
-			12871 10 
-		}
 		add_core_of = AFG
+		victory_points = { 4893 12 }
 
 	}
 
 	provinces={
-		1948 1995 2017 2062 2078 8053 12788 12871 16185 16191 
+		4893 10476 10896 16195 16197 
 	}
-	manpower=1222660
+	manpower=3222660
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=large_town
 	local_supplies=0.000
 }

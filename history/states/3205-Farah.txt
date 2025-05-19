@@ -1,0 +1,23 @@
+state={
+	id=3205
+	name="STATE_3205"
+
+	history={
+		owner = AFG
+		add_core_of = AFG
+		add_core_of = PSH
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		8053 12788 12871 16191 
+	}
+	manpower=1500000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -6,26 +6,20 @@ state={
 	history={
 		owner = ERI
 		add_core_of = ERI
-		victory_points = {
-			12766 1 
-		}
+		victory_points = { 12766 20 }
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 			air_base = 3
-			12766 = {
-				naval_base = 3
-
-			}
 
 		}
 
 	}
 
 	provinces={
-		1781 1810 5017 5047 5091 8043 12610 12723 12766 17873 17874 
+		12766 17873 
 	}
-	manpower=590600
+	manpower=1590600
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=city
 	local_supplies=0.000
 }

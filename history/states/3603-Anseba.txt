@@ -1,0 +1,22 @@
+state={
+	id=3603
+	name="STATE_3603"
+
+	history={
+		owner = ERI
+		add_core_of = ERI
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		3085 5017 12610 
+	}
+	manpower=700000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

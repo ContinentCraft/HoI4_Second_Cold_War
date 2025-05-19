@@ -1,0 +1,22 @@
+state={
+	id=3577
+	name="STATE_3577"
+
+	history={
+		owner = SSU
+		add_core_of = SSU
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		3131 9181 10764 10857 
+	}
+	manpower=450000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

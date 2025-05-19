@@ -7,7 +7,7 @@ state={
 		owner = ZAM
 		add_core_of = ZAM
 		buildings = {
-			infrastructure = 1
+			infrastructure = 2
 
 		}
 
@@ -16,7 +16,7 @@ state={
 	provinces={
 		7907 11152 
 	}
-	manpower=9726
+	manpower=129726
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 	local_supplies=0.000

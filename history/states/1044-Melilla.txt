@@ -5,17 +5,12 @@ state={
 	history={
 		owner = SPR
 		add_core_of = SPR
+		add_core_of = RIF
 		add_claim_by = MOR
-		victory_points = {
-			12100 1 
-		}
+		victory_points = { 12100 1 }
 		buildings = {
 			infrastructure = 4
-			12100 = {
-				naval_base = 3
-
-			}
-
+			12100 = { naval_base = 3 }
 		}
 
 	}

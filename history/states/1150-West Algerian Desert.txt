@@ -14,10 +14,10 @@ state={
 	}
 
 	provinces={
-		13358 13533 13615 13640 13654 17912 
+		13533 13640 13654 
 	}
-	manpower=33891
+	manpower=133891
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=pastoral
 	local_supplies=0.000
 }

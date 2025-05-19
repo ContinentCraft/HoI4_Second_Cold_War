@@ -1,0 +1,28 @@
+state={
+	id=3077
+	name="STATE_3077"
+
+	history={
+		owner = SAF
+		buildings = {
+			infrastructure = 2
+
+		}
+		victory_points = {
+			1688 2 
+		}
+		victory_points = {
+			9098 1 
+		}
+		add_core_of = SAF
+
+	}
+
+	provinces={
+		83 1688 6381 9098 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

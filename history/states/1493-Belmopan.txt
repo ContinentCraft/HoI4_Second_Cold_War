@@ -1,18 +1,16 @@
 state={
 	id=1493
 	name="STATE_1493"
-	manpower = 27031
+	manpower = 227031
 	
-	state_category = pastoral
+	state_category = rural
 	history={
 		owner = BLZ
 		add_core_of = BLZ
 		add_claim_by = GUA
-		victory_points = {
-			8744 1 
-		}
+		victory_points = { 8744 1 }
 		buildings = {
-			infrastructure = 4
+			infrastructure = 2
 		}
 	}
 	provinces= { 

@@ -18,10 +18,10 @@ state={
 	}
 
 	provinces={
-		863 3033 6674 7963 9805 
+		863 3033 6674 7963 9224 9805 13059 
 	}
-	manpower=127920
+	manpower=1627920
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=town
 	local_supplies=0.000
 }

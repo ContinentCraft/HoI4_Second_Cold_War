@@ -1,0 +1,22 @@
+state={
+	id=3382
+	name="STATE_3382"
+
+	history={
+		owner = SLO
+		add_core_of = SLO
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		9539 13267 13864 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

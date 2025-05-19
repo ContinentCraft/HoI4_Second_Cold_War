@@ -7,20 +7,20 @@ state={
 		owner = BOT
 		add_core_of = BOT
 		buildings = {
-			infrastructure = 1
+			infrastructure = 3
 
 		}
 		victory_points = {
-			8214 1 
+			8214 7 
 		}
 
 	}
 
 	provinces={
-		6190 8214 11073 
+		433 6190 8214 11073 
 	}
-	manpower=280000
+	manpower=1080000
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=town
 	local_supplies=0.000
 }

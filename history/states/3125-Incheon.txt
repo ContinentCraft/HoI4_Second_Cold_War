@@ -1,0 +1,25 @@
+state={
+	id=3125
+	name="STATE_3125"
+
+	history={
+		owner = KOR
+		add_core_of = KOR
+		add_claim_by = NOK
+		buildings = {
+			infrastructure = 5
+			dockyard = 1
+			7221 = { naval_base = 10 }
+		}
+		victory_points = { 7221 60 }
+
+	}
+
+	provinces={
+		300 7221 14928 
+	}
+	manpower=5500000
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=0.000
+}

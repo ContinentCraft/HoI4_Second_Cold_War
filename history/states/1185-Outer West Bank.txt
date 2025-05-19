@@ -6,22 +6,20 @@ state={
 	history={
 		owner = ISR
 		add_core_of = ISR
-		add_core_of = PAL
+		add_claim_by = PAL
 		buildings = {
-			infrastructure = 5
+			infrastructure = 4
 
 		}
-		victory_points = {
-			13413 5 
-		}
+		victory_points = { 13413 25 }
 
 	}
 
 	provinces={
 		1718 7707 13413 
 	}
-	manpower=93000
+	manpower=1393000
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=city
 	local_supplies=0.000
 }

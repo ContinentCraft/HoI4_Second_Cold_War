@@ -9,8 +9,9 @@ state={
 	history={
 		owner = MOR
 		add_core_of = MOR
+		add_core_of = RIF
 		victory_points = {
-			12087 1 
+			12087 8 
 		}
 		buildings = {
 			infrastructure = 3
@@ -21,10 +22,10 @@ state={
 	}
 
 	provinces={
-		4199 7215 12087 13304 14009 14010 14011 14012 17971 
+		12087 14010 14011 14012 
 	}
-	manpower=322000
+	manpower=1322000
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=large_town
 	local_supplies=0.000
 }

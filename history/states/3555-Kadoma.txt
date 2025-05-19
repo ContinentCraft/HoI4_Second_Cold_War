@@ -1,0 +1,22 @@
+state={
+	id=3555
+	name="STATE_3555"
+
+	history={
+		owner = ZIM
+		add_core_of = ZIM
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		929 3669 11210 
+	}
+	manpower=1750000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -32,9 +32,9 @@ state={
 	}
 
 	provinces={
-		970 980 3790 6880 6933 
+		3790 6880 6933 
 	}
-	manpower=777895
+	manpower=1277895
 	buildings_max_level_factor=1.000
 	state_category=town
 	local_supplies=0.000

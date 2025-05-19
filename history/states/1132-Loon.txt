@@ -7,16 +7,16 @@ state={
 		owner = BEL
 		add_core_of = BEL
 		buildings = {
-			infrastructure = 3
+			infrastructure = 4
 
 		}
 
 	}
 
 	provinces={
-		9574 11140 11419 13068 14029 
+		9574 11140 13068 14029 
 	}
-	manpower=1100100
+	manpower=1600100
 	buildings_max_level_factor=1.000
 	state_category=town
 	local_supplies=0.000

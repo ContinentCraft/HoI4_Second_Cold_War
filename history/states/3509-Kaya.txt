@@ -1,0 +1,22 @@
+state={
+	id=3509
+	name="STATE_3509"
+
+	history={
+		owner = VOL
+		add_core_of = VOL
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		18142 18143 18147 
+	}
+	manpower=1500000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -9,7 +9,7 @@ state={
 	history={
 		owner = HAI
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 			arms_factory = 1
 			industrial_complex = 2
 			air_base = 1
@@ -20,17 +20,14 @@ state={
 
 		}
 		add_core_of = HAI
-		victory_points = {
-			4641 5 
-		}
-
+		victory_points = { 4641 60 }
 	}
 
 	provinces={
-		1594 1635 4641 17616 17617 17627 17628 17631 17637 17643 
+		4641 17627 17631 
 	}
-	manpower=2380000
+	manpower=5380000
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=city
 	local_supplies=0.000
 }

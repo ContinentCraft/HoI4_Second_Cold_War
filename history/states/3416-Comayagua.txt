@@ -1,0 +1,20 @@
+state={
+	id=3416
+	name="STATE_3416"
+	history={
+		owner = HON
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = HON
+
+	}
+
+	provinces={
+		11812 17586 
+	}
+	manpower=1500000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

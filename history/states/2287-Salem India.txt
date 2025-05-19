@@ -5,6 +5,7 @@ state={
 	history={
 		owner = RAJ
 		add_core_of = RAJ
+		add_core_of = RAS
 		buildings = {
 			infrastructure = 2
 
@@ -13,7 +14,7 @@ state={
 	}
 
 	provinces={
-		8067 10246 10808 16412 
+		8067 1409 10808 16412 
 	}
 	manpower=2000000
 	buildings_max_level_factor=1.000

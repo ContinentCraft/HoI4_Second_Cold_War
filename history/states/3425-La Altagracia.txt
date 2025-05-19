@@ -1,0 +1,22 @@
+
+state={
+	id=3425
+	name="STATE_3425"
+
+	history={
+		owner = DOM
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = DOM
+	}
+
+	provinces={
+		9719 10484 17614 17625 
+	}
+	manpower=2000000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

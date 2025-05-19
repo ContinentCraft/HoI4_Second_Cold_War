@@ -1,0 +1,22 @@
+state={
+	id=3313
+	name="STATE_3313"
+
+	history={
+		owner = GHA
+		add_core_of = GHA
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		13136 18020 18026 18029 18035 18045 
+	}
+	manpower=1800000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

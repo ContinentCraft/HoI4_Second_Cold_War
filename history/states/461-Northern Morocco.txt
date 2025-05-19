@@ -6,12 +6,7 @@ state={
 	history={
 		owner = MOR
 		add_core_of = MOR
-		victory_points = {
-			7069 10 
-		}
-		victory_points = {
-			10070 15 
-		}
+		victory_points = { 7069 80 }
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -26,10 +21,10 @@ state={
 	}
 
 	provinces={
-		989 1079 1111 1194 4084 4097 4139 7069 7100 7116 7173 10013 10023 10070 11943 11987 12042 17944 17946 17947 17949 17950 17953 17954 17955 17958 17959 17960 17962 17963 17964 17965 17966 17969 17970 
+		1079 4084 7069 10023 17947 17953 17954 17959 
 	}
-	manpower=3197719
+	manpower=4197719
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=city
 	local_supplies=0.000
 }

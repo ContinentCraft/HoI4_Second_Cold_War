@@ -1,0 +1,22 @@
+state={
+	id=3410
+	name="STATE_3410"
+
+	history={
+		owner = GUA
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = GUA
+
+	}
+
+	provinces={
+		5470 9881 17587 
+	}
+	manpower=1500000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -1,0 +1,21 @@
+state={
+	id=3482
+	name="STATE_3482"
+
+	history={
+		owner = MAD
+		add_core_of = MAD
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+	provinces={
+		3459 3563 6523 11038 11051 11309 11472 
+	}
+	manpower=2500000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

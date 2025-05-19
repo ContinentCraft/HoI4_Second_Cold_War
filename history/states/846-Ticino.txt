@@ -8,9 +8,7 @@ state={
 
 	history={
 		owner = SWI
-		victory_points = {
-			9600 1 
-		}
+		victory_points = { 9600 3 }
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -21,9 +19,9 @@ state={
 	}
 
 	provinces={
-		658 3641 9600 
+		3641 9600 
 	}
-	manpower=160553
+	manpower=960553
 	buildings_max_level_factor=1.000
 	state_category=town
 	local_supplies=0.000

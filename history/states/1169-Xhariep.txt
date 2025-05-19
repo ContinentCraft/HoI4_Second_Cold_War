@@ -2,7 +2,7 @@ state={
 	id=1169
 	name="STATE_1169"
 	
-	state_category=town
+	state_category=pastoral
 
 	history={
 		owner = SAF

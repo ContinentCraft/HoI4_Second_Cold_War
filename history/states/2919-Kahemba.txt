@@ -1,3 +1,4 @@
+
 state={
 	id=2919
 	name="STATE_2919"
@@ -13,9 +14,9 @@ state={
 	}
 
 	provinces={
-		6595 10025 11245 13760 13762 
+		4015 4911 6595 9327 10025 11245 13760 13762 
 	}
-	manpower=450000
+	manpower=750000
 	buildings_max_level_factor=1.000
 	state_category=rural
 	local_supplies=0.000

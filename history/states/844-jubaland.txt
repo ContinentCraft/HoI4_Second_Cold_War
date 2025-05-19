@@ -6,9 +6,7 @@ state={
 	history={
 		owner = SOM
 		add_core_of = SOM
-		victory_points = {
-			12941 1 
-		}
+		victory_points = { 12941 10 }
 		buildings = {
 			infrastructure = 2
 			12941 = {
@@ -21,10 +19,10 @@ state={
 	}
 
 	provinces={
-		833 9219 9414 11014 12941 
+		833 6138 9219 9414 11014 11083 12941 
 	}
-	manpower=1028895
+	manpower=2028895
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=large_town
 	local_supplies=0.000
 }

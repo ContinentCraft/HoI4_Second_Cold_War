@@ -4,27 +4,10 @@ state={
 	name="STATE_1358"
 
 	history={
-		victory_points = {
-			3775 120 
-		}
-		victory_points = {
-			9667 5 
-		}
-		victory_points = {
-			3763 10 
-		}
-		victory_points = {
-			749 5 
-		}
-		victory_points = {
-			774 5 
-		}
-		victory_points = {
-			722 10 
-		}
+		victory_points = { 3775 120 }
 		owner = CAN
 		buildings = {
-			infrastructure = 8
+			infrastructure = 4
 			industrial_complex = 2
 			arms_factory = 1
 			3775 = {
@@ -46,9 +29,9 @@ state={
 	}
 
 	provinces={
-		722 749 774 779 3763 3775 6607 6610 9667 9711 9743 11672 11695 11725 17506 17515 17517 17523 17526 17528 17535 17536 17537 17538 
+		3775 6607 17537 
 	}
-	manpower=2026061
+	manpower=6026061
 	buildings_max_level_factor=1.000
 	state_category=large_city
 	local_supplies=0.000

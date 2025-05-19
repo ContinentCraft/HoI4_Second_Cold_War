@@ -6,7 +6,7 @@ state={
 	history={
 		owner = SAU
 		buildings = {
-			infrastructure = 2
+			infrastructure = 4
 			2872 = {
 				naval_base = 1
 
@@ -21,8 +21,8 @@ state={
 	provinces={
 		2033 2872 14154 14205 14226 
 	}
-	manpower=310000
+	manpower=510000
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=town
 	local_supplies=0.000
 }

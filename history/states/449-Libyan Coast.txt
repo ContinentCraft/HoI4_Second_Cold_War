@@ -7,7 +7,7 @@ state={
 		owner = LBA
 		add_core_of = LBA
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
 
 		}
 
@@ -16,8 +16,8 @@ state={
 	provinces={
 		1041 10046 12088 
 	}
-	manpower=44431
+	manpower=544431
 	buildings_max_level_factor=1.000
-	state_category=enclave
+	state_category=rural
 	local_supplies=0.000
 }

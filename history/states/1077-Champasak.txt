@@ -15,7 +15,7 @@ state={
 	provinces={
 		1592 
 	}
-	manpower=8000
+	manpower=78000
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=enclave
 }

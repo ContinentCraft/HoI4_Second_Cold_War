@@ -3,19 +3,17 @@ state={
 	id=767
 	name="STATE_767"
 
-	impassable=yes
+	impassable = yes
 
 	history={
 		owner = SUD
 		buildings = {
 			infrastructure = 0
-
 		}
-
 	}
 
 	provinces={
-		4961 7987 8103 
+		8103 
 	}
 	manpower=8143
 	buildings_max_level_factor=1.000

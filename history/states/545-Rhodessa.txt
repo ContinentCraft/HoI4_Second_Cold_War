@@ -7,20 +7,17 @@ state={
 		owner = ZIM
 		add_core_of = ZIM
 		buildings = {
-			infrastructure = 2
-
+			infrastructure = 3
 		}
-		victory_points = {
-			10929 1 
-		}
+		victory_points = { 10929 30 }
 
 	}
 
 	provinces={
-		160 678 929 2216 3107 3493 3534 3655 3669 3846 6533 6986 6996 7842 9505 9734 9870 10929 11033 11628 11819 
+		204 3655 6015 9505 10929 
 	}
-	manpower=1171336
+	manpower=2671336
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=city
 	local_supplies=0.000
 }

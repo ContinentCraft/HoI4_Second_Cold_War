@@ -11,14 +11,14 @@ state={
 			air_base = 8
 
 		}
-		victory_points = {
-			6532 5 
-		}
+		victory_points = { 6532 5 }
+		victory_points = { 546 1 }
+		victory_points = { 9437 1 }
 
 	}
 
 	provinces={
-		238 546 3480 6458 6508 6532 6589 9437 11425 11489 
+		238 546 3480 6458 6508 6532 6589 9437
 	}
 	manpower=1373637
 	buildings_max_level_factor=1.000

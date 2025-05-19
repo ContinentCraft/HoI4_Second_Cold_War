@@ -1,9 +1,9 @@
 state={
     id=1577
     name="STATE_1577"
-    manpower = 10000
+    manpower = 100000
 
-    state_category = rural
+    state_category = pastoral
 
     history={
 		owner = ERI

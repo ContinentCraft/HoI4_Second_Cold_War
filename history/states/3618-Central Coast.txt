@@ -1,0 +1,23 @@
+state={
+	id=3618
+	name="STATE_3618"
+
+	history={
+		buildings = {
+			infrastructure = 4
+
+		}
+		owner = AST
+		add_core_of = AST
+		victory_points = { 17236 7 }
+
+	}
+
+	provinces={
+		1537 17236 
+	}
+	manpower=300000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

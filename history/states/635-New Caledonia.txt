@@ -26,7 +26,7 @@ state={
 	provinces={
 		1263 4231 4268 7264 10160 12132 
 	}
-	manpower=26873
+	manpower=276873
 	buildings_max_level_factor=1.000
-	state_category=small_island
+	state_category=rural
 }

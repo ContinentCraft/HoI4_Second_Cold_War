@@ -6,9 +6,7 @@ state={
 	history={
 		owner = VOL
 		add_core_of = VOL
-		victory_points = {
-			10836 1 
-		}
+		victory_points = { 10836 60 }
 		buildings = {
 			infrastructure = 3
 
@@ -17,10 +15,10 @@ state={
 	}
 
 	provinces={
-		7983 8071 10836 18104 18113 18122 18123 18124 18125 18128 18129 18134 18135 18137 18138 18139 18140 18142 18143 18147 
+		10836 18125 18128 18134 18135 
 	}
-	manpower=2166605
+	manpower=4166605
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=city
 	local_supplies=0.000
 }

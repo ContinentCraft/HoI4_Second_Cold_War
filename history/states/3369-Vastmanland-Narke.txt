@@ -1,0 +1,22 @@
+state={
+	id=3369
+	name="STATE_3369"
+
+	history={
+		owner = SWE
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = SWE
+
+	}
+
+	provinces={
+		35 6084 9185 9209 11044 11188 13097 
+	}
+	manpower=1200000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

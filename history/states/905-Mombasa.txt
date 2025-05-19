@@ -8,15 +8,16 @@ state={
 		add_core_of = KEN
 		buildings = {
 			infrastructure = 2
+
 		}
 
 	}
 
 	provinces={
-		518 578 3304 5196 5210 6020 6225 6254 6367 9384 11192 
+		518 6020 6225 
 	}
 	manpower=1017600
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=rural
 	local_supplies=0.000
 }

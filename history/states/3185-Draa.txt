@@ -1,0 +1,20 @@
+state={
+	id=3185
+	name="STATE_3185"
+
+	history={
+		owner = MOR
+		add_core_of = MOR
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces={
+		1152 4154 7958 17945 
+	}
+	manpower=750000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

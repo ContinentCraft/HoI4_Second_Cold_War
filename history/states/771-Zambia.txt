@@ -10,9 +10,7 @@ state={
 	history={
 		owner = ZAM
 		add_core_of = ZAM
-		victory_points = {
-			5199 1 
-		}
+		victory_points = { 5199 60 }
 		buildings = {
 			infrastructure = 3
 
@@ -21,10 +19,10 @@ state={
 	}
 
 	provinces={
-		120 3104 3117 5199 9156 9184 9223 9399 11071 11392 12504 
+		120 3093 5199 9184 9223 11071 
 	}
-	manpower=440881
+	manpower=3440881
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=city
 	local_supplies=0.000
 }

@@ -4,28 +4,15 @@ state={
 	name="STATE_433"
 
 	history={
-		victory_points = {
-			2054 10 
-		}
-		victory_points = {
-			1908 10 
-		}
-		victory_points = {
-			12876 5 
-		}
-		victory_points = {
-			10847 5 
-		}
-		victory_points = {
-			12886 5 
-		}
+		victory_points = { 2054 80 }
 		owner = RAJ
 		buildings = {
-			infrastructure = 5
+			infrastructure = 4
 			industrial_complex = 2
 
 		}
 		add_core_of = RAJ
+		add_core_of = RJP
 
 	}
 

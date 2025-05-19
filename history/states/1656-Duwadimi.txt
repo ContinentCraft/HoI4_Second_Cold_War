@@ -2,12 +2,12 @@ state={
 	id=1656
 	name="STATE_1656"
 
-	state_category=pastoral
+	state_category=town
 
 	history = {
 		owner = SAU
 		buildings = {
-			infrastructure = 1
+			infrastructure = 4
 		}
 		add_core_of = SAU
 	}
@@ -15,7 +15,7 @@ state={
 	provinces={
 		12870 13503 14161 14206 14222 14238 
 	}
-	manpower=100000
+	manpower=500000
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

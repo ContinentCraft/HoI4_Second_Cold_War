@@ -20,17 +20,15 @@ state={
 
 		}
 		add_core_of = ELS
-		victory_points = {
-			12823 15 
-		}
+		victory_points = { 12823 20 }
 
 	}
 
 	provinces={
 		12823 17583 17585 
 	}
-	manpower=973469
+	manpower=3473469
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=city
 	local_supplies=0.000
 }

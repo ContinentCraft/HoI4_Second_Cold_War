@@ -2,7 +2,7 @@ state={
 	id=1660
 	name="STATE_1660"
 
-	state_category=town
+	state_category=rural
 
 	history = {
 		owner = PER

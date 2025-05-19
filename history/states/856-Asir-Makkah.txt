@@ -8,24 +8,23 @@ state={
 		add_core_of = SAU
 		add_core_of = HEJ
 		buildings = {
-			infrastructure = 1
+			infrastructure = 4
 			12883 = {
-				naval_base = 5
+				naval_base = 7
 
 			}
 
 		}
-		victory_points = {
-			12883 1 
-		}
+		victory_points = { 5037 50 }
+		victory_points = { 14138 13 }
 
 	}
 
 	provinces={
-		5037 12883 14130 14132 14136 14137 14138 14141 14146 
+		5037 14136 14138 14141 
 	}
-	manpower=500000
+	manpower=5000000
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=city
 	local_supplies=0.000
 }

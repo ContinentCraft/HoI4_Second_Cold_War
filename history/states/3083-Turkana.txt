@@ -1,0 +1,22 @@
+state={
+	id=3083
+	name="STATE_3083"
+
+	history={
+		owner = KEN
+		add_core_of = KEN
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		9235 9345 11061 11145 13135 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

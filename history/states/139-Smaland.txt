@@ -1,3 +1,4 @@
+
 state={
 	id=139
 	name="STATE_139"
@@ -25,9 +26,9 @@ state={
 	}
 
 	provinces={
-		211 242 299 3229 6311 9251 9308 9329 9406 9410 11280 11311 11390 13095 
+		211 242 299 3229 9251 9329 9410 11280 11311 
 	}
-	manpower=918593
+	manpower=1418593
 	buildings_max_level_factor=1.000
 	state_category=town
 	local_supplies=11.000

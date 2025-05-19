@@ -1,0 +1,22 @@
+state={
+	id=3414
+	name="STATE_3414"
+
+	history={
+		owner = NIC
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = NIC
+
+	}
+
+	provinces={
+		2075 10728 17578 17582 
+	}
+	manpower=1500000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

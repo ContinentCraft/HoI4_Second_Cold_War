@@ -1,0 +1,20 @@
+state={
+	id=3591
+	name="STATE_3591"
+
+	history={
+		owner = CAR
+		add_core_of = CAR
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		89 6051 
+	}
+	manpower=250000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

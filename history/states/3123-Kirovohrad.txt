@@ -1,0 +1,22 @@
+state={
+	id=3123
+	name="STATE_3123"
+	history={
+		owner = UKR
+		add_core_of = UKR
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = { 3452 4 }
+		victory_points = { 6478 1 }
+	}
+
+	provinces={
+		409 434 3403 3452 3468 6478 
+	}
+	manpower=1200000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -5,7 +5,8 @@ state={
 	history={
 		owner = PAK
 		add_core_of = PAK
-		add_core_of = PUN
+		add_core_of = KHL
+		victory_points = { 8022 45 }
 		buildings = {
 			infrastructure = 3
 

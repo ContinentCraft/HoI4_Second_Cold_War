@@ -1,0 +1,23 @@
+state={
+	id=3191
+	name="STATE_3191"
+
+	history={
+		owner = IRQ
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = { 2089 30 }
+		add_core_of = IRQ
+
+	}
+
+	provinces={
+		2089 
+	}
+	manpower=2500000
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

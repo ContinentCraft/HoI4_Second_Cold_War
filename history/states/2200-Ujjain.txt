@@ -5,15 +5,17 @@ state={
 	history={
 		owner = RAJ
 		add_core_of = RAJ
+		add_core_of = CIP
 		buildings = {
 			infrastructure = 2
 
 		}
+		victory_points = { 12080 12 }
 
 	}
 
 	provinces={
-		4106 16676 16684 
+		12080 16676 16684 
 	}
 	manpower=2000000
 	buildings_max_level_factor=1.000

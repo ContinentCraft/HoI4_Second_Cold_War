@@ -9,30 +9,22 @@ state={
 	history={
 		owner = TUN
 		add_core_of = TUN
-		victory_points = {
-			9994 1 
-		}
-		victory_points = {
-			11921 1 
-		}
+		victory_points = { 11921 12 }
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
 			air_base = 8
-			9994 = {
-				naval_base = 8
-
-			}
+			11921 = { naval_base = 7 }
 
 		}
 
 	}
 
 	provinces={
-		1037 1046 4061 4129 4163 7077 7162 9994 11921 17974 17981 17982 17992 17999 18000 
+		4129 11921 17974 
 	}
-	manpower=1082940
+	manpower=2082940
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=large_town
 	local_supplies=0.000
 }

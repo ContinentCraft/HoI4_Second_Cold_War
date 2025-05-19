@@ -1,0 +1,20 @@
+state={
+	id=3581
+	name="STATE_3581"
+
+	history={
+		owner = LIB
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = LIB
+	}
+
+	provinces={
+		18028 18033 18044 
+	}
+	manpower=1500000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

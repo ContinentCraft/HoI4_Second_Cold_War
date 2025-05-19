@@ -7,14 +7,18 @@ state={
 		owner = CAN
 		add_core_of = CAN
 		add_core_of = QUE
+		buildings = {
+			infrastructure = 2
+
+		}
 
 	}
 
 	provinces={
 		7683 7807 7810 8464 10534 10715 12600 17560 17561 
 	}
-	manpower=110000
+	manpower=50000
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=pastoral
 	local_supplies=0.000
 }

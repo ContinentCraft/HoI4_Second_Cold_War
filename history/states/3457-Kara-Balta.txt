@@ -1,0 +1,22 @@
+state={
+	id=3457
+	name="STATE_3457"
+
+	history={
+		owner = KYR
+		add_core_of = KYR
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		10262 15577 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

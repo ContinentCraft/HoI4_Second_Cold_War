@@ -1,0 +1,22 @@
+state={
+	id=3338
+	name="STATE_3338"
+
+	history={
+		owner = NEP
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = NEP
+
+	}
+
+	provinces={
+		7374 16179 16182 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

@@ -1,0 +1,22 @@
+state={
+	id=3574
+	name="STATE_3574"
+
+	history={
+		owner = TUN
+		add_core_of = TUN
+		victory_points = { 9994 5 }
+		buildings = {
+			infrastructure = 3
+			9994 = { naval_base = 5 }
+		}
+	}
+
+	provinces={
+		4163 9994 17992 17999 18000 
+	}
+	manpower=2000000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -1,0 +1,22 @@
+state={
+	id=3345
+	name="STATE_3345"
+
+	history={
+		owner = BEL
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = BEL
+
+	}
+
+	provinces={
+		3516 9444 11519 
+	}
+	manpower=1500000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -5,7 +5,7 @@ state={
 
 	history={
 		victory_points = {
-			3230 5 
+			3230 2 
 		}
 		owner = POL
 		buildings = {
@@ -17,7 +17,7 @@ state={
 	}
 
 	provinces={
-		548 3230 6259 6321 6401 8748 9290 9316 11385 13355 
+		3230 6259 8748 9290 9316 11385 
 	}
 	manpower=1412100
 	buildings_max_level_factor=1.000

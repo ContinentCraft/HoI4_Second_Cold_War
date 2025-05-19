@@ -1,0 +1,22 @@
+state={
+	id=3599
+	name="STATE_3599"
+
+	history={
+		owner = MRT
+		add_core_of = MRT
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		1962 7943 17876 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

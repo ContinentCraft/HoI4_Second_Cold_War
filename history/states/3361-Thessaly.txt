@@ -1,0 +1,20 @@
+state={
+	id=3361
+	name="STATE_3361"
+
+	history={
+		owner = GRE
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = GRE
+	}
+
+	provinces={
+		976 3864 3973 6930 11786 
+	}
+	manpower=1750000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

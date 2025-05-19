@@ -8,12 +8,7 @@ state={
 
 	history={
 		owner = RAJ
-		victory_points = {
-			8011 10 
-		}
-		victory_points = {
-			4315 10 
-		}
+		victory_points = { 8011 250 }
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
@@ -24,7 +19,7 @@ state={
 	}
 
 	provinces={
-		12734 16428 
+		8011 16428 
 	}
 	manpower=12408920
 	buildings_max_level_factor=1.000

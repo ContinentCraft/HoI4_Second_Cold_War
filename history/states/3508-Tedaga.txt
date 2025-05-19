@@ -1,0 +1,22 @@
+state={
+	id=3508
+	name="STATE_3508"
+
+	history={
+		owner = NGR
+		add_core_of = NGR
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+
+	provinces={
+		1956 6759 9728 
+	}
+	manpower=50000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

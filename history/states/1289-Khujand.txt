@@ -8,17 +8,17 @@ state={
 		add_core_of = TAJ
 		add_core_of = KOK
 		buildings = {
-			infrastructure = 1
+			infrastructure = 3
 
 		}
 
 	}
 
 	provinces={
-		1919 4542 10187 12430 16217 
+		10187 12430 
 	}
-	manpower=40000
+	manpower=2100000
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=large_town
 	local_supplies=0.000
 }

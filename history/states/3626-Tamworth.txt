@@ -1,0 +1,22 @@
+state={
+	id=3626
+	name="STATE_3626"
+
+	history={
+		buildings = {
+			infrastructure = 3
+
+		}
+		owner = AST
+		add_core_of = AST
+
+	}
+
+	provinces={
+		2163 4453 4478 4500 4658 7471 7649 10388 10500 10977 17239 
+	}
+	manpower=250000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

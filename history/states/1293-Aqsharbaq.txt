@@ -2,7 +2,7 @@ state={
 	id=1293
 	name="STATE_1293"
 	
-	state_category = pastoral
+	state_category = enclave
 	
 
 	history={
@@ -15,6 +15,6 @@ state={
 	provinces={
 		12427
 	}
-	manpower=10000
+	manpower=50000
 	buildings_max_level_factor=1.000
 }

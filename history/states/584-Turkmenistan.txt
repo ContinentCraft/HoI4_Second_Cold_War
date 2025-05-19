@@ -7,7 +7,7 @@ state={
 		owner = TMS
 		add_core_of = TMS
 		victory_points = {
-			12333 5 
+			12333 16 
 		}
 		buildings = {
 			infrastructure = 3
@@ -20,8 +20,8 @@ state={
 	provinces={
 		7491 10510 12333 12359 14968 14979 14994 15002 
 	}
-	manpower=150000
+	manpower=1800000
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=large_town
 	local_supplies=0.000
 }

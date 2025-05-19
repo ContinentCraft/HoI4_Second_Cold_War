@@ -19,18 +19,8 @@ state={
 
 		}
 		add_core_of = RAJ
-		victory_points = {
-			10278 15 
-		}
-		victory_points = {
-			7447 10 
-		}
-		victory_points = {
-			1321 5 
-		}
-		victory_points = {
-			12247 10 
-		}
+		add_core_of = RAS
+		victory_points = { 10278 220 }
 
 	}
 

@@ -6,9 +6,7 @@ state={
 	history={
 		owner = QAT
 		add_core_of = QAT
-		victory_points = {
-			8051 30 
-		}
+		victory_points = { 8051 30 }
 		buildings = {
 			infrastructure = 4
 			8051 = {
@@ -23,8 +21,8 @@ state={
 	provinces={
 		8051 14004 14005 14006 14007 
 	}
-	manpower=34300
+	manpower=1734300
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=city
 	local_supplies=0.000
 }

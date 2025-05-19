@@ -1,0 +1,26 @@
+state={
+	id=3677
+	name="STATE_3677"
+
+	history={
+		owner = VIN
+		add_core_of = VIN
+		add_claim_by = MAL
+		add_claim_by = PHI
+		add_claim_by = CHI
+		add_claim_by = PRC
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			12011 = { naval_base = 1 }
+		}
+	}
+
+	provinces={
+		12111 
+	}
+	manpower=500
+	buildings_max_level_factor=1.000
+	state_category=tiny_island
+	local_supplies=0.000
+}

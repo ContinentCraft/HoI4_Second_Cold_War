@@ -1,0 +1,22 @@
+state={
+	id=3322
+	name="STATE_3322"
+
+	history={
+		owner = YEM
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = YEM
+
+	}
+
+	provinces={
+		1920 14088 14090 14095 14096 
+	}
+	manpower=2500000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

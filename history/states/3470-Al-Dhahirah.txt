@@ -1,0 +1,23 @@
+state={
+	id=3470
+	name="STATE_3470"
+
+	history={
+		owner = OMA
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = OMA
+		add_core_of = IMO
+
+	}
+
+	provinces={
+		14123 14142 14152 14163 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

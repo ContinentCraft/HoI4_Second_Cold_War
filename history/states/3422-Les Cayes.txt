@@ -1,0 +1,21 @@
+state={
+	id=3422
+	name="STATE_3422"
+
+	history={
+		owner = HAI
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = HAI
+	}
+
+	provinces={
+		1635 17616 17617 
+	}
+	manpower=1800000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

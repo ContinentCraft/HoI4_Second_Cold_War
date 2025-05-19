@@ -1,0 +1,20 @@
+state={
+	id=3158
+	name="STATE_3158"
+
+	history={
+		owner = SUD
+		add_core_of = SUD
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		13258 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

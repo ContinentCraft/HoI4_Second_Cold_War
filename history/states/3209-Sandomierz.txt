@@ -1,0 +1,22 @@
+state={
+	id=3209
+	name="STATE_3209"
+
+	history={
+		owner = POL
+		add_core_of = POL
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		442 466 6499 6522 9452 9494 11507 13857 13889 
+	}
+	manpower=1500000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

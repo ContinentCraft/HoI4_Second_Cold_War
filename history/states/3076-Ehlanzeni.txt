@@ -1,0 +1,25 @@
+state={
+	id=3076
+	name="STATE_3076"
+
+	history={
+		owner = SAF
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+			10566 3 
+		}
+		add_core_of = SAF
+
+	}
+
+	provinces={
+		3345 9374 10566 11222 
+	}
+	manpower=2000000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

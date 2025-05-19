@@ -2,18 +2,15 @@ state=
 {
 	id=311
 	name="STATE_311"
-	manpower = 28845
+	manpower = 228845
 	
-	state_category = pastoral
+	state_category = rural
 	history={
 		owner = BLZ
 		add_core_of = BLZ
-		add_claim_by = GUA
-		victory_points = {
-			2077 1 
-		}
+		victory_points = { 2077 1 }
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 			2077 = {
 				naval_base = 1
 			}

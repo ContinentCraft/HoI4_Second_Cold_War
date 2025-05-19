@@ -10,7 +10,7 @@ state={
 	history={
 		owner = FIN
 		buildings = {
-			infrastructure = 1
+			infrastructure = 2
 
 		}
 		add_core_of = FIN
@@ -19,7 +19,7 @@ state={
 	}
 
 	provinces={
-		162 3026 3055 3097 3156 3158 6045 6128 11125 11130 11164 11204 13561 
+		162 3026 3055 3097 3156 6045 6128 6142 11130 11204 13561 
 	}
 	manpower=121737
 	buildings_max_level_factor=1.000

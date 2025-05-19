@@ -1,0 +1,22 @@
+state={
+	id=3421
+	name="STATE_3421"
+
+	history={
+		owner = CUB
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = CUB
+
+	}
+
+	provinces={
+		1550 17645 17646 
+	}
+	manpower=1800000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}
